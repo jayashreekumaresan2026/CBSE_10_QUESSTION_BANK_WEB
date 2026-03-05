@@ -1,0 +1,667 @@
+[
+    {
+        "year": 2014,
+        "question_number": 4,
+        "question_text": "Use of calculator is not permitted.\nSECTION \u2013 A",
+        "solution_text": "",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 1,
+        "question_text": "The first three terms of an AP respectively are 3y \u2013 1, 3y +5 and 5y +1. Then y equals\n(A) -3\n(B) 4\n(C) 5\n(D) 2",
+        "solution_text": "The first three terms of an AP are 3y-1, 3y+5 and 5y+1, respectively.\nWe need to find the value of y.\nWe know that if a, b and c are in AP, then:\nb \u2212 a = c \u2212 b \u21d2 2b = a + c\n\u2234 2 (3y+5) = 3y \u2013 1 +5y +1\n\u21d26y +10 = 8y\n\u21d210 = 8y -6y\n\u21d2 2y =10\n\u21d2 y = 5\nHence the correct option is C.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 2,
+        "question_text": "In Fig. 1, QR is a common tangent to the given circles, touching externally at the point T. The tangent at\nT meets QR at P. If PT = 3.8 cm, then the length of QR (in cm) is:\nwww.vedantu.com 1 / 29\nCBSE-X-2014 EXAMINATION\n(A) 3.8\n(B) 7.6\n(C) 5.7\n(D) 1.9",
+        "solution_text": "It is known that the length of the tangents drawn from an external point to a circle is equal.\n\u2234 QP = PT = 3.8 cm ... (1)\nPR = PT = 3.8 cm ... (2)\nFrom equations (1) and (2), we get:\nQP = PR = 3.8 cm\nNow, QR = QP + PR\n= 3.8 cm + 3.8 cm\n= 7.6 cm\nHence, the correct option is B.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 3,
+        "question_text": "In Fig. 2, PQ and PR are two tangents to a circle with centre O. If \u2220QPR = 46\u00b0 , then \u2220QOR equals:\nwww.vedantu.com 2 / 29\nCBSE-X-2014 EXAMINATION\n(A) 67\u00b0\n(B) 134\u00b0\n(C) 44\u00b0\n(D) 46\u00b0",
+        "solution_text": "Given: \u2220QPR = 46\u00b0\nPQ and PR are tangents.\nTherefore, the radius drawn to these tangents will be perpendicular to the tangents.\nSo, we have OQ \u22a5 PQ and OR \u22a5 RP.\n\u21d2 \u2220OQP = \u2220ORP = 90\u00b0\nSo, in quadrilateral PQOR, we have\n\u2220OQP +\u2220QPR + \u2220PRO + \u2220ROQ = 360\u00b0\n\u21d2 90\u00b0 + 46\u00b0 + 90\u00b0 + \u2220ROQ = 360\u00b0\n\u21d2 \u2220ROQ = 360\u00b0\u2212 226\u00b0= 134\u00b0\nHence, the correct option is B.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 5,
+        "question_text": ". If two different dice are rolled together, the probability of getting an even number on both dice, is:\n(A) 1/36\n(B) 1/2\n(C) 1/6\n(D) 1/4",
+        "solution_text": "Possible outcomes on rolling the two dice are given below:\n{(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6),\n(2, 1), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6),\nwww.vedantu.com 4 / 29\nCBSE-X-2014 EXAMINATION\n(3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6),\n(4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6),\n(5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6),\n(6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}\nTotal number of outcomes = 36\nFavourable outcomes are given below:\n{(2, 2), (2, 4), (2, 6), (4, 2), (4, 4), (4, 6), (6, 2), (6, 4), (6, 6)}\nTotal number of favourable outcomes = 9\n\u2234 Probability of getting an even number on both dice =\nTotal number of favourable outcomes 9 1\n\uf03d \uf03d\nTotal number of outcomes 36 4\nHence, the correct option is D.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 6,
+        "question_text": ". A number is selected at random from the numbers 1 to 30. The probability that it is a prime number\n(A) 2/3\n(B) 1/6\n(C) 1/3\n(D) 11/30",
+        "solution_text": "Total number of possible outcomes = 30\nPrime numbers between 1 to 30 are 2, 3, 5, 7, 11, 13, 17, 19, 23 and 29.\nTotal number of favourable outcomes = 10\n\u2234 Probability of selecting a prime number from 1 to 30\nTotal number of favourable outcomes 10 1\n= \uf03d \uf03d\nTotal number of outcomes 30 3\nHence, the correct option is C.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 7,
+        "question_text": "If the points A(x, 2), B (-3,-4) and C (7, -5) are collinear, then the value of x is:\n(A) -63\n(B) 63\n(C) 60\nwww.vedantu.com 5 / 29\nCBSE-X-2014 EXAMINATION\n(D) -60",
+        "solution_text": "It is given that the three points A(x, 2), B(\u22123, \u22124) and C(7, \u22125) are collinear.\n\u2234 Area of \u0394ABC = 0\n1\n\u21d2 [x (y - y ) + x (y - y ) + x (y - y ) ] = 0\n2 1 2 3 2 3 1 3 1 2\nHere, x =x, y =2, x = -3, y = -4, and x = 7, y =-5\n1 1 2 2 3 3\n\u21d2 x[-4 - (-5)] - 3(-5 - 2) + 7[2 -(-4) ] = 0\n\u21d2 x(-4 + 5) - 3(-5 -2) + 7(2 + 4) = 0\n\u21d2 x - 3 \u00d7 (-7) + 7 \u00d7 6 = 0\n\u21d2 x + 21 + 42 = 0 \u21d2 x + 63 = 0\n\u21d2 x = -63\nThus, the value of x is \u2212 63.\nHence, the correct option is A.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 8,
+        "question_text": "The number of solid of solid spheres, each of diameter 6cm that can be made by melting a solid metal\ncylinder of height 45 cm and diameter 4 cm is:\n(A) 3\n(B) 5\n(C) 4\n(D) 6",
+        "solution_text": "Let r and h be the radius and the height of the cylinder, respectively.\nGiven: Diameter of the cylinder = 4 cm\n\u2234 Radius of the cylinder, r = 2 cm\nHeight of the cylinder, h = 45 cm\n2 2 3 3\nVolume of the solid cylinder = \u03c0r h =\u03c0 \u00d7 (2) \u00d7 45 cm = 180\u03c0 cm\nSuppose the radius of each sphere be R cm.\nDiameter of the sphere = 6 cm\n\u2234 Radius of the sphere, R = 3 cm\nwww.vedantu.com 6 / 29\nCBSE-X-2014 EXAMINATION\nLet n be the number of solids formed by melting the solid metallic cylinder.\n\u2234 n \u00d7 Volume of the solid spheres = Volume of the solid cylinder\n4\n\uf0den\uf0b4 \uf070R3 \uf03d180\uf070\n3\n4\n\uf0den\uf0b4 \uf070R3 \uf03d180\uf070 k\n3\n180\uf0b43\n\uf0den\uf03d \uf03d5\n4\uf0b427\nThus, the number of solid spheres that can be formed is 5.\nHence, the correct option is B.\nSECTION-B",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 9,
+        "question_text": "Solve the quadratic equation 2x2+ax \u2013 a2= 0 for x.",
+        "solution_text": "We have: 2x2+ ax \u2013a2= 0\nComparing the given equation with the standard quadratic equation (ax2+ bx + c = 0), we get a =2, b = a\nand c =-a2\n\uf02db\uf0b1 b2\uf02d4ac\nUsing the quadratic formula, we get:\nx\uf03d ,\n2a\n\uf02da\uf0b1 a2\uf02d4\uf0b42\uf0b4(\uf02da)2\nx\uf03d\n2\uf0b42\n\uf02da\uf0b1 9a2\n\uf03d\n4\n\uf02da\uf0b13a\n\uf03d\n4\n\uf02da\uf02b3a a a\uf02d3a\n\uf0dex\uf03d \uf03d or x\uf03d \uf03d\uf02da\n4 2 4\na\nSo, the solutions of the given quadratic equation are\nx\uf03d or x \uf03d\uf02da.\n2",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 10,
+        "question_text": ". The first and the last terms of an AP are 5 and 45 respectively. If the sum of all its terms is 400, Find\nits common difference.",
+        "solution_text": "Let a be the first term and d be the common difference.\nGiven: a = 5\nwww.vedantu.com 7 / 29\nCBSE-X-2014 EXAMINATION\nT \uf03d45\nn\nS \uf03d400\nn\nWe know:\nT \uf03da\uf02b(n\uf02d1)d\nn\n\uf0de45\uf03d5\uf02b(n\uf02d1)d\n\uf0de40\uf03d(n\uf02d1)d ..........(1)\nn\nAndS \uf03d a\uf02bT\nn 2 n\nn\n\uf0de400\uf03d (5\uf02b45)\n2\nn 400\n\uf0de \uf03d\n2 50\n\uf0den\uf03d2\uf0b48\uf03d16\nOn substituting n = 16 in (1), we get:\n40 =(16-1)d\n\u21d2 40 = (15)d\n40 8\n\uf03d\n\u21d2d =\n15 3\nThus, the common difference is 83.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 11,
+        "question_text": ". Prove that the line segment joining the point of contact of two parallel tangles of a circle passes\nthrough its centre.",
+        "solution_text": "Let XBY and PCQ be two parallel tangents to a circle with centre O.\nConstruction: Join OB and OC.\nNow, XB ||AO\nwww.vedantu.com 8 / 29\nCBSE-X-2014 EXAMINATION\n\u21d2 \u2220XBO +\u2220AOB = 180\u00b0 (sum of adjacent interior angles is 180\u00b0)\nNow, \u2220XBO = 90\u00b0 (A tangent to a circle is perpendicular to the radius through the point of contact)\n\u21d290\u00b0 +\u2220AOB =180\u00b0\n\u21d2\u2220AOB = 180\u00b0 - 90\u00b0 =180\u00b0\nSimilarly , \u2220AOC = 90\u2070\n\u2220AOB + \u2220AOC = 90\u2070 + 90\u2070= 180\u00b0\nHence, BOC is a straight line passing through O.\nThus, the line segment joining the points of contact of two parallel tangents of a circle passes through its\ncentre.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 12,
+        "question_text": "If from an external point P of a circle with centre O, two tangents PQ and PR are drawn such that\n\u2220QPR = 120\u00b0 , prove that 2PQ = PO.",
+        "solution_text": "Let us draw the circle with extent point P and two tangents PQ and PR.\nWe know that the radius is perpendicular to the tangent at the point of contact.\n\u2234\u2220OQP = 90\u00b0\nWe also know that the tangents drawn to a circle from an external point are equally inclined to the joining\nthe centre to that point.\n\u2234\u2220QPO = 60\u00b0\nNow, in \u0394QPO:\nPQ\nCos 60\u00b0=\nPO\nwww.vedantu.com 9 / 29\nCBSE-X-2014 EXAMINATION\n1 PQ\n\u21d2 \uf03d\n2 PO\n\u21d22PQ = PO",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 13,
+        "question_text": "Rahim tosses two different coins simultaneously. Find the probability of getting at least one tail.",
+        "solution_text": "Rahim tosses two coins simultaneously. The sample space of the experiment is {HH, HT, TH, and TT}.\nTotal number of outcomes = 4\nOutcomes in favour of getting at least one tail on tossing the two coins = {HT, TH, TT}\nNumber of outcomes in favour of getting at least one tail = 3\n\u2234 Probability of getting at least one tail on tossing the two coins\nNumber of favourable outcomes 3\n\uf03d \uf03d\nTotal number of outcomes 4",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 14,
+        "question_text": "In fig. 3, a square OABC is inscribed in a quadrant OPBQ of a circle. If OA = 20 cm, find the area of the\nshaded region (Use \u03c0= 3.14)\nLet us join OB.\nwww.vedantu.com 10 / 29\nCBSE-X-2014 EXAMINATION\nIn \u0394OAB: OB2= OA2+AB2= (20)2+ (20)2= 2 \u00d7 (20) 2\n\uf0deOB\uf03d20 2\nRadius of the circle,\nr \uf03d20 2cm\n\uf071\nArea of quadrant OPBQ \uf03d \uf0b4\uf070r2\n360\uf0b0\n90\uf0b0\n\uf03d \uf0b43.14\uf0b4(20 2)2cm2\n360\uf0b0\n1\n\uf03d \uf0b43.14\uf0b4800cm2\n4\n\uf03d628cm2\nArea of square OABC = (Side)2= (20)2cm2= 400 cm2\n\u2234 Area of the shaded region = Area of quadrant OPBQ \u2013 Area of square OABC\n= (628 - 400) cm\n\uf03d228cm2\nSECTION-C\n4 5",
+        "solution_text": "",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 15,
+        "question_text": "Solve the equation \uf02d3\uf03d ;x\uf0b90,\uf02d3/2,forx.\nx 2x\uf02b3'",
+        "solution_text": "Given equation:\n4 5 3\n\uf02d3\uf03d ;x\uf0b9\uf030\uf02c\uf02d\nx 2x\uf02b3 2\n4 5\n\uf02d3\uf03d\nx 2x\uf02b3\n4\uf02d3x 5\n\uf0de \uf03d\nx 2x\uf02b3\n\uf0de(4\uf02d3x)(2x\uf02b3)\uf03d5x\n\u21d2-6x2+8x-9x+12 =5x\n\u21d26x2+6x -12 =0\n\u21d2 x2+x -2 =0\n\u21d2 x2+2x \u2013x-2 =0\n\u21d2(x+2) (x-1) =0\n\u21d2(x+2) =0 (x\u20131)=0\nwww.vedantu.com 11 / 29\nCBSE-X-2014 EXAMINATION\n\u21d2 x = -2 or x = 1\nThus, the solution of the given equation is -2 or 1.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 16,
+        "question_text": ". If the seventh term of an AP is 1/9 and its ninth term is 1/7, find its 63rd term.",
+        "solution_text": "Let a be the first term and d be the common difference of the given A.P.\nGiven:\n1\na \uf03d\n7 9\n1\na \uf03d\n9 7\n1\na7\uf03da\uf02b(7\uf02d1)d \uf03d\n9\n1\n\uf0dea\uf02b6d\uf03d ................(1)\n9\n1\na \uf03da\uf02b(9\uf02d1)d\uf03d\n9 7\n1\n\uf0dea\uf02b8d\uf03d .................(2)\n7\nSubtracting equation (1) from (2), we get:\n2\n2d \uf03d\n63\n1\n\uf0ded \uf03d\n63\n1\nPutting d \uf03d in equation (1), we get:\n63\n\uf0e6 1 \uf0f6 1\na\uf02b \uf0e76\uf0b4\n\uf0f7\n\uf03d\n\uf0e8 63\uf0f8 9\n1\n\uf0dea\uf03d\n63\n1 \uf0e6 1 \uf0f6 63\n\uf05ca \uf03da\uf02b(63\uf02d1)d\uf03d \uf02b62\uf0e7\n\uf0f7\n\uf03d \uf03d1\n63 63 \uf0e863\uf0f8 63\nThus, the 63rd term of the given A.P. is 1.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 17,
+        "question_text": ". Draw a right triangle ABC is which AB = 6 cm, BC = 8 cm and \u2220B = 90\u00b0. Draw BD perpendicular from B\non AC and draw a circle passing through the points B, C and D. Construct tangents from A to this circle.\nwww.vedantu.com 12 / 29\nCBSE-X-2014 EXAMINATION",
+        "solution_text": "Follow the given steps to construct the figure.\nStep 1\nDraw a line BC of 8 cm length.\nStep 2\nDraw BX perpendicular to BC.\nStep 3\nMark an arc at the distance of 6 cm on BX. Mark it as A.\nStep 4\nJoin A and C. Thus, \u0394ABC is the required triangle.\nStep 5\nWith B as the centre, draw an arc on AC.\nStep 6\nDraw the bisector of this arc and join it with B. Thus, BD is perpendicular to AC.\nStep 7\nNow, draw the perpendicular bisector of BD and CD. Take the point of intersection as O.\nStep 8\nWith O as the centre and OB as the radius, draw a circle passing through points B, C and D.\nStep 9\nJoin A and O and bisect it Let P be the midpoint of AO.\nStep 10\nTaking P as the centre and PO as its radius, draw a circle which will intersect the circle at point B and G.\nJoin A and G.\nHere, AB and AG are the required tangents to the circle from A.\nwww.vedantu.com 13 / 29\nCBSE-X-2014 EXAMINATION",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 18,
+        "question_text": ". If the point A (0,2) is equidistant from the points B(3, p) and C(p, 5), find P. Also find the the length of\nAB.",
+        "solution_text": "The given points are A (0, 2), B (3, p) and C (p, 5).\nIt is given that A is equidistant from B and C.\n\u2234 AB = AC\n\u21d2 AB2= AC2\n\u21d2 (3-0)2+ (p-2)2= (p-0)2+ (5-2)2\n\u21d2 9 + p2+ 4- 4p = p2 +9\n\u21d2 4 - 4p =0\n\u21d2 4p =4\n\u21d2 p =1\nThus, the value of p is 1\nLength of AB \uf03d (3\uf02d0)2\uf02b(1\uf02d2)2 \uf03d 32\uf02b(\uf02d1)2 \uf03d 9\uf02b1\uf03d 10units.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 19,
+        "question_text": ". Two ships are there in the sea on either side of a light house in such a way that the ships and the light\nhouse are in the same straight line. The angles of depression of two ships as observed from the top of the\nlight house are 60\u00b0 and 45\u00b0. If the height of the light house is 200 m, find the distance between the two\nships. [Use 3\uf03d1.73]\nwww.vedantu.com 14 / 29\nCBSE-X-2014 EXAMINATION",
+        "solution_text": "Let d be the distance between the two ships. Suppose the distance of one of the ships from the light house\nis X meters, then the distance of the other ship from the light house is (d-x) meter.\nIn right \u2013angled \u0394ADO, we have.\nOD 200\ntan45\uf0b0\uf03d \uf03d\nAD X\n200\n\uf0de1\uf03d\nX\n\uf0de X \uf03d200 ............(1)\nIn right-angled \u0394 BDO, we have\nOD 200\ntan60\uf0b0\uf03d \uf03d\nBD d\uf03dx\n200\n\uf0de 3\uf03d\nd\uf02dx\n200\n\uf0ded\uf02dx\uf03d\n3\nPutting x=200. We have:\n200\nd\uf02d200\uf03d\n3\n200\nd \uf03d \uf02b200\n3\n\uf0e6 3\uf02b1\uf0f6\n\uf0ded \uf03d200\uf0e7 \uf0f7\n\uf0e8 3 \uf0f8\n\uf0ded \uf03d200\uf0b41.58\n\uf0ded \uf03d316 (approx.)\nThus, the distance between two ships is approximately 316 m.\nwww.vedantu.com 15 / 29\nCBSE-X-2014 EXAMINATION",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 20,
+        "question_text": "If the points A(-2. 1), B (a, b) and C (4, -1) are collinear and a-b = 1, find the values of a and b.",
+        "solution_text": "The given points are A (-2, 1), B (a, b) and C (4-1).\nSince the given points are collinear, the area of the triangle ABC is 0.\n1\n\uf0de \uf05bx (y \uf02dy )\uf02bx (y \uf02dy )\uf02bx3(y \uf02dy )\uf05d\uf03d0\n2 1 2 3 2 3 1 1 2\nHere, x =-2,y =1,x =a, y =b and x =4, y =-1\n1 1 2 2 3 3\n1\n\uf05c \uf05b\uf02d2(b\uf02b1)\uf02ba(\uf02d1\uf02d1)\uf02b4(1\uf02db)\uf05d\uf03d0\n2\n\uf0de\uf02d2b\uf02d2\uf02d2a\uf02b4\uf02d4b\uf03d0\n\uf0de2a\uf02b6b\uf03d2\n\uf0dea\uf02b3b\uf03d1 .............(1)\nGiven :\na-b= 1 \u2026\u2026\u2026(2)\nSubtracting equation (1) from (2) we get:\n4b =0\n\u21d2b=0\nSubtracting b= 0 in (2), we get:\na= 1\nThus, the values of a and b are 1 and 0, respectively.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 21,
+        "question_text": "In Fig 4, a circle is inscribed in an equilateral triangle ABC of side 12 cm. Find the radius of inscribed\ncircle and the area of the shaded region. [Use \u03c0 =3.14 and 3\uf03d1.73]",
+        "solution_text": "It is given that ABC is an equilateral triangle of side 12 cm.\nConstruction:\nwww.vedantu.com 16 / 29\nCBSE-X-2014 EXAMINATION\nJoin OA, OB and OC.\nDraw.\nOP \u22a5 BC\nOQ \u22a5 AC\nOR \u22a5 AB\nLet the radius of the circle be r cm.\nArea of \u0394AOB +Area of \u0394BOC + Area of \u0394AOC = Area of \u0394ABC\n1 1 1 3\n\uf0de \uf0b4AB\uf0b4OR\uf02b \uf0b4BC\uf0b4OP\uf02b \uf0b4AC\uf0b4OQ\uf03d \uf0b4(Side)2\n2 2 2 4\n1 1 1 3\n\uf0de \uf0b412\uf0b4r\uf02b \uf0b412\uf0b4r\uf02b \uf0b412\uf0b4r \uf03d \uf0b4(12)2\n2 2 2 4\n1 3\n\uf0de3\uf0b4 \uf0b412\uf0b4r \uf03d \uf0b412\uf0b412\n2 4\n\uf0der \uf03d2 3\uf03d2\uf0b41.73\uf03d3.46\nTherefore the radius of the inscribed circle is 3.46 cm.\nNow, area of the shaded region = Area of \u0394ABC \u2013 Area of the inscribed circle\n\uf0e9 3 \uf0f9\n\uf03d\uf0ea \uf0b4(12)2\uf02d\uf070(2 3)2 \uf0facm2\n4\n\uf0eb \uf0fb\n\uf03d\uf0e936 3\uf02d12\uf070\uf0f9cm2\n\uf0eb \uf0fb\n2\n= [36 \u00d71.73 \u2013 12 \u00d7 3.14] cm\n= [62.28 \u2013 37.68] cm2\n= 24.6 cm2\nTherefore, the area of the shaded region is 24.6 cm2.\nwww.vedantu.com 17 / 29\nCBSE-X-2014 EXAMINATION",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 22,
+        "question_text": ". In Fig.5. PSR, RTQ and PAQ are three semicircles of diameters 10cm, 3cm and 7 cm respectively. Find\nthe perimeter of the shaded region. [Use \u03c0 = 3.14]",
+        "solution_text": "1\nRadius of Semicircle PSR = \u00d7 10 cm =5 cm\n2\n1\nRadius of Semicircle RTQ = \u00d7 3 = 1.5 cm\n2\n1\nRadius of semicircle PAQ = \u00d77 cm = 3.5 cm\n2\nPerimeter of the shaded region = Circumference of semicircle PSR + Circumference of semicircle RTQ +\nCircumference of semicircle PAQ\n\uf0e91 1 1 \uf0f9\n\uf03d \uf0b42\uf070(5)\uf02b \uf0b42\uf070(1.5)\uf02b \uf0b42\uf070(3.5) cm\n\uf0ea \uf0fa\n\uf0eb2 2 2 \uf0fb\n\uf03d\uf070(5\uf02b1.5\uf02b3.5)cm\n\uf03d3.14\uf0b410cm\n\uf03d31.4cm",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 23,
+        "question_text": "A farmer connects a pipe of internal diameter 20 cm from a canal into a cylindrical tank which is 10 m\nin diameter and 2 m deep? If the water flows through the pipe at the rate of 4 km per hour, in how much\ntime will the tank be filled completely?",
+        "solution_text": "For the given tank.\nDiameter = 10 m\nRadius, R = 5m\nDepth, H =2m\n20 1\nInternal radius of the pipe = r = cm =10 cm = m\n2 10\nRate of flow of water = v = 4 km/h = 4000 m/h\nwww.vedantu.com 18 / 29\nCBSE-X-2014 EXAMINATION\nLet t be the time taken to fill the tank.\nSo, the water flown through the pipe in t hours will equal to the volume of the tank\n\uf05c\uf070r2\uf0b4v\uf0b4t \uf03d\uf050R2H\n2\n\uf0de\n\uf0e6\n\uf0e7\n1 \uf0f6\n\uf0f7\n\uf0b44000\uf0b4t \uf03d(5)2\uf0b42\n\uf0e810\uf0f8\n25\uf0b42\uf0b4100 1\n\uf0det \uf03d \uf03d1\n4000 4\n1\nHence, the time taken is 1 hours.\n4",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 24,
+        "question_text": ". A solid metallic right circular cone 20 cm high and whose vertical angle is 60\u00b0, is cut into two parts at\nthe middle of its height by a plane parallel to its base. If the frustum so obtained be drawn into a wire of\n1\ndiameter cm, find the length of the wire.\n12",
+        "solution_text": "Let ACB be the cone whose vertical angle \u2220ACB = 60\u00b0. Let R and x be the radii of the lower and upper end\nof the frustum.\nHere, height of the cone, OC = 20 cm = H\nHeight CP = h = 10 cm\nLet us consider P as the mid-Point of OC.\nAfter cutting the cone into two parts through P.\n20\nOP = = 10 cm\n2\n1\nAlso, \u2220ACO and \u2220OCB = \u00d7 60\u00b0 = 30\u00b0\n2\nwww.vedantu.com 19 / 29\nCBSE-X-2014 EXAMINATION\nAfter cutting cone CQS from cone CBA, the remaining solid obtained is a frustum.\nNow, in triangle CPQ:\nx\ntan30\uf0b0\uf03d\n10\n1 x\n\uf0de \uf03d\n3 10\n10\n\uf0dex\uf03d cm\n3\nIn triangle COB:\nR\nTan30\uf0b0\uf03d\nCO\n1 R\n\uf0de \uf03d\n3 20\n20\n\uf0de R \uf03d cm\n3\n1\nVolume of the frustum, V \uf03d \uf070(R2H \uf02dx2h)\n3\n\uf0e6 2 2 \uf0f6\n1 \uf0e6 20 \uf0f6 \uf0e6 10 \uf0f6\n\uf0deV \uf03d \uf070\uf0e7 \uf0d720\uf02d \uf0d710\uf0f7\n\uf0e7 \uf0f7 \uf0e7 \uf0f7\n3 \uf0e7 \uf0e8 3\uf0f8 \uf0e8 3\uf0f8 \uf0f7\n\uf0e8 \uf0f8\n1 \uf0e68000 1000\uf0f6\n\uf03d \uf070 \uf02d\n\uf0e7 \uf0f7\n3 \uf0e8 3 3 \uf0f8\n1 \uf0e67000\uf0f6\n\uf03d \uf070\n\uf0e7 \uf0f7\n3 \uf0e8 3 \uf0f8\n1\n\uf03d \uf070\uf0b47000\n9\n7000\n\uf03d \uf070\n9\nThe volumes of the frustum and the wire formed are equal.\n2\n\uf0e6 1 \uf0f6 7000\n\uf070\uf0b4\n\uf0e7 \uf0f7\n\uf0b4l \uf03d \uf0b4[Volumeof wire\uf03d\uf070r2h]\n\uf0e824\uf0f8 9\n7000\n\uf0del \uf03d \uf0b424\uf0b424\n9\n\uf0del \uf03d448000cm\uf03d4480m\nHence, the length of the wire is 4480 m.\nwww.vedantu.com 20 / 29\nCBSE-X-2014 EXAMINATION\nSECTION \u2013D",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 25,
+        "question_text": ". The difference of two natural number is 5 and the difference of their reciprocals is 110. Find the\nnumbers.",
+        "solution_text": "Let the two natural numbers be X and Y such that x > y.\nGiven:\nDifference between the natural numbers = 5\n\u2234 X - Y =5 \u2026..(1)\n1\nDifference of their reciprocals \uf03d (given)\n10\n1 1 1\n\uf02d \uf03d\ny x 10\nx\uf02dy 1\n\uf0de \uf03d\nxy 10\n5 1\n\uf0de \uf03d\nxy 10\n\uf0dexy\uf03d50 ..............(ii)\nPutting the value of x from equation (i) in equation (ii), we get\n(y+5) y =50\n\u21d2 y2+5y - 50 = 0\n\u21d2 y2+ 10y -5y - 50 = 0\n\u21d2 y (y+10) \u2013 5 (y+10) = 0\n\u21d2 (y -5) (y + 10) = 0\n\u21d2 y = 5 or -10\nAs y is a natural number, therefore y = 5\nOther natural number = y + 5 = 5 + 5 = 10\nThus, the two natural numbers are 5 and 10.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 26,
+        "question_text": ". Prove that the length of the tangents drawn from an external point to a circle are equal.",
+        "solution_text": "Let AP and BP be the two tangents to the circle with centre O.\nwww.vedantu.com 21 / 29\nCBSE-X-2014 EXAMINATION\nTo Prove : AP = BP\nProof:\nIn \u0394AOP and \u0394BOP\nOA =OB (radii of the same circle)\n\u2220OAP = \u2220OBP = 90\u00b0 (since tangent at any point of a circle is perpendicular to the radius through the point\nof contact)\nOP = OP (common)\n\u2234 \u0394AOP \u2245 \u0394 OBP (by R.H.S. congruence criterion)\n\u2234 AP = BP (corresponding parts of congruent triangles)\nHence the length of the tangents drawn from an external point to a circle are equal.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 27,
+        "question_text": ". The angles of elevation and depression of the top and the bottom of a tower from the top Of a\nbuilding, 60 m high, are 30\u00b0 and 60\u00b0 respectively. Find the difference between the heights of the building\nand the tower and the distance between them.",
+        "solution_text": "Let AB be the building and CD be the tower.\nIn right \u0394ABD.\nwww.vedantu.com 22 / 29\nCBSE-X-2014 EXAMINATION\nAB\n\uf03dtan60\uf0b0\nBD\n60\n\uf0de \uf03d 3\nBD\n60\n\uf0deBD\uf03d\n3\n\uf0deBD\uf03d20 3\nIn right \u0394ACE:\nCE\n\uf03dtan30\uf0b0\nAE\nCE 1\n\uf0de \uf03d (\uf05cAE \uf03dBD)\nBD 3\n20 3\n\uf0deCE \uf03d \uf03d20\n3\nHeight of the tower = CE + ED = CE + AB = 20 m + 60 m = 80 m\nDifference between the heights of the tower and the building = 80 m \u2013 60m = 20 m\nDistance between the tower and the building = BD = 20 3 m.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 28,
+        "question_text": ". A bag contains cards numbers from 1 to 49. A card is drawn from the bag at random, after mixing the\ncards thoroughly. Find the probability that the number on the drawn card is:\n(1) An odd number\n(2) A multiple of 5\n(3) A perfect Square\n(4) An even prime number.",
+        "solution_text": "Total number of cards = 49\n(1)\nTotal number of outcomes = 49\nThe odd numbers form 1 to 49 are 1, 3,5,7,9,11,13,15,17, 19,21, 23, 2527,29,31,33,35, 37, 39, 41, 43, 45,\n47 and 49.\nTotal number of favourable outcomes = 25\nTotal number of favourable outcomes 25\n\u2234 Required probability \uf03d \uf03d\nTotal number of outcomes 49\nwww.vedantu.com 23 / 29\nCBSE-X-2014 EXAMINATION\n(ii) Total number of outcomes = 49\nThe number 5,10,15,20,25,30,35,40 and 45 multiples of 5.\nThe number of favourable outcomes = 9\nTotal number of favourable outcomes 9\n\u2234 Required probability \uf03d \uf03d\nTotal number of outcomes 49\n(iii) Total number of outcomes = 49\nThe number 1, 4, 9, 16, 25, 36 and 49 are perfect squares.\nTotal number of favourable outcomes = 7\nTotal number of favourable outcomes 7 1\n\u2234 Required probability \uf03d \uf03d \uf03d\nTotal number of outcomes 49 7\n(iv)\nTotal number of outcomes = 49\nWe know that there is only one even prime number which is 2\nTotal number of favourable outcomes = 1\nTotal number of favourable outcomes 1\n\u2234 Required probability \uf03d \uf03d\nTotal number of outcomes 49",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 29,
+        "question_text": ". Find the ratio in which the point P (X, 2) divides the line segment joining the points A (12, 5)and B (4, -\n3). Also find the value of X",
+        "solution_text": "Let the Point P (x, 2) divide the line segment joining the points A (12, 5) and B (4, -3) in the ratio k: 1\n\uf0e64k\uf02b12 \uf02d3k\uf02b5\uf0f6\nThen, the coordinates of P are \uf0e7 , \uf0f7\n\uf0e8 k\uf02b1 k\uf02b1 \uf0f8\nNow, the coordinates of P are (x,2)\n4k\uf02b12 \uf02d3k\uf02b5\n\uf05c \uf03dxand \uf03d2\nk\uf02b1 k\uf02b1\n\uf02d3k\uf02b5\n\uf03d2\nk\uf02b1\n\uf0de\uf02d3k\uf02b5\uf03d2k\uf02b2\n\uf0de5k\uf03d3\n3\n\uf0dek\uf03d\n5\n3 4k\uf02b12\nSubstituting k\uf03d in \uf03dx,weget\n5 k\uf02b1\nwww.vedantu.com 24 / 29\nCBSE-X-2014 EXAMINATION\n3\n4\uf0b4 \uf02b12\n5\nx\uf03d\n3\n\uf02b1\n5\n12\uf02b60\n\uf0dex\uf03d\n3\uf02b5\n72\n\uf0dex\uf03d\n8\n\uf0dex\uf03d9\nThus, the value of x is 9\n3\nAlso, the point P divides the line segment joining the points A (12, 5) and (4, -3 ) in the ratio :1, i.e. 3:5.\n5",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 30,
+        "question_text": ". Find the values of k for which the quadratic equation (k + 4) x2+ (k + 1)x + 1 = 0 has equal roots. Also\nfind these roots.",
+        "solution_text": "Given quadratic equation:\n(k + 4)x2+ (k + 1)x + 1=0\nSince the given quadratic equation has equal roots, Its discriminant should be zero.\n\u2234 D = 0\n\u21d2(k+1)2- 4 \u00d7 (k+4) \u00d7 1 = 0\n\u21d2k2+2k+1- 4k - 16=0\n\u21d2k2- 2k -15 =0\n\u21d2k2- 5k+ 3k -15 = 0\n\u21d2(k-5) (k+3) =0\n\u21d2k-5 =0 or k+3 =0\n\u21d2k = 5 or -3\nThus, the values of k are 5 and -3\nFor k = 5 (k+4)x2+(k+1)x +1= 0\n\u21d29x2+6x +1 = 0\n\u21d2(3x)2+2(3x) +1 =0\n\u21d2(3x +1)2=0\nwww.vedantu.com 25 / 29\nCBSE-X-2014 EXAMINATION\n1 1\n\uf0dex\uf03d\uf02d ,\uf02d\n3 3\nFor k = -3 (k +4)x2+(k+1)x + 1 = 0\n\u21d2x2\u2013 2x +1 =0\n\u21d2(x - 1)2= 0\n\u21d2 x = 1, 1\n1\nThus, the equal root of the given quadratic equation is either 1 or \uf02d\n3",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 31,
+        "question_text": ". In an AP of 50 terms, the sum of first 10 terms is 210 and the sum of its last 15 terms is 2565. Find the\nA.P.",
+        "solution_text": "Let a and d be the first term and the common difference of an A. P. respectively.\nnth term of an A. P, a = a + ( n -1 )d\nn\nn\nSum of n terms of an A. P , S \uf03d [2a\uf02b\uf028n\uf02d1\uf029d]\nn 2\nWe have:\n10\nSum of the first 10 terms = [2a\uf02b9d]\n2\n\uf0de210 = 5[2a+9d ]\n\u21d2 42 = 2a+9d \u2026\u2026\u2026. (1)\n15th term from the last = ( 50\u221215 + 1)th= 36th term from the beginning\nNow, a = a + 35d\n36\n15\n\u2234 Sum of the last 15 terms = (2a \uf02b(15\uf02d1)d)\n2 36\n15\n\uf03d [2(a\uf02b35d)\uf02b14d]\n2\n\uf03d15[a\uf02b35d\uf02b7d]\n\u21d22565 = 15[a+42d]\n\u21d2 171= a+42d \u2026\u2026\u2026\u2026.(2)\nFrom (1) and (2), we get,\nd = 4\nwww.vedantu.com 26 / 29\nCBSE-X-2014 EXAMINATION\na = 3\nSo, the A. P. formed is 3, 7, 11, 15 \u2026. and 199.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 32,
+        "question_text": ". Prove that a parallelogram circumscribing a circle is a rhombus.",
+        "solution_text": "Given ABCD be a parallelogram circumscribing a circle with centre O.\nTo Prove: ABCD is a rhombus.\nWe know that the tangents drawn to a circle from an exterior point are equal is length.\n\u2234 AP = AS, BP = BQ, CR =CQ AND DR = DS.\nAP +BP +CR +DR = AS +BQ +CQ +DS\n(AP +BP) + (CR+DR) = (AS+DS) +BQ +CQ)\n\u2234AB +CD =AD +BC OR 2AB = 2BC (since AB =DC and AD = BC)\n\u2234 AB = BC = DC =AD\nTherefore, ABCD is a rhombus.",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 33,
+        "question_text": ". Sushant has a vessel, of the form of an inverted cone, open at the top, of height 11 cm and Radius of\ntop as 2.5 cm and is full of water. Metallic spherical balls each of diameter 0.5 cm are put In the vessel due\n2\nto which th of the water in the vessel flows out. Find how many balls were put in the vessel. Sushant\n5\nmade the arrangement so that the water that flows out irrigates the Flower beds. What value has been\nshown by Sushant?",
+        "solution_text": "www.vedantu.com 27 / 29\nCBSE-X-2014 EXAMINATION\nHeight (h) of the conical vessel = 11 cm\nRadius (r ) of the conical Vessel = 2.5 cm\n1",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2014,
+        "question_number": 34,
+        "question_text": ". From a solid cylinder of height 2.8 cm and diameter 4.2 cm. a conical cavity of the same height and\nsame diameter is hollowed out. Find the total surface area of the remaining solid. [Take \u03c0=22/7]",
+        "solution_text": "The following figure shows the required cylinder and the conical cavity.\nwww.vedantu.com 28 / 29\nCBSE-X-2014 EXAMINATION\nGiven Height (b) of the conical Part = Height (h) of the cylindrical part = 2.8 cm\nDiameter of the cylindrical part = Diameter of the conical part = 4.2 cm\n\u2234 Radius \uf0ae of the cylindrical part = Radius \uf0ae of the conical part = 2.1 cm\nSlant height (l) of the conical part \uf03d r2\uf02bh2\n\uf03d (2.1)2\uf02b(2.8)2cm\n\uf03d 4.41\uf02b7.81cm\n\uf03d 12.25cm\n\uf03d3.5cm\nTotal surface area of the remaining solid = Curved surface area of the cylindrical part +Curved surface area\nof the conical part + Area of the cylindrical base\n\uf03d2\uf070rh\uf02b\uf070rl\uf02b\uf070r2\n\uf0e6 22 22 22 \uf0f6\n\uf03d \uf0e72\uf0b4 \uf0b42.1\uf0b42.8\uf02b \uf0b42.1\uf0b43.5\uf02b \uf0b42.1\uf0b42.1\uf0f7cm2\n\uf0e8 7 7 7 \uf0f8\n= (36.96 + 23.1 + 13.86) cm2\n=73.92 cm2\nThus, the total surface area of the remaining solid is 73.92 cm2\nwww.vedantu.com 29 / 29",
+        "source_file": "Previous Year Maths Question Paper for CBSE Class 10 - 2014.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 1,
+        "question_text": "If the quadratic equation px2 - 2 5px + 15 = 0 has two equal roots then find the value of p.",
+        "solution_text": "Given quadratic equation is,\npx2\uf02d2 5px\uf02b15\uf03d0\nHere, a = p, b = 2 5p, c= 15\nFor real equal roots, discriminant = 0\n\uf05cb2\uf02d4ac\uf03d0\n\uf028 \uf0292\n\uf05c 2 5p \uf02d4p(15)\uf03d0\n\uf05c20p2\uf02d60p\uf03d0\n\uf05c20 p(p\uf02d3) \uf03d 0\n\uf05cp\uf03d3 or p\uf03d0\nBut, p = 0 is not possible.\n\u2234 p = 3",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 2,
+        "question_text": "In the following figure, a tower AB is 20 m high and BC, its shadow on the ground, is 20 3m long. Find\nthe Sun\u2019s altitude.\nwww.vedantu.com 1 / 23\nCBSE-X-2015 EXAMINATION",
+        "solution_text": "Let AB be the tower and BC be its shadow.\nAB = 20, BC = 20 3\nIn \uf044ABC,\nAB\ntan\uf071\uf03d\nBC\n20\ntan\uf071\uf03d\n20 3\n1\ntan\uf071\uf03d\n3\n1\nbut,tan\uf071\uf03d\n3\n\uf05c\uf071\uf03d30\nThe Sun is at an altitude of 30\uf0b0.",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 3,
+        "question_text": "Two different dice are tossed together. Find the probability that the product of the two numbers on the\ntop of the dice is 6.",
+        "solution_text": "Two dice are tossed\nS = [(1,1),(1,2),(1,3),(1,4),(1,5),(1,6),\n(2,1),(2,2),(2,3),(2,4),(2,5),(2,6),\n(3,1),(3,2),(3,3),(3,4),(3,5),(3,6),\n(4,1),(4,2),(4,3),(4,4),(4,5),(4,6),\n(5,1),(5,2),(5,3),(5,4), (5,5),(5,6),\n(6,1),(6,2),(6,3),(6,4),(6,5),(6,6)]\nTotal number of outcomes when two dice are tossed = 6 \uf0b4 6= 36\nFavourable events of getting product as 6 are:\n(1\uf0b4 6= 6), (6 \uf0b41 =6),(2\uf0b4 3= 6),(3\uf0b4 2 =6)\ni.e.(1,6), (6,1), (2,3), (3,2)\nFavourable events of getting product as 6 = 4\nwww.vedantu.com 2 / 23\nCBSE-X-2015 EXAMINATION\n4 1\n\uf05c P(getting product as 6) \uf03d \uf03d\n36 9",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 4,
+        "question_text": "In the following figure, PQ is a chord of a circle with centre O and PT is a tangent. If \u2220QPT = 60\u02da, find\n\u2220PRQ",
+        "solution_text": "m\uf0d0OPT 90\uf0b0 ( radius is perpendicular to the tangent)\nSo, \uf0d0OPQ = \uf0d0OPT - \uf0d0QPT\n= 90\uf0b0 - 60\uf0b0\n= 30\uf0b0\nm\uf0d0POQ = 2\uf0d0QPT 2 \uf0b4 60\uf0b0 =120\uf0b0\nreflex m\uf0d0POQ = 360\uf0b0 - 120\uf0b0 =240\uf0b0\n1\nm\uf0d0PRQ\uf03d reflex\uf0d0POQ\n2\n1\n\uf03d \uf0b4240\uf0b0\n2\n\uf03d\uf031\uf032\uf030\uf0b0\n\uf05c\uf0d0PRQ = 120\uf0b0\nSECTION B\nQuestion numbers 5 to 10 carry 2 marks each.",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 5,
+        "question_text": "In the following figure, two tangents RQ and RP are drawn from an external point R to the circle with\ncentre O, If \u2220PRQ = 120\u02da, then prove that OR = PR + RQ.\nwww.vedantu.com 3 / 23\nCBSE-X-2015 EXAMINATION",
+        "solution_text": "Given that m\uf0d0PRQ = 120\uf0b0\nWe know that the line joining the centre and the external point is the angle bisector between the tangents.\n120\uf0b0\nThus, m\uf0d0PRO\uf03dm\uf0d0QRO\uf03d \uf03d60\uf0b0\n2\nAlso we know that lengths of tangents from an external point are equal.\nThus, PR = RQ.\nJoin OP and OQ.\nSince OP and OQ are the radii from the centre O,\nOP \uf05e PR and OQ \uf05eRQ.\nThus, \uf044OPR and \uf044OQR are right angled congruent triangles.\nHence, \uf0d0POR\uf03d90\uf0b0\uf02d\uf0d0PRO\uf03d90\uf0b0\uf02d60\uf0b0\uf03d30\uf0b0\n\uf0d0QOR\uf03d90\uf0b0\uf02d\uf0d0QRO\uf03d90\uf0b0\uf02d60\uf0b0\uf03d30\uf0b0\n1\nsin\uf0d0QRO\uf03dsin30\uf0b0\uf03d\n2\nPR 1\n\uf03d\nOR 2\nThus, \uf0deOR\uf03d2PR\n\uf0deOR\uf03dPR\uf02bPR\n\uf0deOR\uf03dPR\uf02bQR\nwww.vedantu.com 4 / 23\nCBSE-X-2015 EXAMINATION",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 6,
+        "question_text": "In Figure 4, a \u0394ABC is drawn to circumscribe a circle of radius 3 cm, such that the segments BD and DC\nare respectively of lengths 6 cm and 9 cm. If the area of \u0394 ABC is 54 cm2, then find the lengths of sides AB\nand AC.",
+        "solution_text": "Let the given circle touch the sides AB and AC of the triangle at points F and E respectively and let the\nlength of line segment AF be x.\nNow, it can be observed that:\nBF = BD = 6 cm (tangents from point B)\nCE = CD = 9 cm (tangents from point C)\nAE = AF = x (tangents from point A)\nAB = AF + FB = x + 6\nBC = BD + DC = 6 + 9 = 15\nCA = CE + EA = 9 + x\n2s = AB + BC + CA = x + 6 + 15 + 9 + x = 30 + 2x\ns = 15 + x\ns \u2013 a = 15 + x \u2013 15 = x\ns \u2013 b = 15 + x \u2013 (x + 9) = 6\ns \u2013 c = 15 + x \u2013 (6 + x) = 9\nArea of \uf044 ABC s(s\uf02da)(s\uf02db)(s\uf02dc)\n54\uf03d (15\uf02bx)(x)(6)(9)\n54\uf03d3 6(15x\uf02bx2)\n18\uf03d 6(15x\uf02bx2)\n324\uf03d6(15x\uf02bx2)\n54\uf03d15x\uf02bx2\nwww.vedantu.com 5 / 23\nCBSE-X-2015 EXAMINATION\nx2\uf02b15x\uf02d54\uf03d0\nx2\uf02b18x\uf02d3x\uf02d54\uf03d0\nx(x\uf02b18)\uf02d3(x\uf02b18)\n(x\uf02b18)(x\uf02d3)\uf03d0\nx\uf03d\uf02d18andx\uf03d3\nAs distance cannot be negative, x = 3\nAC = 3 + 9 = 12\nAB = AF + FB = 6 + x = 6 + 3 = 9",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 7,
+        "question_text": "Solve the following quadratic equation for x:\n4x2 + 4bx \u2013 (a2 \u2013 b2) = 0",
+        "solution_text": "4x2\uf02b4bx\uf02d(a2\uf02db2)\uf03d0\n\uf0e6a2\uf02db2 \uf0f6\n\uf0dex2\uf02bbx\uf02d\uf0e7 \uf0f7\uf03d0\n\uf0e8 4 \uf0f8\n\uf0e6b\uf0f6 a2\uf02db2\n\uf0dex2\uf02b2\uf0e7 \uf0f7x\uf03d\n\uf0e82\uf0f8 4\n\uf0e6b\uf0f6 \uf0e6b\uf0f6 2 a2\uf02db2 \uf0e6b\uf0f6 2\n\uf0dex2\uf02b2\uf0e7 \uf0f7x\uf02b\n\uf0e7 \uf0f7\n\uf03d \uf02b\n\uf0e7 \uf0f7\n\uf0e82\uf0f8 \uf0e82\uf0f8 4 \uf0e82\uf0f8\n\uf0e6 b\uf0f6 2 a2\n\uf0de \uf0e7x\uf02b\n\uf0f7\n\uf03d\n\uf0e8 2\uf0f8 4\nb a\n\uf0dex\uf02b \uf03d\uf0b1\n2 2\n\uf02db a\n\uf0dex\uf03d \uf0b1\n2 2\n\uf02db\uf02da \uf02db\uf02ba\n\uf0dex\uf03d ,\n2 2\n\uf0e6a\uf02bb\uf0f6 \uf0e6a\uf02db\uf0f6\nHence, the roots are \uf02d \uf0e7 \uf0f7and\uf0e7 \uf0f7.\n\uf0e8 2 \uf0f8 \uf0e8 2 \uf0f8",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 8,
+        "question_text": "In an AP, if S + S = 167 and S = 235, then find the A.P., where S denotes the sum of its first n terms\n5 7 10 n",
+        "solution_text": "S \uf02bS \uf03d167andS \uf03d235\n5 7 10\nn\nNow,S \uf03d \uf07b2a\uf02b(n\uf02d1)d\uf07d\nn 2\n\uf05cS \uf02bS \uf03d167\n5 7\n5 7\n\uf0de \uf07b2a\uf02b4d\uf07d\uf02b \uf07b2a\uf02b6d\uf07d\uf03d167\n2 2\n\uf0de5a\uf02b10d\uf02b7a\uf02b21d \uf03d167\n\uf0de12a\uf02b31d\uf03d167 .................(1)\nAlso, S = 235\n10\nwww.vedantu.com 6 / 23\nCBSE-X-2015 EXAMINATION\n10\n\uf05c \uf07b2a\uf02b9d\uf07d\uf03d235\n2\n\uf0de10a\uf02b45d\uf03d235\n\uf0de2a\uf02b9d\uf03d47 ...................(2)\nMultiplying equation (2) by 6, we get\n12a + 54d = 282 \u2026\u2026\u2026\u2026\u2026\u2026....(3)\nSubtracting (1) from (3), we get\n12a\uf02b54d \uf03d282\n(\uf02d)12a\uf02b31d \uf03d167\n\uf02d \uf02d \uf02d\n23d \uf03d115\n\uf05cd\uf03d5\nSubstituting value of d in (2), we have\n2a + 9(5)= 47\n\uf0de 2a + 45= 47\n\uf0de2a = 2\n\uf0dea = 1\nThus, the given A.P. is 1, 6, 11, 16,..........",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 9,
+        "question_text": "The points A(4, 7), B(p, 3) and C(7, 3) are the vertices of a right triangle, right-angled at B, Find the values\nof P.",
+        "solution_text": "\uf044ABC is right angled at B.\n\uf05cAC2 \uf03dAB2\uf02bBC2 .............(1)\nAlso, A\uf0ba\uf028\uf034\uf02c\uf037\uf029\uf02c\uf042\uf03d\uf028p,3\uf029andC\uf0ba(7,3)\nNow, AC2 \uf03d(7\uf02d4)2\uf02b(3\uf02d7)2 \uf03d(3)2\uf02b(\uf02d4)2 \uf03d9\uf02b16\uf03d25\nAB2 \uf03d(p\uf02d4)2\uf02b(3\uf02d7)2 \uf03dp2\uf02d8p\uf02b16\uf02b(\uf02d4)2\n\uf03dp2\uf02d8p\uf02b16\uf02b16\n\uf03dp2\uf02d8p\uf02b32\nBC2 \uf03d(7\uf02dp)2\uf02b(3\uf02d3)2 \uf03d49\uf02d14p\uf02bp2\uf02b0\n\uf03dp2\uf02d14p\uf02b49\nFrom (1), we have\n25= (p2 - 8p + 32)+ (p2 -14p +49)\n\uf0de 25 = 2p2- 22p +81\n\uf0de2p2 - 22p +56= 0\n\uf0dep2 - 11p + 28 = 0\n\uf0dep2 - 7p - 4p+ 28 = 0\n\uf0dep(p -7) \u2013 4(p \u2013 7) = 0\n\uf0de(p \u2013 7) (p \u2013 4) = 0\n\uf0dep = 7 and p = 4",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 10,
+        "question_text": "Find the relation between x and y if the points A(x, y), B(-5, 7) and C(-4, 5) are collinear.",
+        "solution_text": "www.vedantu.com 7 / 23\nCBSE-X-2015 EXAMINATION\nGiven, the points A(x,y), B(-5,7) and C(-4,5) are collinear.\nSo, the area formed by these vertices is 0.\n1\n\uf05c \uf05bx(7\uf02d5)\uf02b(\uf02d5)(5\uf02dy)\uf02b(\uf02d4)(y\uf02d7)\uf05d\uf03d0\n2\n1\n\uf0de \uf05b2x\uf02d25\uf02b5y\uf02d4y\uf02b28\uf05d\uf03d0\n2\n1\n\uf0de \uf05b2x\uf02by\uf02b3\uf05d\uf03d0\n2\n\uf0de2x\uf02by\uf02b3\uf03d0\n\uf0dey\uf03d\uf02d2x\uf02d3\nSECTION C\nQuestion numbers 11 to 20 carry 3 marks each.",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 11,
+        "question_text": "The 14th term of an A.P. is twice its 8th term. If its 6th term is -8, then find the sum of its first 20 terms.",
+        "solution_text": "Here it is given that,\nT = 2(T )\n14 8\n\u21d2 a + (14 \u2013 1)d = 2[a + (8 \u2013 1)d]\n\u21d2 a + 13d = 2[a + 7d]\n\u21d2 a + 13d = 2a + 14d\n\u21d2 13d \u2013 14d = 2a \u2013 a\n\u21d2 \u2013 d = a \u2026. (1)\nNow, it is given that its 6th term is \u20138.\nT = \u20138\n6\n\u21d2 a + (6 \u2013 1)d = \u2013 8\n\u21d2 a + 5d = \u20138\n\u21d2 \u2013d + 5d = \u20138 [\u2235 Using (1)]\n\u21d2 4d = \u20138\n\u21d2 d = \u20132\nSubs. this in eq. (1), we get a = 2\nNow, the sum of 20 terms,\nn\nS \uf03d \uf05b2a\uf02b(n\uf02d1)d\uf05d\nn 2\n20\nS \uf03d \uf05b2a\uf02b(20\uf02d1)d\uf05d\n20 2\n= 10 [2(2) + 19(-2)]\n= 10[4 - 38]\n= -340",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 13,
+        "question_text": "The angle of elevation of an aeroplane from point A on the ground is 60\u00b0. After flight of 15 seconds, the\nangle of elevation changes to 30\u00b0. If the aeroplane is flying at a constant height of 1500 3m, find the\nspeed of the plane in km/hr.",
+        "solution_text": "Let BC be the height at watch the aeroplane is observed from point A.\nThen, BC = 1500 3\nIn 15 seconds, the aeroplane moves from point A to D.\nA and D are the points where the angles of elevation 60\uf0b0 and 30\uf0b0 are formed respectively.\nLet BA = x metres and AD = y metres\nBC = x + y\nIn \uf044CBA,\nwww.vedantu.com 9 / 23\nCBSE-X-2015 EXAMINATION\nBC\ntan60\uf0b0\uf03d\nBA\n1500 3\n3\uf03d\nx\n\uf05cx\uf03d1500m ...............(1)\nIn\uf044CBD,\nBC\ntan30\uf0b0\uf03d\nBD\n1 1500 3\n\uf03d\n3 x\uf02by\n\uf05cx\uf02by\uf03d1500(3)\uf03d4500\n\uf05c1500\uf02by\uf03d4500\n\uf05cy\uf03d3000m ..................(2)\nWe know that, the aeroplane moves from point A to D in 15 seconds and the distance covered is 3000\nmetres. (by 2)\ndistance\nSpeed \uf03d\ntime\n3000\nSpeed \uf03d\n15\nSpeed 200m/s\n18\nConverting it to km/hr \uf03d200\uf0b4 \uf03d720km/hr\n5",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 14,
+        "question_text": "If the coordinates of points A and B are (-2, -2) and (2, -4) respectively, find the coordinates of P such\n3\nthat AP = AB, where P lies on the line segment AB.\n7",
+        "solution_text": "Here, P(x,y) divides line segment AB, such that\n3\nAP\uf03d AB\n7\nAP 3\n\uf03d\nAB 7\nAB 7\n\uf03d\nAP 3\nAB 7\n\uf02d1\uf03d \uf02d1\nAP 3\nAB\uf02dAP 7\uf02d3\n\uf03d\nAP 3\nBP 4\n\uf03d\nAP 3\nAP 3\n\uf03d\nBP 4\n\uf05c P divides AB in the ratio 3: 4\nwww.vedantu.com 10 / 23\nCBSE-X-2015 EXAMINATION\n3\uf0b42\uf02b4(\uf02d2) \uf033\uf0b4\uf028\uf02d\uf034\uf029\uf02b\uf034\uf028\uf02d\uf032\uf029\nx\uf03d ;y\uf03d\n3\uf02b4 3\uf02b4\n6\uf02d8 \uf02d12\uf02d8\nx\uf03d ;y\uf03d\n7 7\n\uf02d2 \uf02d20\nx\uf03d ;y\uf03d\n7 7\n\uf0e6\uf02d2 \uf02d20\uf0f6\n\uf05c The coordinates of P are \uf0e7 , \uf0f7\n\uf0e8 7 7 \uf0f8",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 15,
+        "question_text": "The probability of selecting a red ball at random from a jar that contains only red, blue and orange balls\n1 1\nis . The probability of selecting a blue ball at random from the same jar . If the jar contains 10 orange\n4 3\nballs, find the total number of balls in the jar.",
+        "solution_text": "Here the jar contains red, blue and orange balls.\nLet the number of red balls be x.\nLet the number of blue balls be y.\nNumber of orange balls = 10\nTotal number of balls = x + y + 10\nNow, let P be the probability of drawing a ball from the jar\nx\nP(a red ball) \uf03d\nx\uf02by\uf02b10\n1 x\n\uf0de \uf03d\n4 x\uf02by\uf02b10\n\uf0de4x\uf03dx\uf02by\uf02b10\n\uf0de3x\uf02dy\uf03d10 ............(i)\nNext,\ny\nP (a blue ball) \uf03d\nx\uf02by\uf02b10\n1 y\n\uf0de \uf03d\n3 x\uf02by\uf02b10\n\uf0de3y\uf03dx\uf02by\uf02b10\n\uf0de2y\uf02dx\uf03d10 ..............(ii)\nMultiplying eq. (i) by 2 and adding to eq. (ii), we get\n6x\uf02d2y\uf03d20\n\uf02dx\uf02b2y\uf03d10\n5x\uf03d30\n\uf0dex\uf03d6\nSubs. x = 6 in eq. (i), we get y = 8\nTotal number of balls = x + y + 10 = 6 + 8 + 10 = 24\nHence, total number of balls in the jar is 24.\nwww.vedantu.com 11 / 23\nCBSE-X-2015 EXAMINATION",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 16,
+        "question_text": "Find the area of the minor segment of a circle of radius 14 cm, when its central angle is 60\u02da. Also find\n22\nthe area of the corresponding major segment. [Use \uf070\uf03d ]\n7",
+        "solution_text": "Radius of the circle =14 cm\nCentral Angle, \uf071 = 60 ,\nArea of the minor segment\n\uf071 1\n\uf03d \uf0b4\uf070r2\uf02d r2sin\uf071\n360\uf0b0 2\n60\uf0b0 1\n\uf03d \uf0b4\uf070\uf0b4142\uf02d \uf0b4142\uf0b4sin60\uf0b0\n360\uf0b0 2\n1 22 1 3\n\uf03d \uf0b4 \uf0b414\uf0b414\uf02d \uf0b414\uf0b414\uf0b4\n6 7 2 2\n22\uf0b414\n\uf03d \uf02d49 3\n3\n22\uf0b414 147 3\n\uf03d \uf02d\n3 3\n308\uf02d147 3\n\uf03d cm2\n3\n308\uf02d147 3\nArea of the minor segment \uf03d cm2\n3",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 17,
+        "question_text": "Due to sudden floods, some welfare associations jointly requested the government to get 100 tents\nfixed immediately and offered to contribute 50% of the cost. If the lower part of each tent is of the form of\na cylinder of diameter 4.2 m and height 4 m with the conical upper part of same diameter but height 2.8 m,\nand the canvas to be used costs Rs. 100 per sq. m, find the amount, the associations will have to pay. What\n22\nvalues are shown by these associations? [Use \uf070\uf03d ]\n7",
+        "solution_text": "Diameter of the tent = 4.2 m\nRadius of the tent, r = 2.1 m\nHeight of the cylindrical part of tent, h = 4 m\ncylinder\nHeight of the conical part, h = 2.8 m\ncone\nSlant height of the conical part, l\n\uf03d h 2\uf02br2\ncone\n\uf03d 2.82\uf02b2.12\n\uf03d 2.82\uf02b2.12\n\uf03d 12.25\uf03d3.5m\nCurved surface area of the cylinder = 2\uf070r h\ncylinder\n22\n\uf03d2\uf0b4 \uf0b42.1\uf0b44\n7\n\uf03d22\uf0b40.3\uf0b48\uf03d52.8m2\nwww.vedantu.com 12 / 23\nCBSE-X-2015 EXAMINATION\n22\nCurved surface area of the conical tent \uf03d\uf070rl\uf03d \uf0b42.1\uf0b43.5\uf03d23.1m2\n7\nTotal area of cloth required for building one tent\n= Curved surface area of the cylinder + Curved surface area of the conical tent\n= 52.8 + 23.1\n= 75.9 m2\nCost of building one tent = 75.9 \u00d7 100 = Rs 7590\nTotal cost of 100 tents = 7590 \u00d7 100 = Rs 7,59,000\n759000\nCost to be borne by the associations \uf03d = Rs. 3,79,500\n2\nIt shows the helping nature, unity and cooperativeness of the associations.",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 18,
+        "question_text": "A hemispherical bowl of internal diameter 36 cm contains liquid. This liquid is filled into 72 cylindrical\nbottles of diameter 6 cm. Find the height of each bottle, if 10% liquid is wasted in this transfer.",
+        "solution_text": "Internal diameter of the bowl = 36 cm\nInternal radius of the bowl, r = 18 cm\n2 2\nVolume of the liquid, V \uf03d \uf070r3 \uf03d \uf0b4\uf070\uf0b4183\n3 3\nLet the height of the small bottle be \u2018h\u2019.\nDiameter of a small cylindrical bottle = 6 cm\nRadius of a small bottle, R = 3 cm\nVolume of a single bottle = \uf070R2h = \uf070 \u00d7 32 \u00d7 h\nNo. of small bottles, n = 72\n10 2\nVolume wasted in the transfer \uf03d \uf0b4 \uf0b4\uf070\uf0b4183\n100 3\nVolume of liquid to be transferred in the bottles\n2 10 2\n\uf03d \uf0b4\uf070\uf0b4183\uf02d \uf0b4 \uf0b4\uf070\uf0b4183\n3 100 3\n2 \uf0e6 10 \uf0f6\n\uf03d \uf0b4\uf070\uf0b4183 \uf0e71\uf02d\n\uf0f7\n3 \uf0e8 100\uf0f8\n2 90\n\uf03d \uf0b4\uf070\uf0b4183\uf0b4\n3 100\nVolume of the liquid to be transferred\nNumber of small cylindrical bottles \uf03d\nVolume of a single bottle\n2 90\n\uf0b4\uf070\uf0b4183\uf0b4\n3 100\n\uf0de72\uf03d\n\uf070\uf0b432\uf0b4h\n2 9\n\uf0b4183\uf0b4\n3 10\n\uf0de72\uf03d\n32\uf0b4h\n2 9\n\uf0b418\uf0b418\uf0b418\uf0b4\n3 10\n\uf0deh\uf03d\n32\uf0b472\n\uf05ch\uf03d5.4cm\nwww.vedantu.com 13 / 23\nCBSE-X-2015 EXAMINATION\nHeight of the small cylindrical bottle = 10.8 cm",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 19,
+        "question_text": "A cubical block of side 10 cm is surmounted by a hemisphere. What is the largest diameter that the\nhemisphere can have? Find the cost of painting the total surface area of the solid so formed, at the rate of\nRs. 5 per sq. cm. [Use \u03c0 = 3.14]",
+        "solution_text": "Side of the cubical block, a = 10 cm\nLongest diagonal of the cubical block = a 3 = 10 3 cm\nSince the cube is surmounted by a hemisphere, therefore the side of the cube should be equal to the\ndiameter of the hemisphere.\nDiameter of the sphere = 10 cm\nRadius of the sphere, r = 5 cm\nTotal surface area of the solid = Total surface area of the cube \u2013 Inner cross\u2010section area of the hemisphere\n+ Curved surface area of the hemisphere\n= 6a2 \u2013 \uf070r2 + 2 + \uf070r2\n= 6a2 + \uf070r2\n\uf03d6\uf0b4(10)2\uf02b3.14\uf0b452\n\uf03d600\uf02b78.5\uf03d678.5cm2\nTotal surface area of the solid = 678.5 cm2",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 20,
+        "question_text": "504 cones, each of diameter 3.5 cm and height 3 cm, are melted and recast into a metallic sphere, Find\n22\nthe diameter of the sphere and hence find its surface area. [Use \uf070\uf03d ]\n7",
+        "solution_text": "No. of cones = 504\nDiameter of a cone = 3.5 cm\nRadius of the cone, r = 1.75 cm\nHeight of the cone, h = 3 cm\nVolume of a cone\n1\n\uf03d \uf070r2h\n3\n2\n1 \uf0e63.5\uf0f6\n\uf03d \uf0b4\uf070\uf0b4\n\uf0e7 \uf0f7\n\uf0b43\n3 \uf0e8 2 \uf0f8\n1 3.5 3.5\n\uf03d \uf0b4\uf070\uf0b4 \uf0b4 \uf0b43cm3\n3 2 2\nVolume of 504 cones\n1 3.5 3.5\n\uf03d504\uf0b4 \uf0b4\uf070\uf0b4 \uf0b4 \uf0b43cm3\n4 2 2\nLet the radius of the new sphere be \u2018R\u2019.\n4\nVolume of the sphere \uf03d \uf070R3\n3\nVolume of 504 cones = Volume of the sphere\nwww.vedantu.com 14 / 23\nCBSE-X-2015 EXAMINATION\n1 3.5 3.5 4\n504\uf0b4 \uf0b4\uf070\uf0b4 \uf0b4 \uf0b43\uf03d \uf070R3\n3 2 2 3\n504\uf0b41\uf0b4\uf070\uf0b43.5\uf0b43.5\uf0b43\uf0b43\n\uf0de \uf03dR3\n3\uf0b42\uf0b42\uf0b44\uf0b4\uf070\n504\uf0b43\uf0b449\n\uf0deR3 \uf03d\n64\n7\uf0b48\uf0b49\uf0b43\uf0b472\n\uf0deR3 \uf03d\n64\n8\uf0b427\uf0b473\n\uf0deR3 \uf03d\n64\n2\uf0b43\uf0b47\n\uf0deR\uf03d\n4\n21\n\uf05cR\uf03d \uf03d10.5cm\n2\nRadius of the new sphere = 10.5 cm\nSECTION D\nQuestion numbers 21 to 31 carry 4 marks each.",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 21,
+        "question_text": "The diagonal of a rectangular field is 16 metres more than the shorter side. If the longer side is 14\nmetres more than the shorter side, then find the lengths of the sides of the field.",
+        "solution_text": "Let l be the length of the longer side and b be the length of the shorter side.\nGiven that the length of the diagonal of the rectangular field is 16 metres more than the shorter side.\nThus, diagonal = 16 + b\nSince longer side is 14 metres more than shorter side, we have,\nl = 14 + b\nDiagonal is the hypotenuse of the triangle.\nConsider the following figure of the rectangular field.\nBy applying Pythagoras Theorem in \uf044ABD, we have,\nDiagonal2 = Length2 = Breadth2\n\uf0de(16\uf02bb)2 \uf03d(14\uf02bb)2\uf02bb2\n\uf0de256\uf02bb2\uf02b32b\uf03d196\uf02bb2\uf02b28b\uf02bb2\n\uf0de256\uf02b32b\uf03d196\uf02b28b\uf02bb2\n\uf0de60\uf02b32b\uf03d28b\uf02bb2\nwww.vedantu.com 15 / 23\nCBSE-X-2015 EXAMINATION\n\uf0deb2\uf02d4b\uf02d60\uf03d0\n\uf0deb2\uf02d10b\uf02b6b\uf02d60\uf03d0\n\uf0deb(b\uf02d10)\uf02b6(b\uf02d10)\uf03d0\n\uf0de(b\uf02b6)(b\uf02d10)\uf03d0\n\uf0de(b\uf02b6)\uf03d0or(b\uf02d10)\uf03d0\n\uf0deb\uf03d\uf02d6orb\uf03d10\nAs breadth cannot be negative, breadth = 10 m\nThus, length of the rectangular field = 14 + 10 = 24 m",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 22,
+        "question_text": "Find the 60th term of the AP 8, 10, 12, \u2026\u2026., if it has a total of 60 terms and hence find the sum of its last\n10 terms.",
+        "solution_text": "Consider the given A.P. 8, 10, 12, \u2026\nHere the initial term is 8 and the common difference is 10 \u2010 8 = 2 and 12 \u2010 10 = 2\nGeneral term of an A.P. is t and formula to find out t is\nn n\nt \uf03da\uf02b(n\uf02d1)d\nn\n\uf0det \uf03d8\uf02b(60\uf02d1)\uf0b42\n60\n\uf0det \uf03d8\uf02b59\uf0b42\n60\n\uf0det \uf03d8\uf02b118\n60\n\uf0det \uf03d126\n60\nWe need to find the sum of the last 10 terms.\nThus,\nSum of last 10 terms = Sum of first 60 terms \u2010 Sum of first 50 terms\nn\nS \uf03d \uf05b2a\uf02b(n\uf02d1)d\uf05d\nn 2\n60\n\uf0deS \uf03d \uf05b2\uf0b48\uf02b(60\uf02d1)\uf0b42\uf05d\n60 2\n\uf0deS \uf03d30\uf05b16\uf02b59\uf0b42\uf05d\n60\n\uf0deS \uf03d30\uf05b134\uf05d\n60\n\uf0deS \uf03d4020\n60\nSimilarly,\n50\n\uf0deS \uf03d \uf05b2\uf0b48\uf02b(50\uf02d1)\uf0b42\uf05d\n50 2\n\uf0deS \uf03d25\uf05b16\uf02b49\uf0b42\uf05d\n50\n\uf0deS \uf03d25\uf05b114\uf05d\n50\n\uf0deS \uf03d2850\n50\nThus the sum of last 10 terms =S \u2013 S = 4020 \u2013 2850 = 1170\n60 50\nTherefore,\nSum of last 10 terms = Sum of first 60 terms \u2010 Sum of first 50 terms\nwww.vedantu.com 16 / 23\nCBSE-X-2015 EXAMINATION",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 23,
+        "question_text": "A train travels at a certain average speed for a distance of 54 km and then travels a distance of 63 km at\nan average speed of 6 km/h more than the first speed. If it takes 3 hours to complete the total journey,\nwhat is its first speed?",
+        "solution_text": "Let x be the first speed of the train.\nDistance\nWe know that = time\nSpeed\nThus, we have,\n54 63\n\uf02b \uf03d3hours\nx x\uf02b6\n54(x\uf02b6)\uf02b63x\n\uf0de \uf03d3\nx(x\uf02b6)\n\uf0de54(x\uf02b6)\uf02b63x\uf03d3x(x\uf02b6)\n\uf0de54x\uf02b324\uf02b63x\uf03d3x2\uf02b18x\n\uf0de117x\uf02b324\uf03d3x2\uf02b18x\n\uf0de3x2\uf02d117x\uf02d324\uf02b18x\uf03d0\n\uf0de3x2\uf02d99x\uf02d324\uf03d0\n\uf0dex2\uf02d33x\uf02d108\uf03d0\n\uf0dex2\uf02d36x\uf02b3x\uf02d108\uf03d0\n\uf0dex(x\uf02d36)\uf02b3(x\uf02d36)\uf03d0\n\uf0de(x\uf02b3)(x\uf02d36)\uf03d0\n\uf0de(x\uf02b3)\uf03d0or(x\uf02d36)\uf03d0\n\uf0dex\uf03d\uf02d3or x\uf03d36\nSpeed cannot be negative and hence initial speed of the train is 36 km/hour.",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 24,
+        "question_text": "Prove that the lengths of the tangents drawn from an external point to a circle are equal.",
+        "solution_text": "Consider the following diagram.\nLet P be an external point and PA and PB be tangents to the circle.\nWe need to prove that PA = PB\nNow consider the triangles \uf044OAP and \uf044OBP\nm\uf0d0A = m\uf0d0B = 90\nwww.vedantu.com 17 / 23\nCBSE-X-2015 EXAMINATION\nOP = OP [common]\nOA = OB = radii of the circle\nThus, by Right Angle\u2010Hypotenuse\u2010Side criterion of congruence we have,\n\uf044OAP \uf040 \uf044OBP\nThe corresponding parts of the congruent triangles are congruent.\nThus,\nPA = PB",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 25,
+        "question_text": "Prove that the tangent drawn at the mid-point of an arc of a circle is parallel to the chord joining the\nend points of the arc.",
+        "solution_text": "In the figure, C is the midpoint of the minor arc PQ, O is the centre of the circle and\nAB is tangent to the circle through point C.\nWe have to show the tangent drawn at the midpoint of the arc PQ of a circle is parallel to the chord joining\nthe end points of the arc PQ.\nWe will show PQ || AB.\nIt is given that C is the midpoint point of the arc PQ.\nSo, arc PC = arc CQ.\n\uf0dePC = CQ\nThis shows that \uf044PQC is an isosceles triangle.\nThus, the perpendicular bisector of the side PQ of \uf044PQC passes through vertex C.\nThe perpendicular bisector of a chord passes through the centre of the circle.\nSo the perpendicular bisector of PQ passes through the centre O of the circle.\nThus perpendicular bisector of PQ passes through the points O and C.\n\uf0dePQ \uf05e OC\nAB is the tangent to the circle through the point C on the circle.\n\uf0deAB \uf05e OC\nThe chord PQ and the tangent PQ of the circle are perpendicular to the same line OC.\nPQ || AB.",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 26,
+        "question_text": "Construct a \u0394 ABC in which AB = 6 cm, \u2220A = 30\u00b0 and \u2220B = 60\u00b0, Construct another \u0394AB\u2019C\u2019 similar to \u0394ABC\nwith base AB\u2019 = 8 cm.",
+        "solution_text": "Construct the \uf044ABC as per given measurements.\nIn the half plane of AB which does not contain C, draw AX such that \uf0d0BAX is an acute angle.\n3) With some appropriate radius and centre A, Draw an arc to intersect AX at B . Similarly, with centre B\n1 1\nand the same radius, draw an arc to intersect BX at B such that B B = B B = B B = B B = B B = B B\n2 1 2 3 4 4 5 5 6 6 7 7 8\nwww.vedantu.com 18 / 23\nCBSE-X-2015 EXAMINATION\n4) Draw BB.\n6\n5) Through B draw a ray parallel to BB. to intersect AY at B\u2019.\n8\n6\n6) Through B\u2019 draw a ray parallel to BC to intersect AZ at C\u2019.\nThus, \uf044AB\u2019C\u2019 is the required triangle.",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 27,
+        "question_text": "At a point A, 20 metres above the level of water in a lake, the angle of elevation of a cloud is 30\u00b0. The\nangle of depression of the reflection of the cloud in the lake, at a A is 60\u00b0. Find the distance of the cloud\nfrom A.",
+        "solution_text": "Let AB be the surface of the lake and P be the point of observation such that\nAP = 20 metres. Let C be the position of the cloud and C\u2019 be its reflection in the lake.\nThen CB = C\u2019B. Let PM be perpendicular from P on CB.\nThen m\uf0d0CPM=30 and m\uf0d0C'PM = 60\nLet CM = h. Then CB = h + 20 and C\u2019B = h + 20.\nIn CMP we have,\nwww.vedantu.com 19 / 23\nCBSE-X-2015 EXAMINATION\nCM\ntan30\uf0b0\uf03d\nPM\n1 h\n\uf0de \uf03d\n3 PM\n\uf0dePM\uf03d 3h...................(i)\nIn \uf044PMC' we have,\nC\uf0a2M\ntan60\uf0b0\uf03d\nPM\nC\uf0a2B\uf02bBM\n\uf0de 3\uf03d\nPM\nh\uf02b20\uf02b20\n\uf0de 3\uf03d\nPM\nh\uf02b20\uf02b20\n\uf0dePM\uf03d ...................(ii)\n3\nFrom equation (i) and (ii), we get\nh\uf02b20\uf02b20\n3h\uf03d\n3\n\uf0de3h\uf03dh\uf02b40\n\uf0de2h\uf03d40\n\uf0deh\uf03d20m\nNow, CB = CM + MB = h + 20 + 20 + 20 = 40.\nHence, the height of the cloud from the surface of the lake is 40 metres.",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 28,
+        "question_text": "A card is drawn at random from a well-shuffled deck of playing cards. Find the probability that the card\ndrawn is\ni. a card of spade or an ace.\nii. a black king.\niii. neither a jack nor a king\niv. either a king or a queen.",
+        "solution_text": "Let S be the sample space of drawing a card from a well\u2010shuffled deck.\nn(S)\uf03d 52C \uf03d52\n1\n(i)There are 13 spade cards and 4 ace's in a deck As ace of spade is included in 13 spade cards, so there are\n13 spade cards and 3 ace's\na card of spade or an ace can be drawn in 13C \uf02b3C \uf03d13\uf02b3\uf03d16\n1 1\n16 4\nProbability of drawing a card of spade or an ace \uf03d \uf03d\n52 13\n(ii)There are 2 black King cards in a deck a card of black King can be drawn in 2C \uf03d2\n1\n2 1\nProbability of drawing a black king \uf03d \uf03d\n52 26\n(iii) There are 4 Jack and 4 King cards in a deck.\nwww.vedantu.com 20 / 23\nCBSE-X-2015 EXAMINATION\nSo there are 52 - 8 = 44 cards which are neither Jacks nor Kings. a card which is neither a Jack nor a King\ncan be drawn in 44C = 44\n1\n44 11\nProbability of drawing a card which is neither a Jack nor a King = \uf03d\n52 13\n(iv)There are 4 King and 4 Queen cards in a deck.\nSo there are 4 - 4 = 8 cards which are either King or Queen.\na card which is either a King or a Queen can be drawn in 8C = 8\n1\n8 2\nProbability of drawing a card which is either a King or a Queen = \uf03d\n52 13",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 29,
+        "question_text": "Find the values of k so that the area of the triangle with vertices (1, -1), (-4, 2k) and (-k, -5) is 24 sq.\nunits.",
+        "solution_text": "Take \uf028x ,y \uf029\uf03d\uf0281,\uf02d1\uf029,\uf028\uf02d4,2k\uf029and\uf028\uf02dk,\uf02d5\uf029\n1 1\nIt is given that the area of the triangle is 24 sq. unit\nArea of the triangle having vertices \uf028x ,y \uf029,\uf028x ,y \uf029and \uf028x ,y \uf029 is given by\n1 1 2 2 3 3\n1\n\uf03d \uf05bx (y \uf02dy )\uf02bx (y \uf02dy )\uf02bx (y \uf02dy )\uf05d\n2 1 2 3 2 3 1 3 1 2\n1\n\uf05c24\uf03d \uf05b1(2k\uf02d(\uf02d5))\uf02b(\uf02d4)((\uf02d5)\uf02d(\uf02d1))\uf02b(\uf02dk)((\uf02d1)\uf02d2k)\uf05d\n2\n48\uf03d\uf0e9\n\uf0eb\n(2k\uf02b5)\uf02b16\uf02b(k\uf02b2k2)\uf0f9\n\uf0fb\n\uf05c2k2\uf02b3k\uf02d27\uf03d0\n\uf05c(2k\uf02b9)(k\uf02d3)\uf03d0\n9\n\uf05ck\uf03d\uf02d ork\uf03d3\n2\n9\nThe values of k are \uf02d and 3.\n2",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 30,
+        "question_text": "In the following figure, PQRS is square lawn with side PQ = 42 metres. Two circular flower beds are\nthere on the sides PS and QR with centre at O, the intersections of its diagonals. Find the total area of the\ntwo flower beds (shaded parts).",
+        "solution_text": "PQRS is a square.\nSo each side is equal and angle between the adjacent sides is a right angle.\nAlso the diagonals perpendicularly bisect each other.\nwww.vedantu.com 21 / 23\nCBSE-X-2015 EXAMINATION\nIn \uf044PQR using pythagoras theorem,\nPR2 =PQ2 +QR2\nPR2 = (42)2 + (42)2\nPR\uf03d 2(42)\n1 42\nOR\uf03d PR\uf03d \uf03dOQ\n2 2\nFrom the figure we can see that the radius of flower bed ORQ is OR.\n1\nArea of sector ORQ = \uf070r2\n4\n2\n1 \uf0e6 42 \uf0f6\n\uf03d \uf070\n\uf0e7 \uf0f7\n4 \uf0e8 2\uf0f8\n1\nArea of the \uf044ROQ \uf03d \uf0b4RO\uf0b4OQ\n2\n1 42 42\n\uf03d \uf0b4 \uf0b4\n2 2 2\n2\n\uf0e642\uf0f6\n\uf03d\n\uf0e7 \uf0f7\n\uf0e8 2 \uf0f8\nArea of the flower bed ORQ\n= Area of sector ORQ - Area of the ROQ\n2 2\n1 \uf0e6 42 \uf0f6 \uf0e642\uf0f6\n\uf03d \uf070 \uf02d\n\uf0e7 \uf0f7 \uf0e7 \uf0f7\n4 \uf0e8 2\uf0f8 \uf0e8 2 \uf0f8\n2\n\uf0e642\uf0f6 \uf0e9\uf070 \uf0f9\n\uf03d\n\uf0e7 \uf0f7 \uf0ea\n\uf02d1\n\uf0fa\n\uf0e8 2 \uf0f8 \uf0eb2 \uf0fb\n= (441)[0.57]\n= 251.37 cm2\nArea of the flower bed ORQ = Area of the flower bed OPS\n= 251.37 cm2\nTotal area of the two flower beds\n= Area of the flower bed ORQ + Area of the flower bed OPS\n= 251.37 + 251.37\n= 502.74 cm2",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2015,
+        "question_number": 31,
+        "question_text": "From each end of a solid metal cylinder, metal was scooped out in hemispherical from of same\ndiameter. The height of the cylinder is 10 cm and its base is of radius 4.2 cm. The rest of the cylinder is\n22\nmelted and converted into a cylindrical wire of 1.4 cm thickness. Find the length of the wire. [Use \uf070\uf03d ]\n7",
+        "solution_text": "Height of the cylinder (h) = 10 cm\nRadius of the base of the cylinder = 4.2 cm\nVolume of original cylinder \uf03d\uf070r2h\n22\n\uf03d \uf0b4(4.2)2\uf0b410\n7\n\uf03d554.4cm3\nwww.vedantu.com 22 / 23\nCBSE-X-2015 EXAMINATION\n2\nVolume of hemisphere \uf03d \uf070r3\n3\n2 22\n\uf03d \uf0b4 \uf0b4(4.2)3\n3 7\n\uf03d155.232cm3\nVolume of the remaining cylinder after scooping out hemisphere from each end\n= Volume of original cylinder - 2 \uf0b4 Volume of hemisphere\n\uf03d554.4\uf02d2\uf0b4155.232\n\uf03d243.936cm3\nThe remaining cylinder is melted and converted to\na new cylindrical wire of 1.4 cm thickness.\nSo they have same volume and radius of new cylindrical wire is 0.7 cm.\nVolume of the remaining cylinder = Volume of the new cylindrical wire",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2015.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 1,
+        "question_text": "In the figure, PQ is a tangent at a point C to a circle with centre O. if AB is a diameter and\n\u2220CAB = 30\u00b0, find \u2220PCA.",
+        "solution_text": "In the given figure,\nIn \u0394ACO,\nOA = OC \u2026(Radii of the same circle)\n\uf05c \u0394ACO is an isosceles triangle.\n\u2220CAB = 30\u00b0 \u2026(Given)\n\uf05c \u2220CAO = \u2220ACO = 30\u00b0 \u2026. (angles opposite to equal sides of an isosceles triangle are equal)\n\u2220PCO = 90\u00b0 \u2026(radius drawn at the point of contact is perpendicular to the tangent)\nNow \u2220PCA = \u2220PCO \u2013 \u2220CAO\n\uf05c \u2220PCA = 90\u00b0 \u2013 30\u00b0 = 60\u00b0\nMarks: 1\nwww.vedantu.com 1 / 19",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 2,
+        "question_text": "For what value of k will k + 9, 2k \u2013 1 and 2k + 7 are the consecutive terms of an A.P?",
+        "solution_text": "If k + 9, 2k \u2013 1 and 2k + 7 are the consecutive terms of A.P., then the common difference will be\nthe same.\n\u2234 (2k \u2013 1) \u2013 (k + 9) = (2k + 7) \u2013 (2k \u2013 1)\n\u2234 k \u2013 10 = 8\n\u2234 k = 18\nMarks: 1",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 3,
+        "question_text": "A ladder leaning against a wall makes an angle of 60\u00b0 with the horizontal. If the foot of the\nladder is 2.5 m away from the wall, find the length of the ladder.",
+        "solution_text": "Let AB be the ladder and CA be the wall.\nThe ladder makes an angle of 60\u00b0 with the horizontal.\n\u2234 \u0394ABC is a 30\u00b0-60\u00b0-90\u00b0, right triangle.\nGiven: BC = 2.5 m, \u2220ABC = 60\u00b0\n\u2234 AB = 5 m\nHence, length of the ladder is AB = 5 m.\nMarks: 1",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 4,
+        "question_text": "A card is drawn at random from a well shuffled pack of 52 playing cards. Find the probability\nof getting neither a red card nor a queen.",
+        "solution_text": "There are 26 red cards including 2 red queens.\nTwo more queens along with 26 red cards will be 26 + 2 = 28\n28\n\u2234 P(getting a red card or a queen) =\n52\n28 24 6\n\u2234 P(getting neither a red card nor a queen) = 1 \u2013 = =\n52 52 13\nMarks: 1\nwww.vedantu.com 2 / 19\nSECTION B",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 5,
+        "question_text": "If -5 is a root of the quadratic equation 2x2 + px \u2013 15 = 0 and the quadratic equation p(x2 + x)k\n= 0 has equal roots, find the value of k.",
+        "solution_text": "Given \u20135 is a root of the quadratic equation 2x2 + px \u2013 15 = 0.\n\u2234 \u20135 satisfies the given equation.\n\u2234 2(\u20135)2 + p(\u20135) \u2013 15 = 0\n\u2234 50 \u2013 5p \u2013 15 = 0\n\u2234 35 \u2013 5p = 0\n\u2234 5p = 35 \uf0de p = 7\nSubstituting p = 7 in p(x2 + x) + k = 0, we get\n7(x2 + x) + k = 0\n\u2234 7x2 + 7x + k = 0\nThe roots of the equation are equal.\n\u2234 Discriminant = b2 \u2013 4ac = 0\nHere, a = 7, b = 7, c = k\nb2 \u2013 4ac = 0\n\u2234 (7)2 \u2013 4(7)(k) = 0\n\u2234 49 \u2013 28k = 0\n\u2234 28k = 49\n49 7\n\u2234 k \uf03d \uf03d\n28 4\nMarks: 2",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 6,
+        "question_text": "Let P and Q be the points of trisection of the line segment joining the points A(2, -2) and B(-7,\n4) such that P is nearer to A. Find the coordinates of P and Q.",
+        "solution_text": "Since P and Q are the points of trisection of AB, AP = PQ = QB\nThus, P divides AB internally in the ratio 1 : 2\nand Q divides AB internally in the ratio 2 : 1.\n\u2234 By section formula,\n\uf0e61(\uf02d7)\uf02b2(2) 1(4)\uf02b2(\uf02d2)\uf0f6 \uf0e6\uf02d7\uf02b4 4\uf02d4\uf0f6 \uf0e6\uf02d3 \uf0f6\nP\uf03d , \uf03d , \uf03d ,0 \uf03d(\uf02d1,0)\n\uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7\n\uf0e8 1\uf02b2 1\uf02b2 \uf0f8 \uf0e8 3 3 \uf0f8 \uf0e8 3 \uf0f8\n\uf0e62(\uf02d7)\uf02b1(2) 2(4)\uf02b1(\uf02d2)\uf0f6 \uf0e6\uf02d14\uf02b2 8\uf02d2\uf0f6 \uf0e6\uf02d12 6\uf0f6\nQ\uf03d , \uf03d , \uf03d , \uf03d(\uf02d4,2)\n\uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7\n\uf0e8 2\uf02b1 2\uf02b1 \uf0f8 \uf0e8 3 3 \uf0f8 \uf0e8 3 3\uf0f8\nMarks: 2",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 7,
+        "question_text": "In figure, a quadrilateral ABCD is drawn to circumscribe a circle, with centre O, in such a way\nthat the sides AB, BC, CD and DA touch the circle at the points P, Q, R and S respectively. Prove that AB +\nCD = BC + DA.\nwww.vedantu.com 3 / 19",
+        "solution_text": "Since tangents drawn from an exterior point to a circle are equal in length,\nAP = AS \u2026.(1)\nBP = BQ \u2026.(2)\nCR = CQ \u2026.(3)\nDR = DS \u2026.(4)\nAdding equations (1), (2), (3) and (4), we get\nAP + BP + CR + DS = AS + BQ + CQ + DS\n\u2234 (AP + BP) + (CR + DR) = (AS + DS) + (BQ + CQ)\n\u2234 AB + CD = AD + BC\n\u2234 AB + CD = BC + DA \u2026..(proved)\nMarks: 2",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 8,
+        "question_text": "Prove that the points (3, 0), (6, 4) and (-1, 3) are the vertices of a right angled isosceles triangle.",
+        "solution_text": "Let A(3, 0), B(6, 4) and C(\u20131, 3) be the given points.\nNow,\nAB\uf03d (6\uf02d3)2 \uf02b(4\uf02d0)2 \uf03d (3)2 \uf02b(4)2 \uf03d 9\uf02b16 \uf03d 25\nBC\uf03d (\uf02d1\uf02d6)2 \uf02b(3\uf02d4)2 \uf03d (\uf02d7)2 \uf02b(\uf02d1)2 \uf03d 49\uf02b1\uf03d 50\nAC\uf03d (\uf02d1\uf02d3)2 \uf02b(3\uf02d0)2 \uf03d (\uf02d4)2 \uf02b(3)2 \uf03d 16\uf02b9 \uf03d 25\n\u2234 AB = AC\nAB2 = ( 25)2 = 25\nBC2 = ( 50)2 = 50\nAC2 = ( 25)2 = 25\n\u2234 AB2 = AC2 = BC2\nThus, \u2206ABC is a right-angled isosceles triangle.\nMarks: 2",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 9,
+        "question_text": "The 4th term of an A.P. is zero. Prove that the 25th term of the A.P. is three times its 11th term.",
+        "solution_text": "4th term of an A.P. = a = 0\n4\n\u2234 a + (4 \u2013 1)d = 0\n\u2234 a + 3d = 0\n\u2234 a = \u20133d \u2026.(1)\n25th term of an A.P. = a\n25\n= a + (25 \u2013 1)d\n= \u20133d + 24d \u2026.[From (1)]\n= 21d\n3 times 11th term of an A.P. = 3a\n11\n= 3[a + (11 \u2013 1)d]\nwww.vedantu.com 4 / 19\n= 3[a + 10d]\n= 3[\u20133d + 10d]\n= 3 \u00d7 7d\n= 21d\n\u2234 a = 3a\n25 11\ni.e., the 25th term of the A.P. is three times its 11th term.\nMarks: 2",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 10,
+        "question_text": "In figure, from an external point P, two tangents PT and PS are drawn to a circle with centre O\nand radius r. If OP = 2r, show that \u2220 OTS = \u2220 OST = 30\u00b0.",
+        "solution_text": "In the given figure,\nOP = 2r \u2026 (Given)\n\u2220OTP = 90\u00b0 \u2026 (radius drawn at the point of contact is perpendicular to the tangent)\nIn \u0394OTP,\nOT 1\nsin \u2220OPT = = = sin30\u00b0\nOP 2\n\u2220OPT = 30\u00b0\n\u2234 \u2220TOP = 60\u00b0\n\u2234 \u0394OTP is a 30\u00b0-60\u00b0-90\u00b0, right triangle.\nIn \u0394OTS,\nOT = OS \u2026 (Radii of the same circle)\n\u2234 \u0394OTS is an isosceles triangle.\n\u2234 \u2220OTS = \u2220OST \u2026 (Angles opposite to equal sides of an isosceles triangle are equal)\nIn \u0394OTQ and \u0394OSQ\nOS = OT \u2026 (Radii of the same circle)\nOQ = OQ ... (side common to both triangles)\n\u2220OTQ = \u2220OSQ \u2026 (angles opposite to equal sides of an isosceles triangle are equal)\n\u2234 \u0394OTQ \u2245 \u0394OSQ \u2026 (By S.A.S)\n\u2234 \u2220TOQ = \u2220SOQ = 60\u00b0 \u2026 (C.A.C.T)\nwww.vedantu.com 5 / 19\n\u2234 \u2220TOS = 120\u00b0 \u2026 (\u2220TOS = \u2220TOQ + \u2220SOQ = 60\u00b0 + 60\u00b0 = 120\u00b0)\n\u2234 \u2220OTS + \u2220OST = 180\u00b0 \u2013 120\u00b0 = 60\u00b0\n\u2234 \u2220OTS = \u2220OST = 60\u00b0 \u00f7 2 = 30\u00b0\nMarks: 2\nSECTION C",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 11,
+        "question_text": "In figure, O is the centre of a circle such that diameter AB = 13 cm and AC = 12 cm. BC is\njoined. Find the area of the shaded region. (Take \u03c0 = 3.14)",
+        "solution_text": "Diameter, AB = 13 cm\n13\n\u2234 Radius of the circle, r = = 6.5 cm\n2\n\u2220ACB is the angle in the semi-circle.\n\u2234 \u2220ACB = 90\u00b0\nNow, in \u2206ACB, using Pythagoras theorem, we have\nAB2 = AC2 + BC2\n(13)2 = (12)2 + (BC)2\n(BC)2 = (13)2 \u2013 (12)2 = 169 \u2013 144 = 25\nBC = 25 = 5 cm\nNow, area of shaded region = Area of semi-circle \u2013 Area of ACB\n1 1\n\uf03d \uf070r2 \uf02d \uf0b4BC\uf0b4AC\n2 2\n1 1\n\uf03d \uf0b43.14\uf0b4(6.5)2 \uf02d \uf0b45\uf0b412\n2 2\n= 66.33 \u2013 30\n= 36.33 cm2\nThus, the area of the shaded region is 36.33 cm2.\nMarks: 3",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 12,
+        "question_text": "In figure, a tent is in the shape of a cylinder surmounted by a conical top of same diameter. If\nthe height and diameter of cylindrical part are 2.1 m and 3 m respectively and the slant height of conical part\nis 2.8 m, find the cost of canvas needed to make the tent if the canvas is available at the rate of Rs. 500/sq.\n\uf0e6 22\uf0f6\nmetre. \uf0e7 Use\uf070\uf03d \uf0f7\n\uf0e8 7 \uf0f8\nwww.vedantu.com 6 / 19",
+        "solution_text": "For conical portion, we have\nr = 1.5 m and l = 2.8 m\n\u2234 S = Curved surface area of conical portion\n1\n\u2234 S = \u03c0rl\n1\n= \u03c0 \u00d7 1.5 \u00d7 2.8\n= 4.2\u03c0 m2\nFor cylindrical portion, we have\nr = 1.5 m and h = 2.1 m\n\u2234 S = Curved surface area of cylindrical portion\n2\n\u2234 S = 2\u03c0rh\n2\n= 2 \u00d7 \u03c0 \u00d7 1.5 \u00d7 2.1\n= 6.3\u03c0 m2\nArea of canvas used for making the tent = S + S\n1 2\n= 4.2\u03c0 + 6.3 \u03c0\n= 10.5 \u03c0\n22\n= 10.5 \u00d7\n7\n= 33 m2\nwww.vedantu.com 7 / 19\nTotal cost of the canvas at the rate of Rs. 500 per m2 = Rs. (500 \u00d7 33) = Rs. 16500.\nMarks: 3",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 13,
+        "question_text": "If the point P(x, y) is equidistant from the points A(a + b, b \u2013 a) and B(a \u2013 b, a + b). Prove that\nbx = ay.",
+        "solution_text": "P(x, y) is equidistant from the points A(a + b, b \u2013 a) and B(a \u2013 b, a + b).\n\u2234 AP = BP\n[x\uf02d(a\uf02bb)]2 \uf02b[y\uf02d(b\uf02da)]2 \uf03d [x\uf02d(a\uf02db)]2 \uf02b[y\uf02d(a\uf02bb)]2\n[x\uf02d(a\uf02bb)]2 \uf02b[y\uf02d(b\uf02da)]2 \uf03d[x\uf02d(a\uf02db)]2 \uf02b[y\uf02d(a\uf02bb)]2\nx2 \uf02d2x(a\uf02bb)\uf02b(a\uf02bb)2 \uf02b y2 \uf02d2y(b\uf02da)\uf02b(b\uf02da)2 \uf03d x2 \uf02d2x(a\uf02db)\uf02b(a\uf02db)2 \uf02b y2 \uf02d2y(a\uf02bb)\uf02b(a\uf02bb)2\n\uf02d2x(a\uf02bb)\uf02d2y(b\uf02da)\uf03d\uf02d2x(a\uf02db)\uf02d2y(a\uf02bb)\nax + bx + by \u2013 ay = ax \u2013 bx + ay + by\n2bx = 2ay\n\u2234 bx = ay ....(proved)\nMarks: 3",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 14,
+        "question_text": "In figure, find the area of the shaded region, enclosed between two concentric circles of radii 7\n\uf0e6 22\uf0f6\ncm and 14 cm where \u2220AOC = 40\u00b0. \uf0e7 Use\uf070\uf03d \uf0f7\n\uf0e8 7 \uf0f8",
+        "solution_text": "Area of the region ABDC = Area of sector AOC \u2013 Area of sector BOD\n40\uf0b0 22 40\uf0b0 22\n= \uf0b4 \uf0b414\uf0b414\uf02d \uf0b4 \uf0b47\uf0b47\n360\uf0b0 7 360\uf0b0 7\n1 1\n= \uf0b422\uf0b414\uf0b42\uf02d \uf0b422\uf0b47\uf0b41\n9 9\n22\n= \uf0b4(28\uf02d7)\n9\n22\n= \uf0b421\n9\n154\n=\n3\n= 51.33 cm2\n22 22\nArea of circular ring = \uf0b414\uf0b414\uf02d \uf0b47\uf0b47\n7 7\n= 22 \u00d7 14 \u00d7 2 \u2013 22 \u00d7 7 \u00d7 1\n= 22 \u00d7 (28 \u2013 7)\n= 22 \u00d7 21\nwww.vedantu.com 8 / 19\n= 462 cm2\n\u2234 Required shaded region = Area of circular ring \u2013 Area of region ABDC\n= 462 \u2013 51.33\n= 410.67 cm2\nThus, the area of shaded region is 410.67 cm2\nMarks: 3",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 15,
+        "question_text": "If the ratio of the sum of first n terms of two A.P\u2019s is (7n +1): (4n + 27), find the ratio of their\nmth terms.",
+        "solution_text": "Let a , a be the first terms and d , d the common differences of the two given A.P\u2019s.\n1 2 1 2\nn n\nThus, we have S \uf03d [2a \uf02b(n\uf02d1)d ] and S '\uf03d [2a \uf02b(n\uf02d1)d ]\nn 2 1 1 n 2 2 2\nn\n[2a \uf02b(n\uf02d1)d ]\nS 2 1 1 2a \uf02b(n\uf02d1)d\n\uf05c n \uf03d \uf03d 1 1\nS ' n 2a \uf02b(n\uf02d1)d\nn [2a \uf02b(n\uf02d1)d ] 2 2\n2 2 2\nS 7n\uf02b1\nIt is given that n \uf03d\nS ' 4n\uf02b27\nn\n2a \uf02b(n\uf02d1)d 7n\uf02b1\n\uf05c 1 1 \uf03d ....(1)\n2a \uf02b(n\uf02d1)d 4n\uf02b27\n2 2\nTo find the ratio of the mth terms of the two given A.P's, replace n by (2m \u2013 1) in equation (1).\n2a \uf02b(2m\uf02d1\uf02d1)d 7(2m\uf02d1)\uf02b1\n\uf05c 1 1 \uf03d\n2a \uf02b(2m\uf02d1\uf02d1)d 4(2m\uf02d1)\uf02b27\n2 2\n2a \uf02b(2m\uf02d2)d 14m\uf02d7\uf02b1\n\uf05c 1 1 \uf03d\n2a \uf02b(2m\uf02d2)d 8m\uf02d4\uf02b27\n2 2\na \uf02b(m\uf02d1)d 14m\uf02d6\n\uf05c 1 1 \uf03d\na \uf02b(m\uf02d1)d 8m\uf02b23\n2 2\nHence, the ratio of the mth terms of the two A.P's is 14m \u2013 6 : 8m 23.\nMarks: 3\n1 1 2",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 16,
+        "question_text": "Solve for x: \uf02b \uf03d , x\uf0b91,2,3\n(x\uf02d1)(x\uf02d2) (x\uf02d2)(x\uf02d3) 3",
+        "solution_text": "1 1 2\n\uf02b \uf03d\n(x\uf02d1)(x\uf02d2) (x\uf02d2)(x\uf02d3) 3\n(x\uf02d3)\uf02b(x\uf02d1) 2\n\uf03d\n(x\uf02d1)(x\uf02d2)(x\uf02d3) 3\nx\uf02d3\uf02bx\uf02d1 2\n\uf03d\n(x2 \uf02d3x\uf02b2)(x\uf02d3) 3\n2x\uf02d4 2\n\uf03d\nx3 \uf02d3x2 \uf02d3x2 \uf02b9x\uf02b2x\uf02d6 3\n2x\uf02d4 2\n\uf03d\nx3 \uf02d6x2 \uf02b11x\uf02d6 3\nwww.vedantu.com 9 / 19\n6x\uf02d12\uf03d2x3 \uf02d12x2 \uf02b22x\uf02d12\n2x3 \uf02d12x2 \uf02b16x\uf03d0\n2x(x2 \uf02d6x\uf02b8)\uf03d0\nx2 \uf02d6x\uf02b8\uf03d0\nx2 \uf02d4x\uf02d2x\uf02b8\uf03d0\nx(x\uf02d4)\uf02d2(x\uf02d4)\uf03d0\n(x\uf02d4)(x\uf02d2)\uf03d0\nx\uf02d4\uf03d0 or x\uf02d2\uf03d0\nx\uf03d4 or x\uf03d2\nMarks: 3",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 17,
+        "question_text": "A conical vessel, with base radius 5 cm and height 24 cm, is full of water. This water is\nemptied into a cylindrical vessel of base radius 10 cm. Find the height to which the water will rise in the\n\uf0e6 22\uf0f6\ncylindrical vessel. \uf0e7 Use\uf070\uf03d \uf0f7\n\uf0e8 7 \uf0f8",
+        "solution_text": "Let the radius of the conical vessel = r = 5 cm\n1\nHeight of the conical vessel = h = 24 cm\n1\nRadius of the cylindrical vessel = r\n2\nLet the water rise upto the height of h cm in the cylindrical vessel.\n2\nNow, volume of water in conical vessel = volume of water in cylindrical vessel\n1\n\u03c0r 2h = r 2h\n1 1 2 2\n3\nr 2 h = 3r 2h\n1 1 2 2\n5 \u00d7 5 \u00d7 24 = 3 \u00d7 10 \u00d7 10 \u00d7 h\n2\n5\uf0b45\uf0b424\nh = = 2 cm\n2\n3\uf0b410\uf0b410\nThus, the water will rise upto the height of 2 cm in the cylindrical vessel.\nMarks: 3",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 18,
+        "question_text": "A sphere of diameter 12 cm, is dropped in a right circular cylindrical vessel, partly filled with\n5\nwater. If the sphere is completely submerged in water, the water level in the cylindrical vessel rises by 3\n9\ncm. Find the diameter of the cylindrical vessel.",
+        "solution_text": "Radius of sphere = r = 6 cm\n4 4\nVolume of sphere = \u03c0r3 = \u03c0 \u00d7 (6)3 = 288\u03c0 cm3\n3 3\nLet R be the radius of cylindrical vessel.\n5 32\nRise in the water level of cylindrical vessel = h = 3 cm = cm\n9 9\n32 32\nIncrease in volume of cylindrical vessel = \u03c0R2h = \u03c0R2 \u00d7 = \u03c0R2\n9 9\nNow, volume of water displaced by the sphere is equal to volume of sphere.\nwww.vedantu.com 10 / 19\n32\n\u2234 \u03c0R2 = 288\u03c0\n9\n288\uf0b49\n\u2234 R2 = = 81\n32\n\u2234 R = 9 cm\n\u2234 Diameter of the cylindrical vessel = 2 \u00d7 R = 2 \u00d7 9 = 18 cm\nMarks: 3",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 19,
+        "question_text": "A man standing on the deck of a ship, which is 10 m above water level, observes the angle of\nelevation of the top of a hill as 60\u00b0 and the angle of depression of the base of a hill as 30\u00b0. Find the distance\nof the hill from the ship and the height of the hill.",
+        "solution_text": "Let CD be the hill and suppose the man is standing on the deck of a ship at point A.\nThe angle of depression of the base C of the hill CD observed from A is 30\u00b0 and the angle of elevation of the\ntop D of the hill CD observed from A is 60\u00b0.\n\u2234 \u2220EAD = 60\u00b0 and \u2220BCA = 30\u00b0\nIn \u0394AED,\nDE\ntan60\uf0b0\uf03d\nEA\nh\n3 \uf03d\nx\nh = 3x ....(1)\nIn \u0394ABC,\nAB\ntan30\uf0b0\uf03d\nBC\n1 10\n\uf03d\n3 x\nx = 10 3 ....(2)\nSubstituting x = 10 3 in equation (1), we get\nh = 3 \u00d7 10 3 = 10 \u00d7 3 = 30\nDE = 30 m\nwww.vedantu.com 11 / 19\nCD = CE + ED = 10 + 30 = 40 m\nThus, the distance of the hill from the ship is 10 3 m and the height of the hill is 40 m.\nMarks: 3",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 20,
+        "question_text": "Three different coins are tossed together. Find the probability of getting\n(i) exactly two heads\n(ii) at least two heads\n(iii) at least two tails.",
+        "solution_text": "When three coins are tossed together, the possible outcomes are\nHHH, HTH, HHT, THH, THT, TTH, HTT, TTT\n\u2234 Total number of possible outcomes = 8\n(i) Favourable outcomes of exactly two heads are HTH, HHT, THH\n\u2234 Total number of favourable outcomes = 3\n3\n\u2234 P(exactly two heads) =\n8\n(ii) Favourable outcomes of at least two heads are HHH, HTH, HHT, THH\n\u2234 Total number of favourable outcomes = 4\n4 1\n\u2234 P(at least two heads) = =\n8 2\n(iii)Favourable outcomes of at least two tails are THT, TTH, HTT, TTT\n\u2234 Total number of favourable outcomes = 4\n4 1\n\u2234 P(at least two tails)= =\n8 2\nMarks: 3\nSECTION D",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 21,
+        "question_text": "Due to heavy floods in a state, thousands were rendered homeless. 50 schools collectively\noffered to the state government to provide place and the canvas for 1500 tents to be fixed by the\ngovernments and decided to share the whole expenditure equally. The lower part of each tent is cylindrical\nof base radius 2.8 cm and height 3.5 m, with conical upper part of same base radius but of height 2.1 m. If\nthe canvas used to make the tents costs Rs. 120 per sq. m, find the amount shared by each school to set up\n\uf0e6 22\uf0f6\nthe tents. What value is generated by the above problem? \uf0e7 Use\uf070\uf03d \uf0f7\n\uf0e8 7 \uf0f8",
+        "solution_text": "Height of conical upper part = 3.5 m, and radius = 2.8 m\n(Slant height of cone)2 = 2.12 + 2.82 = 4.41 + 7.84\nSlant height of cone = 12.25 = 3.5 m\nThe canvas used for each tent\n= curved surface area of cylindrical base + curved surface area of conical upper part\n= 2\u03c0rh + \u03c0rl\n= \u03c0r(2h + l)\n22\n= \u00d7 2.8(7 + 3.5)\n7\n22\n= \u00d7 2.8 \u00d7 10.5\n7\nwww.vedantu.com 12 / 19\n= 92.4 m2\nSo, the canvas used for one tent is 92.4 m2.\nThus, the canvas used for 1500 tents = (92.4 \u00d7 1500) m2.\nCanvas used to make the tents cost Rs. 120 per sq. m.\nSo, canvas used to make 1500 tents will cost Rs. 92.4 \u00d7 1500 \u00d7 120.\nThe amount shared by each school to set up the tents\n92.4\uf0b41500\uf0b4120\n= = Rs. 332640\n50\nThe amount shared by each school to set up the tents is Rs. 332640.\nThe value to help others in times of troubles is generated from the problem.\nMarks: 4",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 22,
+        "question_text": "Prove that the lengths of the tangents drawn from an external point to a circle are equal.",
+        "solution_text": "Consider a circle centered at O.\nLet PR and QR are tangents drawn from an external point R to the circle touching at points P and Q\nrespectively.\nJoin OR.\nProof:\nIn \u2206OPR and \u2206OQR,\nOP = OQ ... (Radii of the same circle)\n\u2220OPR = \u2220OQR \u2026. (Since PR and QR are tangents to the circle)\nOR = OR ... (Common side)\n\u2234 \u2206OPR \u2245 \u2206OQ R \u2026.(By R.H.S)\n\u2234 PR = QR \u2026.(c.p.c.t)\nThus, tangents drawn from an external point to a circle are equal.\nMarks: 4",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 23,
+        "question_text": "Draw a circle of radius 4 cm. Draw two tangents to the circle inclined at an angle of 60\u00b0 to\neach other.",
+        "solution_text": "Steps of construction:\n(i) Take a point O on the plane of the paper and draw a circle of radius OA = 4 cm.\n(ii) Produce OA to B such that OA = AB = 4 cm.\n(iii) Draw a circle with centre at A and radius AB.\n(iv) Suppose it cuts the circle drawn in step (i) at P and Q.\n(v) Join BP and BQ to get the desired tangents.\nwww.vedantu.com 13 / 19\nJustification:\nIn \u2206OAP, OA = OP = 4 cm ... (radii of the same circle)\nAlso, AP = 4 cm \u2026.(Radius of the circle with centre A)\n\u2234 \u2206OAP is equilateral.\n\u2234 \u2220PAO = 60\u00b0\n\u2234 \u2220BAP = 120\u00b0\nIn \u2206BAP, we have BA = AP and \u2220 BAP = 120\u00b0\n\u2234 \u2220ABP = \u2220APB = 30\u00b0\nSimilarly we can get \u2220ABQ = 30\u00b0\n\u2234 \u2220PBQ = 60\u00b0\nMarks: 4",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 24,
+        "question_text": "In figure, two equal circles, with centres O and O\u2019, touch each other at X. OO\u2019 produced meets\nthe circle with centre O\u2019 at A. AC is tangent to the circle with centre O, at the point C. O\u2019D is perpendicular\nDO'\nto AC. Find the value of .\nCO",
+        "solution_text": "AO\u2019 = O\u2019X = XO = OC \u2026..(Since the two circles are equal.)\nSo, OA = AO\u2019 + O\u2019X + XO \u2026..(A-O\u2019-X-O)\n\u2234 OA = 3O\u2019A\nIn \u2206AO'D and \u2206AOC,\n\u2220DAO' = \u2220CAO .... (Common angle)\n\u2220ADO' = \u2220ACO .... (both measure 90\uf0b0)\n\u2206ADO' ~ \u2206ACO .... (By AA test of similarity)\nDO' O'A O'A 1\n\uf03d \uf03d \uf03d\nCO OA 3O'A 3\nMarks: 4\nwww.vedantu.com 14 / 19\n1 2 4",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 25,
+        "question_text": "Solve for x: \uf02b \uf03d ; X \uf0b9 \uf02d1,\uf02d2,\uf02d4\nx\uf02b1 x\uf02b2 x\uf02b4\n1 2 4",
+        "solution_text": "\uf02b \uf03d\nx\uf02b1 x\uf02b2 x\uf02b4\nL.C.M. of all the denominators is (x + 1)(x + 2)(x + 4)\nMultiply throughout by the L.C.M., we get\n(x + 2)(x + 4) + 2(x + 1)(x + 4) = 4(x + 1)(x + 2)\n(x + 4)(x + 2 + 2x +2) = 4(x2 + 3x + 2)\n(x + 4)(3x + 4) = 4x2 + 12x + 8\n3x2 + 16x + 16 = 4x2 + 12x + 8\n\u2234 x2 \u2013 4x \u2013 8 = 0\nNow, a = 1, b = \u20134, c = \u20138\n\uf02db\uf0b1 b2 \uf02d4ac 4\uf0b1 16\uf02b32 4\uf0b1 48 4\uf0b14 3\nx\uf03d \uf03d \uf03d \uf03d\n2a 2 2 2\n\u2234 x = 2\uf0b12 3\nMarks: 4",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 26,
+        "question_text": "The angle of elevation of the top Q of a vertical tower PQ from a point X on the ground is 60\u00b0.\nFrom a point Y, 40 m vertically above X, the angle of elevation of the top Q of tower is 45\u00b0. Find the height\nof the tower PQ and the distance PX. (Use 3 = 1.73)",
+        "solution_text": "MP = YX = 40 m\n\u2234 QM = h \u2013 40\nIn right angled \u2206QMY,\nQM h\uf02d40\ntan45\uf0b0\uf03d \uf0de1\uf03d ....(MY = PX)\nMY PX\n\u2234 PX = h \u2013 40 ....(1)\nIn right angled \u2206QPX,\nQP QP\ntan60\uf0b0\uf03d \uf0de 3 \uf03d\nPX PX\nh\nPX = ....(2)\n3\nh\nFrom (1) and (2), h \u2013 40 =\n3\n\u2234 3h \u2013 40 3 = h\n\u2234 3h \u2013 h = 40 3\n\u2234 1.73h \u2013 h = 40(1.73) \uf0de h = 94.79 m\nwww.vedantu.com 15 / 19\nThus, PQ is 94.79 m.\nMarks: 4",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 27,
+        "question_text": "The houses in a row numbered consecutively from 1 to 49. Show that there exists a value of X\nsuch that sum of numbers of houses preceding the house numbered X is equal to sum of the numbers of\nhouses following X.",
+        "solution_text": "Let there be a value of x such that the sum of the numbers of the houses preceding the house\nnumbered x is equal to the sum of the numbers of the houses following it.\nThat is, 1 + 2 + 3 + . . . . + (x \u2013 1) = (x + 1) + (x + 2) + . . . . . + 49\n\u2234 1 + 2 + 3 + . . . . + (x \u2013 1)\n= [1 + 2 + .... + x + (x \u2013 1) + .... + 49] \u2013 (1 + 2 + 3 +. . . . + x)\nx\uf02d1 49 x\n\u2234 [1\uf02bx\uf02d1]\uf03d [1\uf02b49]\uf02d [1\uf02bx]\n2 2 2\n\u2234 x(x \u2013 1) = 49 \u00d7 50 \u2013 x(1 + x)\n\u2234 x(x \u2013 1) + x(1 + x) = 49 \u00d7 50\n\u2234 x2 \u2013 x + x + x2 = 49 \u00d7 50\n\u2234 x2 = 49 \u00d7 50\n\u2234 x2 = 49 \u00d7 25\n\u2234 x = 7 \u00d7 5 = 35\nSince x is not a fraction, the value of x satisfying the given condition exists and is equal to 35.\nMarks: 4",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 28,
+        "question_text": "In figure, the vertices of \u2206ABC are A(4, 6), B(1, 5) and C(7, 2). A line-segment DE is drawn\nAD AE 1\nto intersect the sides AB and AC at D and E respectively such that \uf03d \uf03d . Calculate the area of\nAB AC 3\n\u2206ADE and compare it with area of \u2206ABC.",
+        "solution_text": "AD AE 1\n\uf03d \uf03d\nAB AC 3\nAB AC\n\uf05c \uf03d \uf03d3\nAD AE\nAD\uf02bDB AE\uf02bEC\n\uf05c \uf03d \uf03d3\nAD AE\nDB EC\n\uf05c1\uf02b \uf03d1\uf02b \uf03d3\nAD AE\nwww.vedantu.com 16 / 19\nDB EC\n\uf05c \uf03d \uf03d2\nAD AE\nAD AE 1\n\uf05c \uf03d \uf03d\nDB EC 2\n\uf05cAD:DB\uf03dAE:EC\uf03d1:2\nSo, D and E divide AB and AC respectively in the ratio 1:2.\nSo the coordinates of D and E are\n\uf0e61\uf02b8 5\uf02b12\uf0f6 \uf0e6 17\uf0f6 \uf0e67\uf02b8 2\uf02b12\uf0f6 \uf0e6 14\uf0f6\n\uf0e7 , \uf0f7 \uf0ba \uf0e7 3, \uf0f7 and \uf0e7 , \uf0f7 \uf0ba \uf0e7 5, \uf0f7 respectively.\n\uf0e81\uf02b2 1\uf02b2 \uf0f8 \uf0e8 3 \uf0f8 \uf0e81\uf02b2 1\uf02b2 \uf0f8 \uf0e8 3 \uf0f8\nArea of \u2206ADE\n1 \uf0e6 17 14 \uf0f6 \uf0e6 17 14\uf0f6\n\uf03d 4\uf0b4 \uf02b3\uf0b4 \uf02b5\uf0b46 \uf02d 3\uf0b46\uf02b5\uf0b4 \uf02b4\uf0b4\n\uf0e7 \uf0f7 \uf0e7 \uf0f7\n2 \uf0e8 3 3 \uf0f8 \uf0e8 3 3 \uf0f8\n1 \uf0e668 \uf0f6 \uf0e6 85 56\uf0f6\n\uf03d \uf02b14\uf02b30 \uf02d 18\uf02b \uf02b\n\uf0e7 \uf0f7 \uf0e7 \uf0f7\n2 \uf0e8 3 \uf0f8 \uf0e8 3 3 \uf0f8\n1 \uf0e668\uf02b42\uf02b90\uf0f6 \uf0e654\uf02b85\uf02b56\uf0f6\n\uf03d \uf02d\n\uf0e7 \uf0f7 \uf0e7 \uf0f7\n2 \uf0e8 3 \uf0f8 \uf0e8 3 \uf0f8\n1 \uf0e6200\uf0f6 \uf0e6195\uf0f6\n\uf03d \uf02d\n\uf0e7 \uf0f7 \uf0e7 \uf0f7\n2 \uf0e8 3 \uf0f8 \uf0e8 3 \uf0f8\n1 5\n\uf03d \uf0b4\n2 3\n5\n= sq. units\n6\nArea of \u2206ABC\n1\n\uf03d |(4\uf0b45\uf02b1\uf0b42\uf02b7\uf0b46)\uf02d(1\uf0b46\uf02b7\uf0b45\uf02b4\uf0b42)|\n2\n1\n\uf03d |(20\uf02b2\uf02b42)\uf02d(6\uf02b35\uf02b8)|\n2\n1\n\uf03d |(64)\uf02d(49)|\n2\n15\n= sq. units\n2\nArea of \uf044ADE 5/6 1\n\uf05c \uf03d \uf03d\nArea of \uf044ABC 15/2 9\nMarks: 4\nwww.vedantu.com 17 / 19",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 29,
+        "question_text": "A number x is selected at random from the numbers 1, 2, 3, and 4. Another number y is\nselected at random from the numbers 1, 4, 9 and 16. Find the probability that product of x and y is less than\n16.",
+        "solution_text": "x is selected from 1, 2, 3 and 4\n1, 2, 3, 4\ny is selected from 1, 4, 9 and 16\nLet A = {1, 4, 9, 16, 2, 8, 18, 32, 3, 12, 27, 48, 36, 64} which consists of elements that are product of x and\ny\nNumber of outcomes less than 16\nP(product of x and y is less than 16) =\nTotal number of outcomes\n7\n\uf03d\n14\n1\n\uf03d\n2\nMarks: 4",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 30,
+        "question_text": "In figure, is shown a sector OAP of a circle with centre O, containing \u2220\u03b8. AB is perpendicular\nto the radius OQ and meets OP produced at B. Prove that the perimeter of shaded region is\n\uf0e9 \uf070\uf071 \uf0f9\nr tan\uf071\uf02bsec\uf071\uf02b \uf02d1 .\n\uf0ea \uf0fa\n\uf0eb 180 \uf0fb",
+        "solution_text": "Perimeter of shaded region = AB + PB + arc length AP ...(1)\n\uf071 \uf070\uf071r\nArc length AP = \uf0b42\uf070r \uf03d ....(2)\n360 180\nIn right angled \u2206OAB,\nAB\ntan \u03b8 = \uf0de AB = r tan \u03b8 ....(3)\nr\nOB\nsec \u03b8 = \uf0de OB = r sec \u03b8\nr\nOB = OP + PB\n\u2234 r sec \u03b8 = r + PB\n\u2234 PB = r sec \u03b8 \u2013 r .....(4)\nSubstitute (2), (3) and (4) in (1), we get\nPerimeter of shaded region = AB + PB + arc length AP\n\uf070\uf071r\n\uf03drtan\uf071\uf02brsec\uf071\uf02dr\uf02b\n180\n\uf0e9 \uf070\uf071 \uf0f9\n\uf03dr tan\uf071\uf02bsec\uf071\uf02b \uf02d1\n\uf0ea \uf0fa\n\uf0eb 180 \uf0fb\nwww.vedantu.com 18 / 19\nMarks: 4",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    },
+    {
+        "year": 2016,
+        "question_number": 31,
+        "question_text": "A motor boat whose speed is 24 km/h in still water takes 1 hour more to go 32 km upstream\nthan to return downstream to the same spot. Find the speed of the stream.",
+        "solution_text": "Let the speed of the stream be s km/h.\nSpeed of the motor boat 24 km/h\nSpeed of the motor boat upstream 24 \u2013 s\nSpeed of the motor boat downstream 24 + s\nAccording to the given condition,\n32 32\n\uf02d \uf03d1\n24\uf02ds 24\uf02bs\n\uf0e6 1 1 \uf0f6\n\uf05c32 \uf02d \uf03d1\n\uf0e7 \uf0f7\n\uf0e824\uf02ds 24\uf02bs\uf0f8\n\uf0e624\uf02bs\uf02d24\uf02bs\uf0f6\n\uf05c32 \uf03d1\n\uf0e7 \uf0f7\n\uf0e8 576\uf02ds2 \uf0f8\n\u2234 32 \u00d7 2s = 576 \u2013 s2\n\u2234 s2 + 64s \u2013 576 = 0\n\u2234 (s + 72)(s \u2013 8) = 0\n\u2234 s = \u201372 or s = 8\nSince, speed of the stream cannot be negative, the speed of the stream is 8 km/h.\nMarks: 4\nwww.vedantu.com 19 / 19",
+        "source_file": "Previous Years Maths Question Paper for CBSE Class 10 - 2016.pdf"
+    }
+]
