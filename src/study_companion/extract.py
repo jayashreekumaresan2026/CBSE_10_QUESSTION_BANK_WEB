@@ -1,11 +1,11 @@
 import json
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).resolve().parent
-PDF_DIR = PROJECT_ROOT / "MATHS_QUESTION_PAPERS"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PDF_DIR = PROJECT_ROOT / "data" / "raw" / "pdfs"
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 PROCESSED_JSON = PROCESSED_DIR / "questions.json"
-CLEAN_QUESTIONS_JSON = PROJECT_ROOT / "clean_questions_all.json"
+CLEAN_QUESTIONS_JSON = PROJECT_ROOT / "data" / "interim" / "clean_questions_all.json"
 
 
 def process_raw_pdfs():
@@ -13,7 +13,7 @@ def process_raw_pdfs():
     all_questions = []
 
     try:
-        from pdf_preprocessor import extract_text, extract_questions, extract_year_from_name
+        from .pdf_preprocessor import extract_text, extract_questions, extract_year_from_name
 
         pdf_files = sorted(PDF_DIR.glob("*.pdf"))
         for pdf_path in pdf_files:

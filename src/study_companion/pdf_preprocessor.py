@@ -2,8 +2,9 @@ import re
 import json
 from pathlib import Path
 
-PDF_DIR = Path("/Users/jaya/PycharmProjects/PythonProject/MATHS_QUESTION_PAPERS")
-OUTPUT_FILE = Path("clean_questions_all.json")
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PDF_DIR = PROJECT_ROOT / "data" / "raw" / "pdfs"
+OUTPUT_FILE = PROJECT_ROOT / "data" / "interim" / "clean_questions_all.json"
 
 def extract_text(pdf_path):
     # Try PyMuPDF first; fall back to pdfplumber if local binary deps are missing.

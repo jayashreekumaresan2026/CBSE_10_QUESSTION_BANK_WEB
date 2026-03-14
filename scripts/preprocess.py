@@ -1,13 +1,18 @@
-import os
-import json
+import sys
 from pathlib import Path
+
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from extract import process_raw_pdfs
-from classify import classify_question
-from database import Base, Question
 
-PROJECT_ROOT = Path(__file__).resolve().parent
+# Allow imports from src/ without installing the package.
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+SRC_DIR = PROJECT_ROOT / "src"
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
+from study_companion.classify import classify_question
+from study_companion.database import Base, Question
+from study_companion.extract import process_raw_pdfs
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 DB_PATH = PROCESSED_DIR / "repeated_questions.db"
 DB_URL = f"sqlite:///{DB_PATH}"
