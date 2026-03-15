@@ -1,0 +1,1571 @@
+{
+  "meta": {
+    "source": "data/processed/questions.json",
+    "years": [
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "note": "Frequency is computed across available years in this dataset."
+  },
+  "chapters": [
+    {
+      "name": "Reading Skills",
+      "errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ],
+      "mind_map_note": "Add a chapter mind map image/link here."
+    },
+    {
+      "name": "Writing Skills",
+      "errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ],
+      "mind_map_note": "Add a chapter mind map image/link here."
+    },
+    {
+      "name": "Grammar",
+      "errors": [
+        "Subject-verb agreement issues.",
+        "Tense inconsistency.",
+        "Incorrect reported speech conversions."
+      ],
+      "secrets": [
+        "Identify the tense of the reporting verb first.",
+        "Read the full sentence before choosing a determiner."
+      ],
+      "mind_map_note": "Mind Map: Tenses, Modals, Determiners, Reported Speech."
+    },
+    {
+      "name": "Literature - First Flight",
+      "errors": [
+        "Vague character sketches.",
+        "Misinterpreting the central theme.",
+        "Incorrect poem-poet pairings."
+      ],
+      "secrets": [
+        "Quote 1-2 lines from the poem if possible.",
+        "Focus on the 'message' of the story."
+      ],
+      "mind_map_note": "Mind Map: Lencho, Mandela, Anne Frank, Poets & Themes."
+    },
+    {
+      "name": "Literature - Footprints Without Feet",
+      "errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ],
+      "mind_map_note": "Add a chapter mind map image/link here."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Reading Skills|89c33f120d",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "Read the passage given below and complete the statements that follow by choosing the most appropriate options. 1$\\times$5 = Cheraw is the most colourful Mizo dance. Bamboos are used in this dance. Hence the dancer moves by stepping alternately in and out from between and across a pair of horizontal bamboos, held against the ground by people sitting face to face at either side. They tap the bamboos open and close in rhythmic beats. Two bases support the bamboos, placed horizontally, one at each end. The bamboos, when clapped, produce a sharp sound, which forms the rhythm of the dance. It indicates the timing of the dance as well. The dancers step in and out to the beats of the bamboos with ease and grace. The patterns and stepping of the dance have many variations. Sometimes the steppings are made in imitation of the movements of birds, sometimes the swaying of trees and so on. Little is known about the origin of Cheraw. It may be possible that the forefathers of the Mizos brought it with them when they left home in Far-East Asia. Cheraw is performed on any occasion these days. But, so goes the legend. It used to be performed in earlier times only to ensure a safe passage for a dead child to paradise. Cheraw is, therefore, a dance of sanctification and redemption performed with great care, precision and elegance.\n(a) According to the passage, Cheraw is __________________ . (i) a form of art (ii) a festival of lights (iii) a form of dance (iv) a Mizo animal",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2014"
+      ],
+      "occurrences": [
+        {
+          "year": "2014",
+          "question_number": "1",
+          "source_file": "Class 10 - 2014.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|a89d8524e6",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "Read the passage given below and complete the statements that follow by choosing the most appropriate options. 1 $\\times$ 5 = Himalayan valley is the geographical guard of the Indian territory against any foreign invasion keeping the enemy at bay from the western to the eastern subcontinent of the Asian sphere. The valley abounds with a classified variety Class X English  4 of different glaciers, wildlife, peaks and thick vegetation liable to support the homo sapiens. Pindari glacier is a range of four glaciers, namely Sunderdunga, Namik, Pindari and Kafni. To go to Pindari glacier it is a 54 km trek and the walking part is normally covered in four days. In this trek, we cross many mountains and forests and see a lot of wildlife. We were eight members in the team. The whole trip took us ten days in the mountains. Throughout the way, our guide and my father explained to us the various features of the Himalayas we were passing through. We had to face bad weather for two days. There was a steep climb at some places and as we climbed up we were affected by high altitude sickness and lack of oxygen and we felt very tired. Pindari glacier is surrounded on all sides by snow-covered peaks such as Nanda Devi, Nanda Kot, Nanda Khat, Bailiuri and many more. This glacier is a frozen river of ice and settled in such a way that it looks like a huge staircase. There I saw all physical features such as gorges, moraines, hanging valleys, etc.\n(a) Pindari glacier is _______________ . (i) a glacier range of four mountains namely Sunderdunga, Namik, Pindari and Kafni (ii) a mountain peak surrounded by Sunderdunga, Namik and Kafni (iii) a forest in the Himalayan region (iv) a range of four glaciers, namely Sunderdunga, Namik, Pindari and Kafni",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2014"
+      ],
+      "occurrences": [
+        {
+          "year": "2014",
+          "question_number": "2",
+          "source_file": "Class 10 - 2014.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|1b89bcfa36",
+      "chapter": "Reading Skills",
+      "marks": 3,
+      "text": "Read the passage given below and fill in the blanks by choosing the most appropriate words from the given options. 1$\\times$3 = A rich man from Punjab who\n(a) ______________ to Rohtak to purchase land,\n(b) ______________ of < 30 lakhs from his car on Monday. His son\n(c) ______________ inside the car when the robbery took place.\n(a) (i) come (ii) came (iii) was coming (iv) coming",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2014"
+      ],
+      "occurrences": [
+        {
+          "year": "2014",
+          "question_number": "7",
+          "source_file": "Class 10 - 2014.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|57597addcc",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "The following passage has not been edited. There is an error in each line against which a blank has been given. Write the incorrect word and the correction in your answer sheet against the correct blank number as given in the example. Remember to underline the word that you have supplied. 1$\\times$3 = Error Correction If your children is overweight, e.g. children child avoids fruit but vegetables,\n(a) _________ ____________ and prefers computer games than real\n(b) _________ ____________ ones, you should being concerned.\n(c) _________ ____________",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2014"
+      ],
+      "occurrences": [
+        {
+          "year": "2014",
+          "question_number": "10",
+          "source_file": "Class 10 - 2014.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|12eb1f0f12",
+      "chapter": "Reading Skills",
+      "marks": 1,
+      "text": "Read the passage given below and answer the questions that follow : 8 Marks",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 2,
+      "years": [
+        "2014",
+        "2019"
+      ],
+      "occurrences": [
+        {
+          "year": "2014",
+          "question_number": "12",
+          "source_file": "Class 10 - 2014.pdf"
+        },
+        {
+          "year": "2019",
+          "question_number": "1",
+          "source_file": "Class 10 - 2019.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|e4359133a7",
+      "chapter": "Reading Skills",
+      "marks": 3,
+      "text": "Read the passage given below and answer the questions that follow : 1$\\times$3 = I\u2019m off my balance with joy, absolutely off my balance ! Oh, with all my soul ... I\u2019ll go and call Natasha, and all that.\n(a) Who is the speaker?",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2014"
+      ],
+      "occurrences": [
+        {
+          "year": "2014",
+          "question_number": "13",
+          "source_file": "Class 10 - 2014.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|a50560e33e",
+      "chapter": "Reading Skills",
+      "marks": 1,
+      "text": "Read the passage given below: 12 Marks",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 2,
+      "years": [
+        "2015",
+        "2017"
+      ],
+      "occurrences": [
+        {
+          "year": "2015",
+          "question_number": "1",
+          "source_file": "Class 10 - 2015.pdf"
+        },
+        {
+          "year": "2015",
+          "question_number": "2",
+          "source_file": "Class 10 - 2015.pdf"
+        },
+        {
+          "year": "2017",
+          "question_number": "2",
+          "source_file": "Class 10 - 2017.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|7142fa2855",
+      "chapter": "Reading Skills",
+      "marks": 3,
+      "text": "As I drowsed, I was aware of cautious steps and hushed voices all around. I was in no mood to bother about anything. All I wanted was a little moment of sleep; the daylight was very bright. On the basis of your reading of the above passage, answer the following questions:\n(a) How did the diners at Anand Bhawan react to seeing the tiger?",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2015"
+      ],
+      "occurrences": [
+        {
+          "year": "2015",
+          "question_number": "4",
+          "source_file": "Class 10 - 2015.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|3281ce30dc",
+      "chapter": "Reading Skills",
+      "marks": 3,
+      "text": "Read the passage given below and fill in the blanks by choosing the most appropriate options from the ones that follow: 1\u2715 3 = There are ways and ways\n(a) _______ tackling a problem. But governments all over the world\n(b) _________ only one system\n(c) ______________ is : the carrot-and-stick one.\n(a) (i) in (ii) of (iii) from (iv) on",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2015"
+      ],
+      "occurrences": [
+        {
+          "year": "2015",
+          "question_number": "5",
+          "source_file": "Class 10 - 2015.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|52e65b2aad",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "The following passage has not been edited. There is one error in each line against which a blank has been given. Write the incorrect word and the correction in your answer sheet against the correct blank number as given in the example. Remember to underline the word that you have supplied. 1\u2715 4 = Error Correction Summer camps develop a child confidence. e.g. child child\u2019s They also encourages children\n(a) _________ _________ to do things by their own.\n(b) _________ _________ The camps is beneficial to\n(c) _________ _________ aggressive children as we promote\n(d) _________ _________ mutual understanding.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2015"
+      ],
+      "occurrences": [
+        {
+          "year": "2015",
+          "question_number": "6",
+          "source_file": "Class 10 - 2015.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|8e556cdb13",
+      "chapter": "Reading Skills",
+      "marks": 3,
+      "text": "Answer the following question in 80 \u2013 100 words: Through \u2018The Sermon at Benares\u2019, the Buddha preached that death is inevitable and we need to overcome the suffering and pain that follows. Based on your reading of the lesson, write how one should cope with the death of a loved one.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2015"
+      ],
+      "occurrences": [
+        {
+          "year": "2015",
+          "question_number": "10",
+          "source_file": "Class 10 - 2015.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|29419ab859",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "Read the passage given below and answer the questions that follow: If you are addicted to coffee, and doctors warn you to quit the habit, don\u2019t worry and just keep relishing the beverage, because it\u2019s not that bad after all! In fact, according to a new study, the steaming cup of Java can beat fruits and vegetables as the primary source of antioxidants. Some studies state that coffee is the number one source of antioxidants in American diet, and both caffeinated and decaf versions appear to provide similar antioxidant levels. Antioxidants in general have been linked to a number of potential health benefits, including protection against heart diseases and cancer, but Vinson, a dietitian said that their benefits ultimately depend on how they are absorbed and utilized in the body. The research says that coffee outranks popular antioxidant sources like tea, milk, chocolate and cranberries. Of all the foods and beverages studied, dates actually have the most antioxidants based solely on serving size, but since dates are not consumed anywhere near the level of coffee, the drink comes as the top source of antioxidants, Vinson said. Besides keeping you alert and awake, coffee has been linked to an increasing number of potential health benefits, including protection against liver and colon cancer, type 2 diabetes, and Parkinson\u2019s disease, according to some recently published studies. The researchers, however, advise that one should consume coffee in moderation, 1 because it can make you jittery and cause stomach pains.\n(a) What do doctors advise us about the habit of drinking coffee?",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2016"
+      ],
+      "occurrences": [
+        {
+          "year": "2016",
+          "question_number": "1",
+          "source_file": "Class 10 - 2016.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|f02a7c433c",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "Read the following passage carefully: Gandhiji As a Fund Raiser Gandhiji was an incurable and irrestible fund raiser. He found special relish in getting jewellery from women. Ranibala of Burdwan was ten years old. One day she was playing with Gandhiji. He explained to her that her bangles were too heavy for her delicate little wrists. She removed the bangles and gave them away to Gandhiji. He used to talk jokingly to small girls and created distaste for ornaments and created a 2 desire in them to part with the jewellery for the sake of the poor. He motivated them to donate their jewellery for social usage. Kasturbai didn\u2019t appreciate this habit of Gandhiji. Once she stated calmly, \u2018You don\u2019t wear jewels, it is easy for you to get around the boys. But what about our daughters-in- law? They would surely want them. \u201cWell!\u201d Gandhiji put in mildly, \"our children are young and when they grow up they will not surely choose wives who are found of wearing jewellery.\u201d Kasturbai was very upset with the answer. Gandhiji was determined to keep the jewels to raise community fund. He was of the opinion that a public worker should accept no costly gifts. He believed that he should not own anything costly, whether given or earned. Kasturbai was a female with a desire to adorn. But Gandhiji moved towards renunciation and donated every penny earned in South Africa to the trustees for the service of South African Indians.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2016"
+      ],
+      "occurrences": [
+        {
+          "year": "2016",
+          "question_number": "2",
+          "source_file": "Class 10 - 2016.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|e834756991",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "Read the passage given below: 8 Marks Then all the windows of the grey wooden house (Miss Hilton used to live here. She expired last week), were thrown open, a thing I had never seen before. At the end of the day a sign was nailed on the mango tree: FOR SALE. Nobody in the street knew Miss Hilton. While she lived, her front gate was always locked and no one ever saw her leave or saw anybody go in. So, even if you wanted to, you couldn\u2019t feel sorry and say that you missed Miss Hilton. When I think of her house I see just two colours. Grey and green. The green of the mango tree, the grey of the house and the grey of the high iron fence that prevented you from getting at the mangoes. If your cricket ball fell in Miss Hilton\u2019s courtyard you never got it back. It wasn\u2019t the mango season when Miss Hilton died. But we got back about ten or twelve of our cricket balls. The house was sold and we were prepared to dislike the new owners even before they came. I think we were a little worried. Already we had one resident of the street who kept on complaining about us to our parents. He complained that we played cricket on the pavement; and if we were not playing cricket, he complained that we were making too much noise anyway. Class X English Language  3 One afternoon when I came back from school Pal said, \u2018\u2018Is a man and a woman. She pretty pretty, but he ugly like hell.\u2019\u2019 I didn\u2019t see much. The front gate was open, but the windows were shut again. I heard a dog barking in an angry way. One thing was settled pretty quickly. Whoever these people were, they would never be the sort of people to complain that we were making noise and disturbing their sleep. A lot of noise came from the house that night. The radio was going at full volume until midnight when the radio station closed down. The dog was barking and the man was shouting. I didn\u2019t hear the woman. On the basis of your understanding of the above passage, complete the statements that follow: 1$\\times$8=8 Marks\n(a) Nobody went into Miss Hilton\u2019s house because her front _________ .\n(b) Her house had only two colours, (i) ______, and (ii) _______ .\n(c) The high iron fence did not let the boys get __________ .\n(d) They never got it back if their __________ fell into her courtyard. (e) The boys were ready to dislike the ____________ . (f) One resident of the street always ___________ . (g) The new owners of Miss Hilton\u2019s house were (i) _______, and (ii) _______ (h) The man was shouting, the dog was barking, only __________ .",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2017"
+      ],
+      "occurrences": [
+        {
+          "year": "2017",
+          "question_number": "1",
+          "source_file": "Class 10 - 2017.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|d714b8f4f6",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "Answer any four of the following questions in 30-40 words each : (2 4 = 8) a. What excited Rajvir ? Why did Pranjol not share his excitement ? b. \u2018He senses first responsibility\u2019 \u2013 What responsibility is referred to here ? (The Ball Poem) c. What was Horace Danby\u2019s hobby ? How did he manage to fulfill it ? d. Why did Matilda (Mme Loisel) leave the ball in a hurry ? What does it show about her character ? e. In which queer way did Anil make a living ? (The Thief\u2019s Story)",
+      "solution": "Ans. Objective: To test local and global comprehension, themes and ideas in the text. Marking: Content Expression: (any four) 2 x 4=8 a. Rajvir was excited to look at the beautiful scenery and wide range of green tea gardens. Pranjol was born and brought up in Assam, not excited / nothing new for him b. The responsibility of taking care of his things in this world of possessions and cope up 11 with the loss. c. He is fond of collecting rare and expensive books, managed it by breaking open a safe every year d. no one notices her shabby shaw l It shows her false pride / vanity e. wrote for magazines, made money by fits and starts",
+      "solution_steps": [
+        "Ans. Objective: To test local and global comprehension, themes and ideas in the text. Marking: Content Expression: (any four) 2 x 4=8 a. Rajvir was excited to look at the beautiful scenery and wide range of green tea gardens. Pranjol was born and brought up in Assam, not excited / nothing new for him b. The responsibility of taking care of his things in this world of possessions and cope up 11 with the loss. c. He is fond of collecting rare and expensive books, managed it by breaking open a safe every year d. no one notices her shabby shaw l It shows her false pride / vanity e. wrote for magazines, made money by fits and starts"
+      ],
+      "frequency": 1,
+      "years": [
+        "2018"
+      ],
+      "occurrences": [
+        {
+          "year": "2018",
+          "question_number": "9",
+          "source_file": "Class 10 - 2018.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|4c58d1ffbc",
+      "chapter": "Reading Skills",
+      "marks": 3,
+      "text": "Answer the following question in 100-120 words : (8) In life, people who easily trust others are sometimes made to look foolish. One should not be too trusting. Describe how Oliver Lutkins made a fool of the young lawyer. OR What lesson on death and suffering did the Buddha teach Gotami in the chapter, \u2018The Sermon at Benaras\u2019 ?",
+      "solution": "Ans. Value based Question 8 Objective: To test local and global comprehension, themes and ideas in the text. Marking: Content: Fluency: Grammatical Accuracy (Minimum four points) Lutkins impressed the lawyer with his friendly manner; led the lawyer to think that the people of the town were trustworthy. claimed to know most of the places where Lutkins could be found befooled the lawyer charged high price for the hack and food alerted Fritz, friends and mother not to reveal his identity to the lawyer even went to the railway station to see him off on his second visit the lawyer learnt that the hack driver himself was Lutkins no one should be too trusting\nOR\nthat life of mortals is troubled, brief, combined with pain death is common to all 12 like ripe fruits, earthen vessels human lives will break/ decay (death) one day neither father nor kinsmen can save anyone weeping and grieving will never bring back the dead alive one should accept death",
+      "solution_steps": [
+        "Ans. Value based Question 8 Objective: To test local and global comprehension, themes and ideas in the text. Marking: Content: Fluency: Grammatical Accuracy (Minimum four points) Lutkins impressed the lawyer with his friendly manner; led the lawyer to think that the people of the town were trustworthy. claimed to know most of the places where Lutkins could be found befooled the lawyer charged high price for the hack and food alerted Fritz, friends and mother not to reveal his identity to the lawyer even went to the railway station to see him off on his second visit the lawyer learnt that the hack driver himself was Lutkins no one should be too trusting",
+        "OR",
+        "that life of mortals is troubled, brief, combined with pain death is common to all 12 like ripe fruits, earthen vessels human lives will break/ decay (death) one day neither father nor kinsmen can save anyone weeping and grieving will never bring back the dead alive one should accept death"
+      ],
+      "frequency": 1,
+      "years": [
+        "2018"
+      ],
+      "occurrences": [
+        {
+          "year": "2018",
+          "question_number": "10",
+          "source_file": "Class 10 - 2018.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|843f44b66d",
+      "chapter": "Reading Skills",
+      "marks": 2,
+      "text": "Rearrange any four of the following groups of words/phrases to make meaningful sentences : 1$\\times$4=\n(a) of mankind / reading is / one of / pleasures / the greatest",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "occurrences": [
+        {
+          "year": "2019",
+          "question_number": "7",
+          "source_file": "Class 10 - 2019.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|a33d51ad3c",
+      "chapter": "Reading Skills",
+      "marks": 2,
+      "text": "Do not exceed the prescribed word limit while answering the questions. SECTION \u2013 A (Reading) 20 Marks",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2020"
+      ],
+      "occurrences": [
+        {
+          "year": "2020",
+          "question_number": "6",
+          "source_file": "Class 10 - 2020.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|039e55aad6",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "Read the following passage carefully. 8 Marks 1 Caged behind thick glass, the most famous dancer in the world can easily be missed in the National Museum, Delhi. The Dancing Girl of Mohenjo - daro is that rare artefact that even school children are familiar with. Our school textbooks also communicate the wealth of our 5000-year heritage of art. You have to be alert to her existence there, amid terracotta animals to rediscover this bronze image. 2 Most of us have seen her only in photographs or sketches. Therefore, the impact of actually holding her is magnified a million times over. One discovers that the dancing girl has no feet. She is small, a little over 10 cm tall \u2014 the length of a human palm \u2014 but she surprises us with the power of great art \u2014 the ability to communicate across centuries. 3 A series of bangles \u2014 of shell or ivory or thin metal \u2014 clothe her left upper arm all the way down to her fingers. A necklace with three pendants bunched together and a few bangles above the elbow and wrist on the right hand display an almost modern art. 4 She speaks of the undaunted, ever hopeful human spirit. She reminds us that it is important to visit museums in our country to experience the impact that a work of art leaves on our senses, to find among all the riches Class XII English Elective  3 one particular vision of beauty that speaks to us alone.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2020"
+      ],
+      "occurrences": [
+        {
+          "year": "2020",
+          "question_number": "1",
+          "source_file": "Class 10 - 2020.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|0d0c154c8e",
+      "chapter": "Reading Skills",
+      "marks": 1,
+      "text": "Read the passage given below: Sifting through the sands of time",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "occurrences": [
+        {
+          "year": "2022",
+          "question_number": "1",
+          "source_file": "Class 10 - 2022.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|0ad4c72da2",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "Sand is an irreplaceable industrial ingredient whose uses are legion: but it has one vital function you might never even notice. Sand cushions our land from the sea\u2019s impact, and geologists say it often does a better job of protecting our shores than the most advanced coastal technology. On the basis of your understanding of the passage, answer any five questions from the six given below: (5 X$_{1}$=) (i) How is sand a \u2018treasure trove\u2019?",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2022"
+      ],
+      "occurrences": [
+        {
+          "year": "2022",
+          "question_number": "7",
+          "source_file": "Class 10 - 2022.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|fe42aac780",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "Is organic food safer and more nutritious? This is an important part of the debate. Many farmers and consumers believe it is safer and more nutritious. They think agricultural chemicals can cause serious illnesses such as this is true. However, recent studies have shown that eating organically grown produce reduces your chances of developing heart disease. Many doctors think it is more important to stop dangerous bacteria from contaminating foods. These bacteria can contaminate both organic and non-organic fruits and vegetables, and doctors recommend washing produce carefully before eating it. Meat, fish and chicken can  2 also become contaminated so washing your hands before handling these foods is also very important. Based on your understanding of the passage, answer the questions given below: 10x1=10 (i) People are willing to pay high prices for organic food because\n(a) it is not easily available.\n(b) it helps in weight loss.\n(c) it is produced by small companies.\n(d) it does not contain agricultural chemicals.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "occurrences": [
+        {
+          "year": "2023",
+          "question_number": "4",
+          "source_file": "Class 10 - 2023.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|6238d6b384",
+      "chapter": "Reading Skills",
+      "marks": 1,
+      "text": "Read the following text: 10 M (1) Fossil fuels (oil, coal, and natural gas) are our most traditional sources for power generation. The energy that's produced from any source other than fossil fuels is termed as alternative energy. Between the two sources, using alternative energy has a lower environmental impact. (2) We now know that alternative energy sources are the sources we use to supplement or even replace traditional energy sources used for power generation. You could almost say the same thing about. renewable energy sources. But there is one subtle difference between the two. All renewable energy sources fall under the category of alternative energy sources, but it doesn't work the other way around. (3) That's because renewable energy sources are derived from naturally replenished sources processes of Earth, such as the sun, wind, and water. We refer to these resources as renewable or sustainable since, unlike fossil fuels, this naturally occurring continual renewal makes them inexhaustible. However, alternative energy sources are exhaustible, and therefore not renewable. That's the difference! (4) The equipment necessary to harness energy from alternative sources used to be so expensive that it wasn't practical for consumer use. However, thanks to increased demand, more experienced energy developers, competitive supply chains, improved renewable technologies, and enhanced energy efficiency capabilities, that's no longer the case. (5) When comes to energy efficiency, the leader of the renewable energy pack is wind energy. Behind wind comes geothermal energy, hydropower, nuclear energy, and then solar power. Wind power serves both individuals and entire communities. It is versatile,  2 and can be produced from small-scale windmills or wind turbines on residential properties. It can also be produced from large-scale offshore wind farms in the ocean. (6) We generate geothermal power by tapping into underground reservoirs of hot water and steam. Geothermal electricity can directly heat and cool buildings. Generated from the energy of moving water, hydroelectricity (also known as hydropower) is produced when water behind a dam causes turbine blades to move as it flows through an intake. The turbine blades then rotate a generator to produce electricity that is sent to power homes. (7) Nuclear energy is created in the form of heat through the fission process of atoms. The initial fission process creates energy and triggers a chain reaction that repeats the process and generates more energy. In nuclear power plants, the heat that fission produces creates steam. The steam then rotates a turbine, which leads to the production of electricity. (8) Solar power most commonly refers to the use of solar cells to create energy. On a small scale, you may see a few solar panels on a house roof used to produce energy for just that one home. On a larger scale, you may see a solar farm used as a power plant to produce electricity for its consumers. Answer the following questions, based on the above passage: (i) Which of the following statements best describes the difference between renewable energy sources and alternate energy sources? 1\n(A) Alternative energy sources are more expensive than renewable energy sources.\n(B) Renewable energy sources are inexhaustible whereas alternate. energy sources could be exhaustible.\n(C) Alternative energy sources are as renewable as renewable energy sources.\n(D) Renewable energy sources are exhaustible but alternative energy sources are inexhaustible.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "occurrences": [
+        {
+          "year": "2024",
+          "question_number": "1",
+          "source_file": "Class 10 - 2024.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|d2b4c8b4aa",
+      "chapter": "Reading Skills",
+      "marks": 4,
+      "text": "Read the following text, an excerpt from a case study titled \"Scouts and Guides Around the World,\" 10 M (1) Many young people aged between 6 and 25 belong to the Scout movement. It is a worldwide organization, which was set up to help young people achieve their full potential as they grow up. (2) The organization was established in 1907 by a British general called Robert Baden- Powell. While in the army, he wrote a publication about scouting (which means searching and keeping watch) and how to survive in the wild, called 'Aids to Scouting'. He realized how popular this was, and the result was another book, 'Scouting for Boys', which had less emphasis on the military. To test his ideas, he held a week-long camp for 21 boys from various schools in London, Poole and Bournemouth. This took place in August 1907, on Brownsea Island, in Southern England. These boys had the chance to enjoy outdoors, which became another of the movement's objectives. (3) The Scout Movement quickly got established in Europe. It then spread throughout the world, starting in Chile in 1909. To begin with, the focus was on boys aged 11 to 18. However, as the movement grew, it was clear that younger boys, older boys and girls all wanted to be involved. Baden-Powell's sister set up the Girl Guides in 1910, and in 1914 she started Rosebuds, later renamed. Brownies, for younger girls. The movement's intention to help young people play useful roles in society applies equally to girls and boys. By$_{2010}$, there were 32 million scouts, and by 2006, there were 10 million guides around the world, from a total of 216 different countries. (4) 2007 marked 100 years of the Scout Movement, and events took place around the world to celebrate this centenary. To mark the occasion, a colourful badge was produced for scouts to sew onto their. uniforms or bags. The design included the official scout emblem, as well as the phrase, 'one world one promise', and images of doves and the globe. (5) 2007 was also the 150th anniversary of Baden-Powell's birth. To honour both occasions, a flame was lit at Baden-Powell's grave in Nyeri. This is the place in Kenya where he spent the last few years of his life. The flame was then carried through several countries until it reached the UK.  6 Answer the following questions based on your reading of the above passage: (i) Infer one reason for the following, based on the information given in paragraph 4: 'Colourful badge was sewn on to the uniform and bags of the Scouts'.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "occurrences": [
+        {
+          "year": "2024",
+          "question_number": "2",
+          "source_file": "Class 10 - 2024.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|644347a2a2",
+      "chapter": "Reading Skills",
+      "marks": 2,
+      "text": "Which of the following is an example of an interrogative sentence?\n(a) She sings beautifully.\n(b) Do you like reading books?\n(c) He was absent yesterday.\n(d) Please close the door.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2025"
+      ],
+      "occurrences": [
+        {
+          "year": "2025",
+          "question_number": "5",
+          "source_file": "Class 10 - 2025.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|0a0592e92e",
+      "chapter": "Reading Skills",
+      "marks": 2,
+      "text": "Which of the following is a compound sentence?\n(a) He went to the market.\n(b) She is reading.\n(c) I ran fast, but I missed the bus.\n(d) It was raining.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2025"
+      ],
+      "occurrences": [
+        {
+          "year": "2025",
+          "question_number": "9",
+          "source_file": "Class 10 - 2025.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Reading Skills|f299eeb740",
+      "chapter": "Reading Skills",
+      "marks": 1,
+      "text": "Assertion (A): Regular reading improves vocabulary.\nReason (R): Reading exposes individuals to a variety of words in different contexts. Choices:\n(a) Both A and R are true, and R is the correct explanation of A.\n(b) Both A and R are true, but R is not the correct explanation of A.\n(c) A is true, but R is false.\n(d) A is false, but R is true.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2025"
+      ],
+      "occurrences": [
+        {
+          "year": "2025",
+          "question_number": "19",
+          "source_file": "Class 10 - 2025.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|202c0f80bd",
+      "chapter": "Writing Skills",
+      "marks": 4,
+      "text": "You are Rahul / Rohini, a resident of K$^{-}$Block, Rajouri Garden, New Delhi. Your friend Rajat / Rajni, who lives in another city, has met with an accident in which he / she has fractured his / her leg. Fortunately the injury is not very serious but he / she will have to miss his / her SA-II Examination (or final examination). Write a letter, in about 120 words, to enquire about his / her well- being, cheering him / her up, playing down the seriousness of missing the examination. Wish him / her a speedy recovery.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2014"
+      ],
+      "occurrences": [
+        {
+          "year": "2014",
+          "question_number": "4",
+          "source_file": "Class 10 - 2014.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|32cd319ef8",
+      "chapter": "Writing Skills",
+      "marks": 4,
+      "text": "Midday meal programme of the government started with the noble objective of encouraging children to come to school and improve their nutritional status. But reports of the recent death of 23 children in Bihar and other incidents of negligence in cooking the midday meal has produced an alarming effect on the minds of the parents. You are Akshit / Akshita, Head Boy / Head Girl of your school. Write an article, in 120 \u2013 150 words, on the topic \u2014 \u2018Midday Meal Scheme \u2014 How to improve it ?\u2019.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2014"
+      ],
+      "occurrences": [
+        {
+          "year": "2014",
+          "question_number": "5",
+          "source_file": "Class 10 - 2014.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|88a1575cea",
+      "chapter": "Writing Skills",
+      "marks": 3,
+      "text": "Your city celebrated \u2018Vijay Dashmi\u2019 / Dussehra. As a reporter of your school magazine, write a report in 120 \u2013 150 words, mentioning the crowds, arrangements, dignitaries present, the celebrations, fire-works and crackers.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2014"
+      ],
+      "occurrences": [
+        {
+          "year": "2014",
+          "question_number": "6",
+          "source_file": "Class 10 - 2014.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|b9d0526ba2",
+      "chapter": "Writing Skills",
+      "marks": 3,
+      "text": "Answer the following question in about 100 words : On the basis of diary entries of May 1944, explain her father\u2019s reaction to Anne\u2019s rebellious letter to him. What was it that brought about a change in her feelings towards her father ?",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2014"
+      ],
+      "occurrences": [
+        {
+          "year": "2014",
+          "question_number": "17",
+          "source_file": "Class 10 - 2014.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|70154030ab",
+      "chapter": "Writing Skills",
+      "marks": 3,
+      "text": "Nowadays, we see the rise in prices of edible things like pulses, onions, oils and some other products. The layman is facing hardship on account of it. Write a letter in 120-150 words to the editor of a reputed daily requesting him to highlight the difficulties faced by common man due to rise in prices. Sign yourself as Pranjal/Praneeta living at 124, Vivek Vihar, Delhi.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2016"
+      ],
+      "occurrences": [
+        {
+          "year": "2016",
+          "question_number": "3",
+          "source_file": "Class 10 - 2016.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|096d028da4",
+      "chapter": "Writing Skills",
+      "marks": 4,
+      "text": "The following paragraph has not been edited. There is one error in each line against which a blank has been given. Write the error and the correction in your answer sheet against the correct blank number as given in the example. Remember to underline the word that you have supplied. Error Correction Research is an detailed study of a e.g. an a subject undertaking on a systematic\n(a) _________ _________ basis in order to increase a stock of\n(b) _________ _________ knowledge, including knowledge for man,\n(c) _________ _________ 7 culture and society, that the use of this stock\n(d) _________ _________ of knowledge to devise new applications.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2016"
+      ],
+      "occurrences": [
+        {
+          "year": "2016",
+          "question_number": "6",
+          "source_file": "Class 10 - 2016.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|a9a526947c",
+      "chapter": "Writing Skills",
+      "marks": 4,
+      "text": "This post office lets you avail of all the regular postal services available in the country while being afloat. The seal used on everything posted from Floating Post Office is unique \u2013 along with the date and address, it bears the design of a boatman rowing a shikara on the Dal Lake. The special feature of this post office is that letters posted from here carry a special design which has the picturesque scenery of Dal Lake and Srinagar city. These pictures reach wherever these letters are posted to and hence promote Kashmir as a tourist destination across the world.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2018"
+      ],
+      "occurrences": [
+        {
+          "year": "2018",
+          "question_number": "2",
+          "source_file": "Class 10 - 2018.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|cc2e957463",
+      "chapter": "Writing Skills",
+      "marks": 4,
+      "text": "Answer the following question in 200-250 words : (10) Describe the importance of diary in Anne Frank\u2019s life. OR What problems do Margot and Anne face with regard to the way their parents treat them ? OR Helen Keller\u2019s determination to study and compete with the normal children helps her to enter Radcliffe College. What does this show about her personality ? OR Describe how Miss Sullivan succeeds in helping Helen Keller achieve her aim in life.",
+      "solution": "Ans. Objective: To test knowledge and appreciation of the text. 10 Marks Marking: Content Coherence and relevance of ideas and style -(2\u00bd marks) Grammatical accuracy and correct spelling - (2\u00bd marks) Importance of diary in Anne Frank's life (Any 5 points) it is a gift given by her father / diary was friend, guide and philosopher great source of comfort and support important in her confinement and isolation astounding record of her sufferings, anxieties, courage, depiction of adolescence, a friend in whom she can confide and share her agony source of solace diary has more patience than people do a proof of her strength against the atrocities inflicted on Jews to record holocaust and brutal persecution of women and children 13 she wanted to live even after her death through her writing\nOR\nProblems Margot and Anne face restricted atmosphere of the annexe- over protective parents Anne became tired of her parents' critical approach she wanted to be independent rebuked by mother and sister, had 'bust ups' with her mother Anne was a daddy\u2019s girl \u2013 father tried to check her rebellious spirit but in vain could not confide in her mother, accused parents of deserting - no emotional support. mother's sarcasm and quick temper had been the source of Anne's anger and depression whereas Margot obliged to parents and received care, support and privilege from both they did not talk about their personal feelings with their parents because they thought that they would not understand wanted their parents to acknowledge their maturity and independence of spirit liked to be treated as adults expected a cordial approach and understanding from them\nOR\nHelen Keller\u2019s determination Helen was determined to study in Radcliffe college did not get into Harvard, girls not allowed joined Mr. Gilman\u2019s school, tried her best to be on a par with other normal children advised to work hard, take extra time to finish course Miss Sullivan and Helen disapproved; withdrew from school completed preparation with Miss Sullivan\u2019s help \u2013 tutored by Mr. Keith \u2013 qualified to join Radcliffe college dedication, perseverance and endurance made her achieve the impossible 14 wanted to be treated as normal, did not want compassion\nOR\nsympathy overcame all with strong determination\nOR\nSullivan's help in making Helen Keller achieve her aim in life Sullivan worked far beyond expectations Extremely patient and tolerant with Helen Handled her with sensitivity but firmly Encouraged her to explore helped Helen to study and learn like normal children Patiently taught her words and then concepts- Helen narrates how Sullivan took pains and used all techniques to teach the first abstract idea 'love' Sullivan spelled words on her hands during lectures accompanied Helen everywhere Constant inspiration and tireless advocate for Helen. for Anne everything best in her life belonged to Sullivan 15",
+      "solution_steps": [
+        "Ans. Objective: To test knowledge and appreciation of the text. 10 Marks Marking: Content Coherence and relevance of ideas and style -(2\u00bd marks) Grammatical accuracy and correct spelling - (2\u00bd marks) Importance of diary in Anne Frank's life (Any 5 points) it is a gift given by her father / diary was friend, guide and philosopher great source of comfort and support important in her confinement and isolation astounding record of her sufferings, anxieties, courage, depiction of adolescence, a friend in whom she can confide and share her agony source of solace diary has more patience than people do a proof of her strength against the atrocities inflicted on Jews to record holocaust and brutal persecution of women and children 13 she wanted to live even after her death through her writing",
+        "OR",
+        "Problems Margot and Anne face restricted atmosphere of the annexe- over protective parents Anne became tired of her parents' critical approach she wanted to be independent rebuked by mother and sister, had 'bust ups' with her mother Anne was a daddy\u2019s girl \u2013 father tried to check her rebellious spirit but in vain could not confide in her mother, accused parents of deserting - no emotional support. mother's sarcasm and quick temper had been the source of Anne's anger and depression whereas Margot obliged to parents and received care, support and privilege from both they did not talk about their personal feelings with their parents because they thought that they would not understand wanted their parents to acknowledge their maturity and independence of spirit liked to be treated as adults expected a cordial approach and understanding from them",
+        "OR",
+        "Helen Keller\u2019s determination Helen was determined to study in Radcliffe college did not get into Harvard, girls not allowed joined Mr. Gilman\u2019s school, tried her best to be on a par with other normal children advised to work hard, take extra time to finish course Miss Sullivan and Helen disapproved; withdrew from school completed preparation with Miss Sullivan\u2019s help \u2013 tutored by Mr. Keith \u2013 qualified to join Radcliffe college dedication, perseverance and endurance made her achieve the impossible 14 wanted to be treated as normal, did not want compassion",
+        "OR",
+        "sympathy overcame all with strong determination",
+        "OR",
+        "Sullivan's help in making Helen Keller achieve her aim in life Sullivan worked far beyond expectations Extremely patient and tolerant with Helen Handled her with sensitivity but firmly Encouraged her to explore helped Helen to study and learn like normal children Patiently taught her words and then concepts- Helen narrates how Sullivan took pains and used all techniques to teach the first abstract idea 'love' Sullivan spelled words on her hands during lectures accompanied Helen everywhere Constant inspiration and tireless advocate for Helen. for Anne everything best in her life belonged to Sullivan 15"
+      ],
+      "frequency": 1,
+      "years": [
+        "2018"
+      ],
+      "occurrences": [
+        {
+          "year": "2018",
+          "question_number": "11",
+          "source_file": "Class 10 - 2018.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|084cfedc43",
+      "chapter": "Writing Skills",
+      "marks": 4,
+      "text": "In the following paragraph, one word has been omitted in each line. Write the missing word along with the word that comes before and the word that comes after it against the correct blank number. The first one has been done for you. Attempt any four. 1$\\times$4= Word Missing Word before word after The tiny island of Rameswaram South India e.g. Rameswaram in South is one of the four Dhams. According to legend\n(a) _____ ___ __ _____ it was from here that Lord Rama the help of\n(b) _____ ___ __ _____ Hanuman and Sugreev and his monkey force built a stone bridge Lanka just 24 kilometres\n(c) _____ ___ __ _____ away. The main attraction of island\n(d) _____ ___ __ _____ is the Ramanathaswamy Temple is a (e) _____ ___ __ _____ magnificent example of Dravidian architecture.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "occurrences": [
+        {
+          "year": "2019",
+          "question_number": "6",
+          "source_file": "Class 10 - 2019.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|a899ea8fca",
+      "chapter": "Writing Skills",
+      "marks": 2,
+      "text": "Answer any four of the following questions in 30 \u2013 40 words each: 2$\\times$4=8 Marks Class X English Language  13\n(a) Why did Lencho write a letter to God?",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2019"
+      ],
+      "occurrences": [
+        {
+          "year": "2019",
+          "question_number": "9",
+          "source_file": "Class 10 - 2019.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|e61d377c26",
+      "chapter": "Writing Skills",
+      "marks": 2,
+      "text": "Answer any five of the following questions in 30 - 40 words each: 2x5=10 Marks\n(a) Did the letter reach God? Why did the postmaster send a reply to Lencho?",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2020"
+      ],
+      "occurrences": [
+        {
+          "year": "2020",
+          "question_number": "9",
+          "source_file": "Class 10 - 2020.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|479175f354",
+      "chapter": "Writing Skills",
+      "marks": 1,
+      "text": "Attempt any one from\n(A) and\n(B) given below:\n(A) It is distressing to see the attitude of people towards animals. The number of cases of cruelty towards animals is increasing. The following pie chart represents the attitude of people towards animals. Write an analytical paragraph in 100 120 words interpreting the data given in the pie chart.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2023"
+      ],
+      "occurrences": [
+        {
+          "year": "2023",
+          "question_number": "5",
+          "source_file": "Class 10 - 2023.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|e974387abd",
+      "chapter": "Writing Skills",
+      "marks": 3,
+      "text": "Complete any TEN of the following twelve tasks, as directed. 10 x1=10 (i) Fill in the blank by using the correct form of the word in the bracket, for the given portion of a letter. 1 Sir Enclosed is the report that (summarize) the study conducted on the impact of climate change on crop yield in the region.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "occurrences": [
+        {
+          "year": "2024",
+          "question_number": "3",
+          "source_file": "Class 10 - 2024.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|1f79574572",
+      "chapter": "Writing Skills",
+      "marks": 3,
+      "text": "(a) You are Kapil/Kavita, sports secretary of Ajax World School, Gurugram. You want to place an order for sports articles for the school cricket team to Rotary Sports, Janakpuri, New Delhi. Write a letter in about 120 words. Remember to include relevant information about quality and quantity of products, specific details, school discount, delivery date and mode of payment.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "occurrences": [
+        {
+          "year": "2024",
+          "question_number": "4",
+          "source_file": "Class 10 - 2024.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|a59b369820",
+      "chapter": "Writing Skills",
+      "marks": 4,
+      "text": "(a) Read the following excerpt from a newspaper on the problem of car parking and its impact.  19 A survey conducted on the residents showed that car parking in colonies has risen due to an increase in the number of cars per family. This has resulted in ugly incidents of road rage. Most of the families revealed that they are facing multiple issues due to this situation. There is no place for visitors to park and residents themselves park their cars haphazardly. In addition there is an increase in commercial vehicles parked outside colony gates, thus blocking exits. Write a paragraph in about 120 words to analyze the news clipping.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "occurrences": [
+        {
+          "year": "2024",
+          "question_number": "5",
+          "source_file": "Class 10 - 2024.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|7d5eb53f4d",
+      "chapter": "Writing Skills",
+      "marks": 2,
+      "text": "Answer any FOUR of the following questions in 40-50 words each. 4x3=12 (i) Explain the irony in the chapter, \"A Letter to God\".",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "occurrences": [
+        {
+          "year": "2024",
+          "question_number": "8",
+          "source_file": "Class 10 - 2024.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|e294efd699",
+      "chapter": "Writing Skills",
+      "marks": 2,
+      "text": "Choose the correct reported speech: She said, \"I am tired.\"\n(a) She said that she was tired.     2\n(b) She said that I am tired.\n(c) She said she will be tired.\n(d) She said she tired.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2025"
+      ],
+      "occurrences": [
+        {
+          "year": "2025",
+          "question_number": "8",
+          "source_file": "Class 10 - 2025.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|fb61e90549",
+      "chapter": "Writing Skills",
+      "marks": 1,
+      "text": "Why is it important to brainstorm ideas before writing an essay?",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2025"
+      ],
+      "occurrences": [
+        {
+          "year": "2025",
+          "question_number": "22",
+          "source_file": "Class 10 - 2025.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Writing Skills|2426216dc3",
+      "chapter": "Writing Skills",
+      "marks": 1,
+      "text": "Why is editing an integral part of writing?",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2025"
+      ],
+      "occurrences": [
+        {
+          "year": "2025",
+          "question_number": "27",
+          "source_file": "Class 10 - 2025.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    },
+    {
+      "id": "Grammar|d8fb5783a1",
+      "chapter": "Grammar",
+      "marks": 2,
+      "text": "Which tense is used in the sentence: \"She has been living here for two years\"?\n(a) Present simple\n(b) Past continuous\n(c) Present perfect continuous\n(d) Present continuous",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2025"
+      ],
+      "occurrences": [
+        {
+          "year": "2025",
+          "question_number": "16",
+          "source_file": "Class 10 - 2025.pdf"
+        }
+      ],
+      "common_errors": [
+        "Subject-verb agreement issues.",
+        "Tense inconsistency.",
+        "Incorrect reported speech conversions."
+      ],
+      "toppers_secrets": [
+        "Identify the tense of the reporting verb first.",
+        "Read the full sentence before choosing a determiner."
+      ]
+    },
+    {
+      "id": "Literature - First Flight|0760743865",
+      "chapter": "Literature - First Flight",
+      "marks": 3,
+      "text": "Answer the following in 150-200 words : Anne Frank's statement, \"What one Christian does is his own responsibility, what one Jew does reflects on all Jews\" presents not only hatred for the Jews but also their pitiable condition in the world. Comment.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2016"
+      ],
+      "occurrences": [
+        {
+          "year": "2016",
+          "question_number": "11",
+          "source_file": "Class 10 - 2016.pdf"
+        }
+      ],
+      "common_errors": [
+        "Vague character sketches.",
+        "Misinterpreting the central theme.",
+        "Incorrect poem-poet pairings."
+      ],
+      "toppers_secrets": [
+        "Quote 1-2 lines from the poem if possible.",
+        "Focus on the 'message' of the story."
+      ]
+    },
+    {
+      "id": "Literature - First Flight|ff6bdbbbb3",
+      "chapter": "Literature - First Flight",
+      "marks": 4,
+      "text": "Read the following extracts and answer the questions for any ONE of the given two.\n(a) Tenth May dawned bright and clear. For the past few days, I had been pleasantly besieged by dignitaries and world leaders who were coming to pay their respects before the inauguration. The inauguration would be the largest gathering ever of international leaders on South African soil. The ceremonies took place in the lovely sandstone amphitheatre formed by the Union buildings in Pretoria. For decades this had been the seat of white supremacy, and now it was the site of rainbow gathering of different colours and nations for the installation of South Africa's first democratic non- racial government. (Nelson Mandela-Long Walk to Freedom) 5 (i) What do you infer from the following statement? 1 \"The inauguration would be the largest gathering ever of international leaders on South African Soil.\"",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "occurrences": [
+        {
+          "year": "2024",
+          "question_number": "6",
+          "source_file": "Class 10 - 2024.pdf"
+        }
+      ],
+      "common_errors": [
+        "Vague character sketches.",
+        "Misinterpreting the central theme.",
+        "Incorrect poem-poet pairings."
+      ],
+      "toppers_secrets": [
+        "Quote 1-2 lines from the poem if possible.",
+        "Focus on the 'message' of the story."
+      ]
+    },
+    {
+      "id": "Literature - Footprints Without Feet|7daed5ed1d",
+      "chapter": "Literature - Footprints Without Feet",
+      "marks": 3,
+      "text": "Answer any ONE of the following two questions in 100-120 words. 1x6=6\n(a) Griffin's brilliance as a man of science fades before his darker traits. Give reasons from the text to support your answer. (Footprints Without Feet)",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "occurrences": [
+        {
+          "year": "2024",
+          "question_number": "11",
+          "source_file": "Class 10 - 2024.pdf"
+        }
+      ],
+      "common_errors": [
+        "Arithmetic slips (signs, fractions, simplification).",
+        "Not writing the correct formula/theorem before applying.",
+        "Messy layout: unclear steps or missing final answer box."
+      ],
+      "toppers_secrets": [
+        "Underline the given and what is asked.",
+        "Keep steps short and aligned; avoid skipping logic.",
+        "Write units/conditions and box the final answer."
+      ]
+    }
+  ]
+}

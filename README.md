@@ -11,6 +11,40 @@ It supports:
 - Progress tracking (`Not Started`, `Practicing`, `Mastered`)
 - Priority ranking of repeated questions
 
+## Static Web Dashboard (Cloudflare Pages)
+
+The project also includes a modern, fast static web dashboard located in the `web/` directory.
+
+### Build the static data
+To refresh the JSON data for the web dashboard, run:
+```bash
+python3 scripts/build_questions_json.py  # Extract from PDFs
+python3 scripts/build_maths_data.py      # Build all subject datasets
+```
+
+### Run Web Dashboard locally
+```bash
+cd web
+npx serve .
+```
+
+### Deploy to Cloudflare Pages
+You can deploy the `web/` directory directly to Cloudflare Pages.
+The `wrangler.toml` is already configured for the project.
+
+**Option A: Automated CLI Deployment**
+1. Install Wrangler CLI: `npm install -g wrangler`
+2. Login: `wrangler login`
+3. Deploy: `wrangler pages deploy web`
+
+**Option B: GitHub Integration (Recommended)**
+1. Push this project to a GitHub repository.
+2. In the Cloudflare Dashboard: **Workers & Pages** > **Create application** > **Pages** > **Connect to Git**.
+3. Select your repository.
+4. Set **Build command** to: `python3 scripts/build_questions_json.py && python3 scripts/build_maths_data.py`
+5. Set **Build output directory** to: `web`
+6. Click **Save and Deploy**.
+
 ## Project Structure
 
 - `app.py`: Streamlit entrypoint (imports code from `src/`)
@@ -49,20 +83,6 @@ streamlit run app.py --server.port 8501
 ```
 
 Open: `http://localhost:8501`
-
-## Optional AI Enrichment (Ollama)
-
-If you want AI-based subject/chapter tagging:
-
-1. Start Ollama locally
-2. Ensure model exists (default: `qwen2.5:3b`)
-3. Run:
-
-```bash
-./.venv/bin/python ai_enrich.py
-```
-
-The app will automatically prefer `data/processed/questions_enriched.json` if present.
 
 ## Streamlit Community Cloud Deployment
 

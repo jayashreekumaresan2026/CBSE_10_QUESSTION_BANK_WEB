@@ -15,15 +15,19 @@ def process_raw_pdfs():
     try:
         from .pdf_preprocessor import extract_text, extract_questions, extract_year_from_name
 
-        pdf_files = sorted(PDF_DIR.glob("*.pdf"))
-        for pdf_path in pdf_files:
-            year = extract_year_from_name(pdf_path.name)
-            raw_text = extract_text(str(pdf_path))
-            questions = extract_questions(raw_text, year)
-            for question in questions:
-                question["source_file"] = pdf_path.name
-            print(f"{pdf_path.name}: extracted {len(questions)} questions.")
-            all_questions.extend(questions)
+        # Process all subdirectories in PDF_DIR
+        for subject_dir in [d for d in PDF_DIR.iterdir() if d.is_dir()]:
+            subject = subject_dir.name
+            pdf_files = sorted(subject_dir.glob("*.pdf"))
+            for pdf_path in pdf_files:
+                year = extract_year_from_name(pdf_path.name)
+                raw_text = extract_text(str(pdf_path))
+                questions = extract_questions(raw_text, year)
+                for question in questions:
+                    question["source_file"] = pdf_path.name
+                    question["subject"] = subject
+                print(f"{subject}/{pdf_path.name}: extracted {len(questions)} questions.")
+                all_questions.extend(questions)
     except Exception as exc:
         if CLEAN_QUESTIONS_JSON.exists():
             with open(CLEAN_QUESTIONS_JSON, "r") as f:
