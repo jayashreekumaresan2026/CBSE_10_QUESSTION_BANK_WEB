@@ -709,7 +709,58 @@ def format_embedded_solution(text: str) -> str:
     return s
 
 
-def clean_display_question(text: str) -> str:
+def clean_science_formulas(t: str) -> str:
+    """Specialized builder for Science formulas and equations."""
+    if not t:
+        return ""
+
+    # Fix common PUA/corrupted characters for reaction arrows
+    t = re.sub(r"[\uf0be\uf0ae]+", " \\\\rightarrow ", t)
+
+    # Chemical formulas: CO 2 -> CO2, H 2 O -> H2O
+    # Handle common cases like H2SO4, KMnO4
+    # We want to catch CapitalLetter (optional lower) followed by optional space and digits
+    # Avoid matching temperatures like 443K
+    t = re.sub(r"\b([A-Z][a-z]?)\s*(\d+)\b(?![A-Zg-z])", r"\1$_{\2}$", t)
+
+    # Ions: Na + -> Na$^+$, Cl - -> Cl$^-$, Ca 2+ -> Ca$^{2+}$
+    t = re.sub(r"\b([A-Z][a-z]?)\s*(\d?)\s*([+\-])\b", r"\1$^{\2\3}$", t)
+
+    # Physical states: (s), (l), (g), (aq)
+    t = re.sub(r"\b\(([slg]|aq)\)\b", r"$(\1)$", t)
+    # Sometimes they are extracted without parentheses but followed by a chemical
+    t = re.sub(r"\b\s+([slg])\s+(?=[A-Z])", r" $(\1)$ ", t)
+
+    # Multiple atoms/molecules at start of formula: 2 H2 -> 2H$_2$
+    # Also 2C H3COOH -> 2CH$_3$COOH
+    t = re.sub(r"\b(\d+)\s*([A-Z][a-z]?)\s*(\d*)\b",
+               lambda m: f"{m.group(1)}{m.group(2)}$_{{{m.group(3)}}}$" if m.group(3) else f"{m.group(1)}{m.group(2)}", t)
+
+    # Reaction arrows
+    t = t.replace("-->", " \\\\rightarrow ")
+    t = t.replace("->", " \\\\rightarrow ")
+    t = t.replace("→", " \\\\rightarrow ")
+    t = t.replace("==>", " \\\\Rightarrow ")
+
+    # Electricity formulas: V = IR, P = VI, R = V/I
+    if any(word in t.lower() for word in ["circuit", "resistance", "voltage", "current", "ohm"]):
+        t = re.sub(r"\bV\s*=\s*I\s*R\b", r"$V = IR$", t)
+        t = re.sub(r"\bP\s*=\s*V\s*I\b", r"$P = VI$", t)
+        t = re.sub(r"\bR\s*=\s*ρ\s*l/A\b", r"$R = \rho \frac{l}{A}$", t)
+
+    # Lens/Mirror formula: 1/v - 1/u = 1/f
+    if any(word in t.lower() for word in ["lens", "mirror", "focal", "image", "object"]):
+        t = re.sub(r"1/v\s*([+\-])\s*1/u\s*=\s*1/f", r"$\frac{1}{v} \1 \frac{1}{u} = \frac{1}{f}$", t)
+        t = re.sub(r"\bm\s*=\s*h'/h\b", r"$m = \frac{h'}{h}$", t)
+        t = re.sub(r"\bm\s*=\s*v/u\b", r"$m = \frac{v}{u}$", t)
+
+    # Clean up any empty subscripts
+    t = t.replace("$_{}$", "")
+
+    return t
+
+
+def clean_display_question(text: str, subject: str = "Mathematics") -> str:
     # Make PDF-extracted strings readable in the UI.
     t = text or ""
     had_web_noise = bool(re.search(r"(?i)www\\.|\\.com\\b|vedantu", t))
@@ -772,8 +823,7 @@ def clean_display_question(text: str) -> str:
         t = re.sub(r"x\s*a\b", "x = a", t)
         t = re.sub(r"y\s*b\b", "y = b", t)
         t = t.replace("(a, b)", " (a, b) ")
-        t = t.replace("(a, b)", " (a, b) ")
-        t = t.replace("a not equal b", " (a not equal b) ")
+        t = t.replace("a not equal b", " a not equal b ")
     
     # Fix common patterns like x^2, x^3
     t = re.sub(r"\b([a-z])([23])\b", r"$\1^\2$", t)
@@ -963,7 +1013,7 @@ def clean_display_question(text: str) -> str:
     # Quadratic-equation roots: some PDFs drop the radical sign in coefficients like "2 √5 px",
     # and we get "2 5px". Attempt this repair only when the text looks like a quadratic equation.
     looks_quadratic = bool(re.search(r"(?i)\bquadratic equation\b", t) or (("x^2" in t) and re.search(r"=\s*0\b", t)))
-    if (looks_quadratic or "science" in t.lower()) and "×" not in t:
+    if (looks_quadratic or subject == "Science") and "×" not in t:
         # Example: "px2 - 2 5px + 15 = 0" -> "px2 - 2√5px + 15 = 0"
         t = re.sub(
             r"([+\-])\s*(\d+)\s+([23571113])\s*([a-zA-Z]*x\b)",
@@ -972,17 +1022,17 @@ def clean_display_question(text: str) -> str:
         )
 
     # Specific Science formula cleanups: CO 2 -> CO2, H 2 O -> H2O, etc.
-    if "science" in t.lower() or any(c in t for c in "→= "):
-        # Chemical formulas: CO 2 -> CO$_2$, H 2 O -> H$_2$O
-        t = re.sub(r"\b([A-Z][a-z]?)\s*(\d+)\b", r"\1$_{\2}$", t)
-        # Ions: Na + -> Na$^+$, Cl - -> Cl$^-$
-        t = re.sub(r"\b([A-Z][a-z]?)\s*([+\-])\b", r"\1$^{\2}$", t)
-        # Multiple atoms: 2 H 2 -> 2H$_2$
-        t = re.sub(r"\b(\d+)\s*([A-Z][a-z]?)\s*(\d+)\b", r"\1\2$_{\3}$", t)
-        # Reaction arrows
-        t = t.replace("-->", " $\\\\rightarrow$ ")
-        t = t.replace("->", " $\\\\rightarrow$ ")
-        t = t.replace("→", " $\\\\rightarrow$ ")
+    if subject == "Science" or any(c in t for c in "→= "):
+        t = clean_science_formulas(t)
+
+    # English-specific cleanups: "Answer ANY ONE of the following" headers
+    if subject == "English":
+        t = re.sub(r"(?i)\bAnswer\s+ANY\s+ONE\s+of\s+the\s+following\s+in\s+about\s+\d+\s+words:?", "", t)
+        t = re.sub(r"(?i)\bRead\s+the\s+extract\s+given\s+below\s+and\s+answer\s+the\s+questions\s+that\s+follow:?", "", t)
+
+    # Social Science-specific cleanups
+    if subject == "Social Science":
+        t = re.sub(r"(?i)\bMap\s+Skill\s+Based\s+Question\b", "", t)
 
     # Improve MCQ readability: put each option on a new line.
     t = re.sub(r"\s*\((A|B|C|D)\)\s*", r"\n(\1) ", t)
@@ -1072,6 +1122,7 @@ def clean_display_question(text: str) -> str:
     t = t.replace("$$", "$")
 
     t = t.strip()
+    t = t.replace("≠", " not equal ")
     return t
 
 
@@ -1295,7 +1346,7 @@ def main() -> None:
 
         for cl in clusters:
             rep = choose_rep(cl)
-            question_text = rep.text
+            question_text = clean_display_question(rep.text, sub_display)
 
             # Always apply the heuristic split; many PDFs embed steps in the question text,
             # even when a separate solution field exists.
@@ -1310,7 +1361,7 @@ def main() -> None:
             # Per-question Oswaal hints default to chapter hints.
             chapter_meta = CHAPTER_OSWAAL.get(rep.chapter, DEFAULT_CHAPTER_META)
 
-            combined_solution = rep.solution or ""
+            combined_solution = clean_display_question(rep.solution or "", sub_display)
             if extra_solution:
                 combined_solution = (combined_solution + "\n" + extra_solution).strip()
 

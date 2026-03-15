@@ -19,7 +19,7 @@ The project also includes a modern, fast static web dashboard located in the `we
 To refresh the JSON data for the web dashboard, run:
 ```bash
 python3 scripts/build_questions_json.py  # Extract from PDFs
-python3 scripts/build_maths_data.py      # Build all subject datasets
+python3 scripts/build_subject_data.py      # Build all subject datasets
 ```
 
 ### Run Web Dashboard locally
@@ -41,7 +41,7 @@ The `wrangler.toml` is already configured for the project.
 1. Push this project to a GitHub repository.
 2. In the Cloudflare Dashboard: **Workers & Pages** > **Create application** > **Pages** > **Connect to Git**.
 3. Select your repository.
-4. Set **Build command** to: `python3 scripts/build_questions_json.py && python3 scripts/build_maths_data.py`
+4. Set **Build command** to: `python3 scripts/build_questions_json.py && python3 scripts/build_subject_data.py`
 5. Set **Build output directory** to: `web`
 6. Click **Save and Deploy**.
 
