@@ -248,7 +248,7 @@
       ]
     },
     {
-      "id": "Real Numbers|14d673f53e",
+      "id": "Real Numbers|28de289323",
       "chapter": "Real Numbers",
       "marks": 1,
       "text": "Given that 2 is irrational, prove that $(5 + 3\\\\sqrt{2})$ is an irrational number.",
@@ -512,7 +512,7 @@
       ]
     },
     {
-      "id": "Real Numbers|02974b16bf",
+      "id": "Real Numbers|6dbecffbc4",
       "chapter": "Real Numbers",
       "marks": 2,
       "text": "Prove that $(7 - 2\\\\sqrt{3})$ is an irrational number, Given that $\\\\sqrt{3}$ is irrational number.",
@@ -578,7 +578,7 @@
       ]
     },
     {
-      "id": "Real Numbers|c979734e2c",
+      "id": "Real Numbers|665af10c13",
       "chapter": "Real Numbers",
       "marks": 2,
       "text": "Assertion (A): $2(5 - \\\\sqrt{2})$ is an irrational number.\nReason (R): Product of two irrational numbers is always irrational.",
@@ -607,7 +607,7 @@
       ]
     },
     {
-      "id": "Real Numbers|6ecb4accc0",
+      "id": "Real Numbers|8e512a06a6",
       "chapter": "Real Numbers",
       "marks": 2,
       "text": "(a) Prove that $(7 - 2\\\\sqrt{3})$ is an irrational number, Given that $\\\\sqrt{3}$ is irrational number. OR\n(b) Explain why (7 11 $(13 + 2\\\\sqrt{11})$) is not a prime number.",
@@ -636,7 +636,7 @@
       ]
     },
     {
-      "id": "Real Numbers|e9ea57120c",
+      "id": "Real Numbers|80f387cefd",
       "chapter": "Real Numbers",
       "marks": 1,
       "text": "Find LCM and HCF of two numbers 336 and 54, using prime-factorisation method.",
@@ -665,7 +665,7 @@
       ]
     },
     {
-      "id": "Real Numbers|23b0d02de8",
+      "id": "Real Numbers|5f5ba6a50c",
       "chapter": "Real Numbers",
       "marks": 1,
       "text": "The quadratic equation $(2 + 1\\\\sqrt{0})$ + = $x^2$ has ___ roots.\n(A) real and equal\n(B) irrational\n(C) real and distinct\n(D) not-real",
@@ -810,16 +810,15 @@
       ]
     },
     {
-      "id": "Polynomials|e03fc0bbef",
+      "id": "Polynomials|68c7a932e3",
       "chapter": "Polynomials",
       "marks": 2,
-      "text": "Find all zeroes of the polynomial 4 3 2 2 9 5 3 1 $x^2$ $x^2$ - + + - if two of its zeroes are $(2 \\times 3)$ and 2 3 + - .",
-      "solution": "Ans. It is given that 2 3 + and 2 3 - are two zeros of 4 3 2 f x 2x 9x 5x 3x 1 = - + + - \uf07b \uf07d \uf07b \uf07d x 2 3 x 2 3 - + - - x 2 3 x 2 3 = - - - + 2 2 x 2 3 = - - 2 x 4x 1 = - + 2 x 4x 1 \u2234 - + is a factor of f x 2 2 4 3 2 4 3 2 3 2 3 2 2 2 2x x 1 x 4x 1 2x 9x 5x 3x 1 2x 8x 2x ____________________ x 3x 3x 1 x 4x x __________________ x 4x 1 4x x 1 _________________ 0 _________________ - - - + - + + - - + - + - - + + - - + - + - + - + - + - - + - +\nLet us now divide f x by 2 x 4x 1 - + We have, 2 2 f $x^2$ 4x 1 2x x 1 \u2234 = - + - -\nHence, other two zeros of f(x) are the zeros of the polynomial 2 2x x 1 - - We have, 2 2 2x x 1 2x 2x x 1 - -= - + - 2x x 1 1 x 1 = - + - 7 2x 1 x 1 = + - 2 3 2 3 2 1 1 f $x^2$ $x^2$ x = - - - + + -\nHence, the other two zeros are 1 2 - and 1.",
+      "text": "Findallzeroesofthepolynomial 4 3 2 2 9 5 3 1 x^$x^2$^2 - + + - iftwoofitszeroesare $(2 \\times 3)$ and 2 3 + - .",
+      "solution": "Ans. Itisgiventhat 2 3 + and 2 3 - aretwozerosof 4 3 2 fx $x^2$ 9x 5x 3x 1 = - + + - \uf07b \uf07d \uf07b \uf07d x 2 3 x 2 3 - + - - x 2 3 x 2 3 = - - - + 2 $x^2$ 2 3 = - - $x^2$ 4x 1 = - + $x^2$ 4x 1 \u2234 - + isafactoroffx 2 2 4 3 2 4 3 2 3 2 3 2 2 2 2xx 1 x 4x 1 $x^2$ 9x 5x 3x 1 $x^2$ 8x $x^2$ ____________________ x 3x 3x 1 x 4xx __________________ x 4x 1 4xx 1 _________________ 0 _________________ - - - + - + + - - + - + - - + + - - + - + - + - + - + - - + - + Letusnowdividefxby $x^2$ 4x 1 - + Wehave, 2 2 fx^2 4x 1 2xx 1 \u2234 = - + - -\nHence, othertwozerosoff(x) arethezerosofthepolynomial 2 2xx 1 - - Wehave, 2 2 2xx 1 $x^2$ 2xx 1 - -= - + - 2xx 1 1 x 1 = - + - 7 $x^2$ 1 x 1 = + - 2 3 2 3 2 1 1 fx^$x^2$^$x^2$ = - - - + + -\nHence, theothertwozerosare 1 2 - and 1.",
       "solution_steps": [
-        "Ans. It is given that 2 3 + and 2 3 - are two zeros of 4 3 2 f x 2x 9x 5x 3x 1 = - + + - \uf07b \uf07d \uf07b \uf07d x 2 3 x 2 3 - + - - x 2 3 x 2 3 = - - - + 2 2 x 2 3 = - - 2 x 4x 1 = - + 2 x 4x 1 \u2234 - + is a factor of f x 2 2 4 3 2 4 3 2 3 2 3 2 2 2 2x x 1 x 4x 1 2x 9x 5x 3x 1 2x 8x 2x ____________________ x 3x 3x 1 x 4x x __________________ x 4x 1 4x x 1 _________________ 0 _________________ - - - + - + + - - + - + - - + + - - + - + - + - + - + - - + - +",
-        "Let us now divide f x by 2 x 4x 1 - + We have, 2 2 f $x^2$ 4x 1 2x x 1 \u2234 = - + - -",
-        "Hence, other two zeros of f(x) are the zeros of the polynomial 2 2x x 1 - - We have, 2 2 2x x 1 2x 2x x 1 - -= - + - 2x x 1 1 x 1 = - + - 7 2x 1 x 1 = + - 2 3 2 3 2 1 1 f $x^2$ $x^2$ x = - - - + + -",
-        "Hence, the other two zeros are 1 2 - and 1."
+        "Ans. Itisgiventhat 2 3 + and 2 3 - aretwozerosof 4 3 2 fx $x^2$ 9x 5x 3x 1 = - + + - \uf07b \uf07d \uf07b \uf07d x 2 3 x 2 3 - + - - x 2 3 x 2 3 = - - - + 2 $x^2$ 2 3 = - - $x^2$ 4x 1 = - + $x^2$ 4x 1 \u2234 - + isafactoroffx 2 2 4 3 2 4 3 2 3 2 3 2 2 2 2xx 1 x 4x 1 $x^2$ 9x 5x 3x 1 $x^2$ 8x $x^2$ ____________________ x 3x 3x 1 x 4xx __________________ x 4x 1 4xx 1 _________________ 0 _________________ - - - + - + + - - + - + - - + + - - + - + - + - + - + - - + - + Letusnowdividefxby $x^2$ 4x 1 - + Wehave, 2 2 fx^2 4x 1 2xx 1 \u2234 = - + - -",
+        "Hence, othertwozerosoff(x) arethezerosofthepolynomial 2 2xx 1 - - Wehave, 2 2 2xx 1 $x^2$ 2xx 1 - -= - + - 2xx 1 1 x 1 = - + - 7 $x^2$ 1 x 1 = + - 2 3 2 3 2 1 1 fx^$x^2$^$x^2$ = - - - + + -",
+        "Hence, theothertwozerosare 1 2 - and 1."
       ],
       "frequency": 1,
       "years": [
@@ -844,13 +843,13 @@
       ]
     },
     {
-      "id": "Polynomials|da01cb4ccf",
+      "id": "Polynomials|70a3b03353",
       "chapter": "Polynomials",
       "marks": 2,
-      "text": "Find the value of k such that the polynomial 2 \u2013 6 2 2 \u20131 x k x k + + has sum of its zeros equal to half of their product.",
-      "solution": "For given polynomial   2 \u2013 6 2 2 \u20131 x k x k + + Here   a 1, 6 , 2 2 1 b k c k = =- = = - 8 Given that: \u2235 Sum of zeroes = 1 2 (product of zeroes)   6 2 2 1 1 1 2 1 6 2 1 k k k k -- + \uf0e9 \uf0f9 - \u2196 \uf0fb => = => + = - 6 1 2 7 k k k => += - => = Therefore, the value of 7 k =",
+      "text": "Findthevalueofksuchthatthepolynomial $x^2$ - (k+6)x + 2(2k-1)$ hassumofitszerosequaltohalfoftheirproduct.",
+      "solution": "Forgivenpolynomial $x^2$ - (k+6)x + 2(2k-1)$ Herea 1, 6 , 2 2 1 bk ck = =- = = - 8 Giventhat: \u2235 Sumofzeroes = 1 2 (productofzeroes) 6 2 2 1 1 1 2 1 6 2 1 kk kk -- + \uf0e9 \uf0f9 - \u2196 \uf0fb => = => + = - 6 1 2 7 kk k => += - => = Therefore, thevalueof 7 k =",
       "solution_steps": [
-        "For given polynomial   2 \u2013 6 2 2 \u20131 x k x k + + Here   a 1, 6 , 2 2 1 b k c k = =- = = - 8 Given that: \u2235 Sum of zeroes = 1 2 (product of zeroes)   6 2 2 1 1 1 2 1 6 2 1 k k k k -- + \uf0e9 \uf0f9 - \u2196 \uf0fb => = => + = - 6 1 2 7 k k k => += - => = Therefore, the value of 7 k ="
+        "Forgivenpolynomial $x^2$ - (k+6)x + 2(2k-1)$ Herea 1, 6 , 2 2 1 bk ck = =- = = - 8 Giventhat: \u2235 Sumofzeroes = 1 2 (productofzeroes) 6 2 2 1 1 1 2 1 6 2 1 kk kk -- + \uf0e9 \uf0f9 - \u2196 \uf0fb => = => + = - 6 1 2 7 kk k => += - => = Therefore, thevalueof 7 k ="
       ],
       "frequency": 1,
       "years": [
@@ -875,27 +874,21 @@
       ]
     },
     {
-      "id": "Polynomials|af7d1a5837",
+      "id": "Polynomials|fdac689a71",
       "chapter": "Polynomials",
       "marks": 1,
-      "text": "A quadratic polynomial whose zeroes are 3 and -2, is:\n(A) 2 6 $x^2$ - -\n(B) 2 6 $x^2$ + -\n(C) 2 2 12 $x^2$ - -\n(D) 2 6 $x^2$ + +",
+      "text": "Formaquadraticpolynomial, thesumandproductofwhosezeroesare (-3) and 2 respectively.",
       "solution": "",
       "solution_steps": [],
-      "frequency": 2,
+      "frequency": 1,
       "years": [
-        "2020",
-        "2024"
+        "2020"
       ],
       "occurrences": [
         {
           "year": "2020",
           "question_number": "17",
           "source_file": "Class 10 - 2020.pdf"
-        },
-        {
-          "year": "2024",
-          "question_number": "4",
-          "source_file": "Class 10 - 2024 Basic .pdf"
         }
       ],
       "common_errors": [
@@ -910,10 +903,10 @@
       ]
     },
     {
-      "id": "Polynomials|4981b74ddb",
+      "id": "Polynomials|4cd10a09b0",
       "chapter": "Polynomials",
       "marks": 2,
-      "text": "If one zero of the quadratic polynomial 2 3 kx x k + + is 2 , then the value of k is:\n(a) $\\\\frac{-6}{5}$\n(b) 6 5\n(c) 5 6\n(d) $\\\\frac{-5}{6}$",
+      "text": "Ifonezeroofthequadraticpolynomial $kx^2 + 3x + k$ is 2 , thenthevalueofkis:\n(a) $\\\\frac{-6}{5}$\n(b) 6 5\n(c) 5 6\n(d) $\\\\frac{-5}{6}$",
       "solution": "",
       "solution_steps": [],
       "frequency": 1,
@@ -939,10 +932,10 @@
       ]
     },
     {
-      "id": "Polynomials|c5eb49cd1f",
+      "id": "Polynomials|cd9408f829",
       "chapter": "Polynomials",
       "marks": 1,
-      "text": "The graph of y p x = is given, for a polynomial p x . The number of zeroes of p x from the graph is\n(A) 3\n(B) 1\n(C) 2\n(D)",
+      "text": "Thegraphofypx = isgiven, forapolynomialpx . Thenumberofzeroesofpxfromthegraphis 1\n(A) 3\n(B) 1\n(C) 2\n(D)",
       "solution": "",
       "solution_steps": [],
       "frequency": 1,
@@ -968,10 +961,10 @@
       ]
     },
     {
-      "id": "Polynomials|582420e757",
+      "id": "Polynomials|722dae5a78",
       "chapter": "Polynomials",
       "marks": 1,
-      "text": "If , $\\alpha$\\beta$ are the zeroes of a polynomial 2 1 p $x^2$ x = + -, then 1 1 $\\alpha$ $\\beta$ + equals to 1\n(A) 1\n(B) 2\n(C) -1\n(D) $\\\\frac{-1}{2}$",
+      "text": "If , $\\alpha$\\beta$ arethezeroesofapolynomial 2 1 px^$x^2$ = + -, then 1 1 $\\alpha$ $\\beta$ + equalsto 1\n(A) 1\n(B) 2\n(C) -1\n(D) $\\\\frac{-1}{2}$",
       "solution": "",
       "solution_steps": [],
       "frequency": 1,
@@ -997,10 +990,10 @@
       ]
     },
     {
-      "id": "Polynomials|77400bc1af",
+      "id": "Polynomials|dfe5de383a",
       "chapter": "Polynomials",
       "marks": 1,
-      "text": "Which of the following is a quadratic polynomial having zeroes 2 3 - and 2 3 ?1\n(A) 2 4 9 x -\n(B) 2 4 9 4 9 x +\n(C) 2 9 4 x +\n(D) 2 5 9 4 x -",
+      "text": "Whichofthefollowingisaquadraticpolynomialhavingzeroes 2 3 - and 2 3 ?1\n(A) 2 4 9 x -\n(B) 2 4 9 4 9 x +\n(C) 2 9 4 x +\n(D) 2 5 9 4 x -",
       "solution": "",
       "solution_steps": [],
       "frequency": 1,
@@ -1026,10 +1019,39 @@
       ]
     },
     {
-      "id": "Polynomials|1e9dd6e941",
+      "id": "Polynomials|bbf1359362",
       "chapter": "Polynomials",
       "marks": 1,
-      "text": "In the given figure, graph of a polynomial f(x) is shown. The number of zeroes of polynomial f(x) is:\n(A) 3\n(B) 1\n(C) 0\n(D) 2",
+      "text": "A quadraticpolynomialwhosezeroesare 3 and -2, is:\n(A) $x^2$ - x - 6$\n(B) $x^2$ + x - 6$\n(C) 2 2 1x^2^2 - -\n(D) $x^2$ + x + 6$",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "occurrences": [
+        {
+          "year": "2024",
+          "question_number": "4",
+          "source_file": "Class 10 - 2024 Basic .pdf"
+        }
+      ],
+      "common_errors": [
+        "Not using the correct relation between zeroes and coefficients.",
+        "Skipping factorisation steps (loses presentation marks).",
+        "Sign errors while expanding or multiplying factors."
+      ],
+      "toppers_secrets": [
+        "Write the relation formula first, then substitute values.",
+        "Box the zeroes clearly at the end.",
+        "Show one verification step if time permits."
+      ]
+    },
+    {
+      "id": "Polynomials|3956430142",
+      "chapter": "Polynomials",
+      "marks": 1,
+      "text": "Inthegivenfigure, graphofapolynomialf(x) isshown. Thenumberofzeroesofpolynomialf(x) is:\n(A) 3\n(B) 1\n(C) 0\n(D) 2",
       "solution": "",
       "solution_steps": [],
       "frequency": 1,
@@ -1055,10 +1077,10 @@
       ]
     },
     {
-      "id": "Polynomials|7840687c7d",
+      "id": "Polynomials|041fabcaa8",
       "chapter": "Polynomials",
       "marks": 2,
-      "text": "Find the zeroes of the quadratic polynomial 2 5 3 2 $x^2$ + - and verify the relationship between the zeroes and the co-efficients.",
+      "text": "Findthezeroesofthequadraticpolynomial 2 5 3 $x^2$^2 + - andverifytherelationshipbetweenthezeroesandtheco-efficients.",
       "solution": "",
       "solution_steps": [],
       "frequency": 1,
@@ -1084,10 +1106,10 @@
       ]
     },
     {
-      "id": "Polynomials|a6bb6d5f31",
+      "id": "Polynomials|12945e09e2",
       "chapter": "Polynomials",
       "marks": 1,
-      "text": "If $\\alpha$ and $\\beta$ are zeroes of the polynomial 2 5 3 7 + - $x^2$ , the value of 1 1 + $\\alpha$ $\\beta$ is\n(A) $\\\\frac{-3}{7}$\n(B) 3 5\n(C) 3 7\n(D) $\\\\frac{-5}{7}$",
+      "text": "If $\\alpha$ and $\\beta$ arezeroesofthepolynomial 2 5 3 7 + - $x^2$ , thevalueof 1 1 + $\\alpha$ $\\beta$ is\n(A) $\\\\frac{-3}{7}$\n(B) 3 5\n(C) 3 7\n(D) $\\\\frac{-5}{7}$",
       "solution": "",
       "solution_steps": [],
       "frequency": 1,
@@ -1149,7 +1171,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|f0a839e25a",
+      "id": "Quadratic Equations|2927d155fc",
       "chapter": "Quadratic Equations",
       "marks": 2,
       "text": "If x = 3 is one root of the quadratic equation 2 2 6 0 x kx - - = , then find the value of k.",
@@ -1211,7 +1233,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|a22a1da7b0",
+      "id": "Quadratic Equations|30d688d130",
       "chapter": "Quadratic Equations",
       "marks": 1,
       "text": "The value(s) of k for which the quadratic equation 2 2x +kx+2=0 has equal roots, is\n(A) 4\n(B) $\\pm$4\n(C) -4\n(D)",
@@ -1246,7 +1268,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|e6c1164b1c",
+      "id": "Quadratic Equations|7de4c5a9e2",
       "chapter": "Quadratic Equations",
       "marks": 2,
       "text": "(a) Find the value of m for which the quadratic equation 2 ( 1) 2( 1) 1 0 m x m x - + - + = has two real and equal roots. OR\n(b) Solve the following quadratic equation for x : 2 2 3 10 7 3 0 $x^2$ + + =",
@@ -1317,7 +1339,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|9b6aab92e9",
+      "id": "Quadratic Equations|b5b631ac43",
       "chapter": "Quadratic Equations",
       "marks": 2,
       "text": "If$^{-}$5 is a root of the quadratic equation 2x2 + px \u2013 15 = 0 and the quadratic equation p($x^2$ + x)k = 0 has equal roots, find the value of k.",
@@ -1348,7 +1370,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|fd243e92ce",
+      "id": "Quadratic Equations|22086775c3",
       "chapter": "Quadratic Equations",
       "marks": 2,
       "text": "Find the value of p, for which one root of the quadratic equation px^2 - 14x + 8 = 0 is 6 times the other.",
@@ -1379,7 +1401,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|ef73252357",
+      "id": "Quadratic Equations|95fc6f377f",
       "chapter": "Quadratic Equations",
       "marks": 2,
       "text": "The value(s) of k for which the roots of quadratic equation 2 4 0 $x^2$ k + + = are real, is :\n(a) k 4 \uf0b3\n(b) k 4 $\\le$\n(c) k 4 \uf0b3-\n(d) k 4 $\\le$-",
@@ -1443,7 +1465,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|e1f837ade7",
+      "id": "Quadratic Equations|4c0019056a",
       "chapter": "Quadratic Equations",
       "marks": 2,
       "text": "The two roots of the equation 2 3 2 6 2 0 $x^2$ - + = are:\n(a) real and distinct\n(b) not real\n(c) real and equal\n(d) rational",
@@ -1472,7 +1494,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|bb5bffe194",
+      "id": "Quadratic Equations|af05f8de91",
       "chapter": "Quadratic Equations",
       "marks": 1,
       "text": "The least positive value of k , for which the quadratic equation 2x^2 + kx - 4 = 0 has rational roots, is\n(A) 2 2 $\\pm$\n(B) 2\n(C) 2 $\\pm$\n(D) $\\sqrt{}$2",
@@ -1501,7 +1523,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|6e7c4e8cea",
+      "id": "Quadratic Equations|8a14fbd887",
       "chapter": "Quadratic Equations",
       "marks": 1,
       "text": "The value(s) of k for which the quadratic equation 2 5 9 5 0 x kx - + = has real and equal roots, is/are:\n(A) $\\\\frac{-10}{9}$\n(B) 9 10 $\\pm$ 2\n(C) 10 9\n(D) 10 9 $\\pm$",
@@ -1530,7 +1552,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|d16baa74f9",
+      "id": "Quadratic Equations|299ed57c18",
       "chapter": "Quadratic Equations",
       "marks": 3,
       "text": "The altitude of a right-angled triangle is 7 cm less than its base. If its hypotenuse is 17 cm long, then 3\n(a) represent the above information in the form of a quadratic equation;\n(b) find the length of the sides of the triangle.",
@@ -1559,7 +1581,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|eff6b26277",
+      "id": "Quadratic Equations|9c663a276d",
       "chapter": "Quadratic Equations",
       "marks": 2,
       "text": "If the sum of the roots of a quadratic equation is 5 and the product is 6, which of the following is the equation?\n(a) x 2 - 5x + 6 = 0\n(b) x 2 + 5x + 6 = 0\n(c) x 2 - 6x + 5 = 0\n(d) x 2 + 6x + 5 = 0",
@@ -1598,7 +1620,7 @@
       ]
     },
     {
-      "id": "Quadratic Equations|e8db62d499",
+      "id": "Quadratic Equations|854b7fbda1",
       "chapter": "Quadratic Equations",
       "marks": 1,
       "text": "Write the quadratic equation whose roots are 1 and -4.",
@@ -1656,7 +1678,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|d2f390c1f1",
+      "id": "Arithmetic Progressions|e1046dd2c3",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "In an AP, if the common difference\n(d) = \u20134, and the seventh term (a7) is 4, then find the first term.",
@@ -1719,7 +1741,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|358e501a1c",
+      "id": "Arithmetic Progressions|ba163d81d9",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "Find the distance of a point P(x, y) from the origin.",
@@ -1751,7 +1773,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|d2f1694605",
+      "id": "Arithmetic Progressions|f70ea68c49",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "Find the ratio in which P(4, m) divides the line segment joining the points A(2, 3) and B(6, \u20133). Hence find m.",
@@ -1782,7 +1804,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|a0b11effa4",
+      "id": "Arithmetic Progressions|13aa5489dd",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "An integer is chosen at random between 1 and 100. Find the probability that it is : (i) divisible by 8 (ii) not divisible by 8",
@@ -1847,7 +1869,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|e5d76eb76c",
+      "id": "Arithmetic Progressions|c52e0809ba",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "If A(\u20132, 1), B(a, 0), C(4, b) and D(1, 2) are the vertices of a parallelogram ABCD, find the values of a and b. Hence find the lengths of its sides.",
@@ -1911,7 +1933,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|51386e760c",
+      "id": "Arithmetic Progressions|e83ce64bdd",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "Prove that the area of an equilateral traingle described on one side of the square is equal to half the area of the equilateral triangle described on one of its diagonal.",
@@ -1948,7 +1970,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|b58adca9e7",
+      "id": "Arithmetic Progressions|2db75136d7",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "A plane left 30 minutes late than its scheduled time and in order to reach the destination 1500 km away in time, it had to increase its speed by 100 km/h from the usual speed. Find its usual speed.",
@@ -1983,7 +2005,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|84d708fc3f",
+      "id": "Arithmetic Progressions|65b07b15bc",
       "chapter": "Arithmetic Progressions",
       "marks": 3,
       "text": "As observed from the top of a 100 m high light house from the sea-level, the angles of depression of two ships are 30$^\\circ$ and 45$^\\circ$. If one ship is exactly behing the other on the same side of the light house, find the distance between the two ships. [Use 3 1.732 = ]",
@@ -2015,7 +2037,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|b24f432bba",
+      "id": "Arithmetic Progressions|8b524b7390",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "The sum of four consecutive numbers in an AP is 32 and the ratio of the product of the first and the last term to the product of two middle terms is 7 : 15. Find the numbers.",
@@ -2047,7 +2069,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|a9e92c50d2",
+      "id": "Arithmetic Progressions|7e4bce57eb",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "In an equilateral ABC \u0394 , is a point on side BC such that 1 3 BD BC = . Prove that 2 2 9 7 AD AB = .",
@@ -2085,7 +2107,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|6cbc6d3ef2",
+      "id": "Arithmetic Progressions|d52a14c83d",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "The first three terms of an AP respectively are 3y \u2013 1, 3y +5 and 5y +1. Then y equals\n(A) -3\n(B) 4\n(C) 5\n(D) 2",
@@ -2185,7 +2207,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|3a2df0439c",
+      "id": "Arithmetic Progressions|0deb17becc",
       "chapter": "Arithmetic Progressions",
       "marks": 3,
       "text": "In fig. 3, a square OABC is inscribed in a quadrant OPBQ of a circle. If OA = 20 cm, find the area of the shaded region (Use $\\pi$= 3.14) Let us join OB. CBSE-X$^{-}$2014 EXAMINATION $\\\\frac{11}{29}$In\u0394OAB: OB2 = OA2 +AB2 = (20)2 + (20)2 = 2 $\\times$ (20) 2 20 2 OB => = Radius of the circle, 20 2 r cm = Area of quadrant OPBQ 2 360 r $\\theta$ = $\\pi$ \uf0b0 2 2 2 2",
@@ -2404,7 +2426,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|ea69a94f71",
+      "id": "Arithmetic Progressions|98e7539abf",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "The 14th term of an A.P. is twice its 8th term. If its 6th term is -8, then find the sum of its first 20 terms.",
@@ -2435,7 +2457,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|649c091750",
+      "id": "Arithmetic Progressions|5bfd7b4d73",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "If the coordinates of points A and B are (-2, -2) and (2, -4) respectively, find the coordinates of P such that AP = 3 7 AB, where P lies on the line segment AB.",
@@ -2720,7 +2742,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|13f5c37ef2",
+      "id": "Arithmetic Progressions|b204224be6",
       "chapter": "Arithmetic Progressions",
       "marks": 3,
       "text": "In figure, is shown a sector OAP of a circle with centre O, containing \u2220$\\theta$. AB is perpendicular to the radius OQ and meets OP produced at B. Prove that the perimeter of shaded region is tan sec 1 180 r $\\pi$\\theta$ $\\theta$ $\\theta$ \uf0e9 \uf0f9 + + - \u2197 \uf0fa \u2196 \uf0fb .",
@@ -2751,7 +2773,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|a551e4b734",
+      "id": "Arithmetic Progressions|03a89b1b46",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "What is the common difference of an A.P. in which a21 - a7 = 84 ?",
@@ -3059,7 +3081,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|3fe6ea2b7d",
+      "id": "Arithmetic Progressions|9d45061df0",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "Which of the following is not an A.P.?\n(A) -1.2,0.8, 2.8,\u2026\n(B) 3. 3+ 2 . 3+2 2 . 3+3 2\n(C) 4 7 9 12 , , , ,...... 3 3 3 3\n(D) -1 -2 -3 , , ,...... 5 5 5",
@@ -3146,7 +3168,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|fc8231534a",
+      "id": "Arithmetic Progressions|35b067df71",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "In Figure-4, the angle of elevation of the top of a tower from a point C on the ground, which is 30 m away from the foot of the tower, is 30o. Find the height of the tower. Class X Mathematics",
@@ -3175,7 +3197,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|a81eaff118",
+      "id": "Arithmetic Progressions|8bdfcc5a56",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "In Figure-8, ABCD is a parallelogram. A semicircle with a centre O and the diameter AB has been drawn and it passes through D. If AB=12 cm and \u22a5 OD AB, then find the area of the shaded region. (Use $\\pi$ =3.14)",
@@ -3204,7 +3226,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|84a08f3949",
+      "id": "Arithmetic Progressions|a3f4f10f02",
       "chapter": "Arithmetic Progressions",
       "marks": 4,
       "text": "Read the following passage and answer the questions given at the end: Diwali Fair A game in a booth at a Diwali Fair involves using a spinner first. Then, if the spinner stops on an even number, the player is allowed to pick a marble from a bag. The spinner and the marbles in the bag are represented in Figure-9.Prizes are given, when a black marble is picked. Shweta plays the game once. (i) What is the probability that she will be allowed to pick a marble from the bag? (ii) Suppose she is allowed to pick a marble from the bag, what is the probability of getting a prize, when it is given that the bag contains 20 balls out of which 6 are black?",
@@ -3233,7 +3255,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|55e0f1dff9",
+      "id": "Arithmetic Progressions|a3db61d58d",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "(a) Determine the 36th term of the A.P. whose first two terms are -3 and 4 respectively. OR\n(b) Write the next two terms of the A.P.: 27 , 48 , 75 , \uf0bc",
@@ -3262,7 +3284,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|03299f5366",
+      "id": "Arithmetic Progressions|c003f6c3a5",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "Find the sum of first 16 terms of the A.P. whose th n term is given by na = 5n - 3.",
@@ -3349,7 +3371,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|8b6b4da679",
+      "id": "Arithmetic Progressions|04e4f0e06b",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "(a) Find the sum of first 30 terms of AP: -30, -24, -18,\u2026.. . OR\n(b) In an AP if n S n(4n 1) = + , then find the AP.",
@@ -3465,7 +3487,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|b1b2991938",
+      "id": "Arithmetic Progressions|e1448eaaa0",
       "chapter": "Arithmetic Progressions",
       "marks": 4,
       "text": "Gadisar Lake is located in the Jaisalmer district of Rajasthan. It was built by the King of Jaisalmer and rebuilt by Gadsi Singh in th 14 century. The lake has many Chhatris. One of them is shown below : Observe the picture. From a point A m h above from water level, the angle of elevation of top of Chhatri (point B) is 45\uf0b0 and angle of depression of its reflection in water (point C) is 60\uf0b0. If the height of Chhatri above water level is (approximately) 10 m , then\n(a) draw a well-labelled figure based on the above information; 2\n(b) find the height h of the point A above water level. (Use 3",
@@ -3494,7 +3516,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|d007bd2c34",
+      "id": "Arithmetic Progressions|f302837a73",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "The th 8 term of an A.P. is 17 and its th 14 term is 29 . The common difference of this A.P. is :\n(a) 3\n(b) 2\n(c) 5\n(d) -2",
@@ -3552,7 +3574,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|3281d7077c",
+      "id": "Arithmetic Progressions|1b7e9e0e99",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "(a) Show that (1,2) A , (5,4) B , (3,8) C , and ( 1,6) D - are vertices of a parallelogram ABCD.",
@@ -3643,7 +3665,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|0c1800dff7",
+      "id": "Arithmetic Progressions|77bba590ab",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "If$_{1}$, 1 p p - + and 2 3 p + are in A.P., then the value of p is\n(A) -2\n(B) 4\n(C) 0\n(D)",
@@ -3672,7 +3694,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|506a606aa6",
+      "id": "Arithmetic Progressions|d34461a97f",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "Probability of happening of an event is denoted by p and probability of non- happening of the event is denoted by q . Relation between p and q is\n(A) p",
@@ -3701,7 +3723,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|55ac06a9ba",
+      "id": "Arithmetic Progressions|735b23cf72",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "Assertion (A): Point (0,2) P is the point of intersection of y -axis with the line 2 4 x y + = . 1\nReason (R): The distance of point P(0,2) from x -axis is 2 units.",
@@ -3730,7 +3752,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|6358ef174a",
+      "id": "Arithmetic Progressions|1e854c191e",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "(a) Solve the pair of equations 3 x = and 4 y = - graphically.",
@@ -3762,7 +3784,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|c91e1ff5e4",
+      "id": "Arithmetic Progressions|e96b109cd3",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "The common difference of an A.P. whose nth term is given by a = 5n - 1, is:\n(A) 1\n(B) 6\n(C) 5\n(D)",
@@ -3791,7 +3813,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|c6c1f99b35",
+      "id": "Arithmetic Progressions|bab1f28672",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "(a) Prove that 2 2 2 2 (sin cos c ) (cos sec ) 7 tan cot e $\\theta$ $\\theta$ $\\theta$ $\\theta$ $\\theta$ $\\theta$ + + + = + + . OR\n(b) If cos A = 5 13 , then verify that 1 1 cos A sin A tan A cot A + - - = cos A + sin A.",
@@ -3849,7 +3871,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|1dfaa4ce65",
+      "id": "Arithmetic Progressions|6f9bd7a39c",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "The common difference of an A.P. in which 15 11 a a 48 - = , is\n(A) 12\n(B) 16\n(C) -12\n(D) -16",
@@ -3907,7 +3929,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|68acaaf6ad",
+      "id": "Arithmetic Progressions|b6012469dc",
       "chapter": "Arithmetic Progressions",
       "marks": 1,
       "text": "Which term of the A.P. 29, 26, 23, ..61 - - - \uf0bc is 16?\n(A) th 11\n(B) th 16\n(C) th 10\n(D) * 31 t",
@@ -4139,7 +4161,7 @@
       ]
     },
     {
-      "id": "Arithmetic Progressions|911973f1c4",
+      "id": "Arithmetic Progressions|5848306e3b",
       "chapter": "Arithmetic Progressions",
       "marks": 2,
       "text": "Write the coordinates of a point that lies on the y-axis and is 4 units above the 5 origin.",
@@ -4168,7 +4190,7 @@
       ]
     },
     {
-      "id": "Triangles|fd01e82e68",
+      "id": "Triangles|f2492e82b1",
       "chapter": "Triangles",
       "marks": 2,
       "text": "The points A(4, 7), B(p, 3) and C(7, 3) are the vertices of a right triangle, right-angled at B, Find the values of P.",
@@ -4199,7 +4221,7 @@
       ]
     },
     {
-      "id": "Triangles|9f45221657",
+      "id": "Triangles|1c45a7cd06",
       "chapter": "Triangles",
       "marks": 2,
       "text": "Find the values of k so that the area of the triangle with vertices (1, -1), (-4, 2k) and (-k, -5) is 24 sq. units.",
@@ -4230,7 +4252,7 @@
       ]
     },
     {
-      "id": "Triangles|d058d298ee",
+      "id": "Triangles|15334099b3",
       "chapter": "Triangles",
       "marks": 2,
       "text": "Prove that the points (3, 0), (6, 4) and (-1, 3) are the vertices of a right angled isosceles triangle.",
@@ -4361,7 +4383,7 @@
       ]
     },
     {
-      "id": "Triangles|722d775efe",
+      "id": "Triangles|a8ccceeff2",
       "chapter": "Triangles",
       "marks": 1,
       "text": "Find the type of triangle ABC formed whose vertices are A(1,0),B( 5,0) - and C( 2,5) - .",
@@ -4595,7 +4617,7 @@
       ]
     },
     {
-      "id": "Coordinate Geometry|99b4822751",
+      "id": "Coordinate Geometry|5da5766874",
       "chapter": "Coordinate Geometry",
       "marks": 2,
       "text": "Let P and Q be the points of trisection of the line segment joining the points A(2, -2) and B(-7, 4) such that P is nearer to A. Find the coordinates of P and Q.",
@@ -4626,7 +4648,7 @@
       ]
     },
     {
-      "id": "Coordinate Geometry|ecc63e1460",
+      "id": "Coordinate Geometry|5fd495f43a",
       "chapter": "Coordinate Geometry",
       "marks": 2,
       "text": "A line intersects the y-axis and x-axis at the points P and Q respectively. If (2, -5) is the mid-point of PQ, then find the coordinates of P and Q.",
@@ -4657,7 +4679,7 @@
       ]
     },
     {
-      "id": "Coordinate Geometry|4d0119ff85",
+      "id": "Coordinate Geometry|24971d11cc",
       "chapter": "Coordinate Geometry",
       "marks": 2,
       "text": "Find the ratio in which the segment joining the points (1, \u20133) and (4, 5) is divided by x-axis? Also find the coordinates of this point on x-axis.",
@@ -4674,72 +4696,6 @@
           "year": "2019",
           "question_number": "9",
           "source_file": "Class 10 - 2019.pdf"
-        }
-      ],
-      "common_errors": [
-        "Swapping x and y while applying distance/section formula.",
-        "Sign mistakes in subtraction under the square root.",
-        "Not simplifying the final value."
-      ],
-      "toppers_secrets": [
-        "Write the formula first, then substitute points.",
-        "Keep brackets while subtracting coordinates.",
-        "Box the final answer with units if any."
-      ]
-    },
-    {
-      "id": "Coordinate Geometry|d6ed700f46",
-      "chapter": "Coordinate Geometry",
-      "marks": 3,
-      "text": "Find the point on y-axis which is equidistant from the points (5, \u2013 2) and (\u2013 3, 2). OR The line segment joining the points A(2, 1) and B(5, \u2013 8) is trisected at the points P and Q such that P is nearer to A. If P also lies on the line given by 2x \u2013 $y + k$ = 0, find the value of k.",
-      "solution": "Since the point is on y-axis so,X$^{-}$coordinate is zero Let the point be (0, y) It\u2019s distance from A(5, \u20132) and B(\u2013 3, 2) are equal     \uf05b \uf05d 2 2 2 2 2 2 0 5 2 0 3 2 25 4 4 9 4 4 squaring both sides 4 29 4 13 4 4 13 29 16 8 16 2 8 y y y y y y y y y y y y \u2234 - + + = + + - => + + + = + - + => + =- + => + = - - => =-\u2234= =- Thus, the point is $(0)$, 2 - . OR As line segment AB is trisected by the points P and Q. Therefore, Case I: When AP : PB = 1 : 2. Then, coordinates of P are $(1 \\times 8 \\times 1 \\times 2 \\times 1 \\times 5 \\times 2 \\times 2)$, 1 2 1 2 - + \u2194 \uf0fc + \u2198 \uf0fd + + \u2199 \uf0fe Implies that  P$_{3}$, 2 - Since the point  P$_{3}$, 2 - lies on the line  2 0 2 3 2 0 8 x y k k k - + = => -- + = => =- 10",
-      "solution_steps": [
-        "Since the point is on y-axis so,X$^{-}$coordinate is zero Let the point be (0, y) It\u2019s distance from A(5, \u20132) and B(\u2013 3, 2) are equal     \uf05b \uf05d 2 2 2 2 2 2 0 5 2 0 3 2 25 4 4 9 4 4 squaring both sides 4 29 4 13 4 4 13 29 16 8 16 2 8 y y y y y y y y y y y y \u2234 - + + = + + - => + + + = + - + => + =- + => + = - - => =-\u2234= =- Thus, the point is $(0)$, 2 - . OR As line segment AB is trisected by the points P and Q. Therefore, Case I: When AP : PB = 1 : 2. Then, coordinates of P are $(1 \\times 8 \\times 1 \\times 2 \\times 1 \\times 5 \\times 2 \\times 2)$, 1 2 1 2 - + \u2194 \uf0fc + \u2198 \uf0fd + + \u2199 \uf0fe Implies that  P$_{3}$, 2 - Since the point  P$_{3}$, 2 - lies on the line  2 0 2 3 2 0 8 x y k k k - + = => -- + = => =- 10"
-      ],
-      "frequency": 1,
-      "years": [
-        "2019"
-      ],
-      "occurrences": [
-        {
-          "year": "2019",
-          "question_number": "16",
-          "source_file": "Class 10 - 2019.pdf"
-        }
-      ],
-      "common_errors": [
-        "Swapping x and y while applying distance/section formula.",
-        "Sign mistakes in subtraction under the square root.",
-        "Not simplifying the final value."
-      ],
-      "toppers_secrets": [
-        "Write the formula first, then substitute points.",
-        "Keep brackets while subtracting coordinates.",
-        "Box the final answer with units if any."
-      ]
-    },
-    {
-      "id": "Coordinate Geometry|275bab9f65",
-      "chapter": "Coordinate Geometry",
-      "marks": 2,
-      "text": "Find the ratio in which the Y$^{-}$axis divides the line segment joining the points A(5, \u20136) and B(\u20131, \u20134). Also, find the point of intersection.",
-      "solution": "",
-      "solution_steps": [],
-      "frequency": 2,
-      "years": [
-        "2020",
-        "2024"
-      ],
-      "occurrences": [
-        {
-          "year": "2020",
-          "question_number": "33",
-          "source_file": "Class 10 - 2020.pdf"
-        },
-        {
-          "year": "2024",
-          "question_number": "24",
-          "source_file": "Class 10 - 2024 Basic .pdf"
         }
       ],
       "common_errors": [
@@ -4818,7 +4774,7 @@
       ]
     },
     {
-      "id": "Coordinate Geometry|7115f62258",
+      "id": "Coordinate Geometry|90b2daf523",
       "chapter": "Coordinate Geometry",
       "marks": 3,
       "text": "As observed from the top of a 100 m high lighthouse from the sea-level, the angles of depression of two ships are found to be 30$^\\circ$ and 45$^\\circ$. If one ship is exactly behind the other on the same side of the lighthouse, find the distance between the two ships. Use 3",
@@ -4847,7 +4803,7 @@
       ]
     },
     {
-      "id": "Coordinate Geometry|3394d28b95",
+      "id": "Coordinate Geometry|a55e42b954",
       "chapter": "Coordinate Geometry",
       "marks": 2,
       "text": "The distance between the points A(0,6) and B( 6,2) - is :\n(a) 6 units\n(b) 2 6 units\n(c) 2 13 units\n(d) 13 2 units",
@@ -4881,36 +4837,7 @@
       ]
     },
     {
-      "id": "Coordinate Geometry|237ef088d5",
-      "chapter": "Coordinate Geometry",
-      "marks": 1,
-      "text": "In what ratio, does x -axis divide the line segment joining the points A(3,6) and B( 12, 3) - - ? 1\n(A) 1: B$_{1}$: C$_{4}$: D$_{2}$:",
-      "solution": "",
-      "solution_steps": [],
-      "frequency": 1,
-      "years": [
-        "2023"
-      ],
-      "occurrences": [
-        {
-          "year": "2023",
-          "question_number": "4",
-          "source_file": "Class 10 - 2023.pdf"
-        }
-      ],
-      "common_errors": [
-        "Swapping x and y while applying distance/section formula.",
-        "Sign mistakes in subtraction under the square root.",
-        "Not simplifying the final value."
-      ],
-      "toppers_secrets": [
-        "Write the formula first, then substitute points.",
-        "Keep brackets while subtracting coordinates.",
-        "Box the final answer with units if any."
-      ]
-    },
-    {
-      "id": "Coordinate Geometry|73433dcb62",
+      "id": "Coordinate Geometry|d7a0ed3eb5",
       "chapter": "Coordinate Geometry",
       "marks": 2,
       "text": "If ( 5,3) - and (5,3) are two vertices of an equilateral triangle, then find coordinates of the third vertex, given that origin lies inside the triangle. (Take 3",
@@ -5005,7 +4932,7 @@
       ]
     },
     {
-      "id": "Coordinate Geometry|8f50bbf51b",
+      "id": "Coordinate Geometry|f4db5bbeb0",
       "chapter": "Coordinate Geometry",
       "marks": 2,
       "text": "Assertion (A): The distance of P(a, b) from origin is 2 2 a b + . 1\nReason (R): The distance between two points A( 1 2 , $x^2$ ) and B( 1 2 , y y ) is 2 2 2 1 2 1 $x^2$ y y - + - .",
@@ -5130,7 +5057,7 @@
       ]
     },
     {
-      "id": "Trigonometry|8badfb3469",
+      "id": "Trigonometry|c55aa1de9c",
       "chapter": "Trigonometry",
       "marks": 2,
       "text": "In figure.1, ABCD is a rectangle. Find the values of x and y. A B C D 14cm 30cm $x+y$ x\u2013y Figure 1",
@@ -5214,7 +5141,7 @@
       ]
     },
     {
-      "id": "Trigonometry|e1c207575c",
+      "id": "Trigonometry|aa94c2cf3c",
       "chapter": "Trigonometry",
       "marks": 1,
       "text": "Prove that 3 3 sin 2sin tan . 2cos cos A A A A A - = -",
@@ -5245,7 +5172,7 @@
       ]
     },
     {
-      "id": "Trigonometry|f68eff731b",
+      "id": "Trigonometry|44e17b068b",
       "chapter": "Trigonometry",
       "marks": 2,
       "text": "A motor boat whose speed is 18 km/hr in still water 1 hr more to go 24 km upstream than to return downstream to the same spot. Find the speed of the stream.",
@@ -5287,7 +5214,7 @@
       ]
     },
     {
-      "id": "Trigonometry|44988664e5",
+      "id": "Trigonometry|088d5f3a66",
       "chapter": "Trigonometry",
       "marks": 3,
       "text": "Draw a right triangle ABC is which AB = 6 cm, BC = 8 cm and \u2220B = 90$^\\circ$. Draw BD perpendicular from B on AC and draw a circle passing through the points B, C and D. Construct tangents from A to this circle. CBSE-X$^{-}$2014 EXAMINATION 13 /",
@@ -5713,7 +5640,7 @@
       ]
     },
     {
-      "id": "Trigonometry|ad45523fcf",
+      "id": "Trigonometry|b999d3223c",
       "chapter": "Trigonometry",
       "marks": 1,
       "text": "Prove that: 4 4 2 sin $\\theta$-cos $\\theta$+1 cosec $\\theta$=2",
@@ -5800,7 +5727,7 @@
       ]
     },
     {
-      "id": "Trigonometry|982e1b023a",
+      "id": "Trigonometry|c4e9a8668a",
       "chapter": "Trigonometry",
       "marks": 2,
       "text": "If sin a b $\\theta$= , then sec$\\theta$ is equal to 0 90 $\\theta$ \uf0b0 $\\le$ $\\le$ :\n(a) 2 2 a b a -\n(b) 2 2 b b a -\n(c) 2 2 b a b -\n(d) 2 2 b a a -",
@@ -5829,7 +5756,7 @@
       ]
     },
     {
-      "id": "Trigonometry|460b2d80a5",
+      "id": "Trigonometry|55cafc704e",
       "chapter": "Trigonometry",
       "marks": 2,
       "text": "If$_{3}$ sin 4 $\\theta$= , then 2 2 sec 1 cos sin $\\theta$ $\\theta$ $\\theta$ - equals :\n(a) 3 5\n(b) 3 4\n(c) 4 3\n(d) 9 16",
@@ -5950,7 +5877,7 @@
       ]
     },
     {
-      "id": "Trigonometry|237c26f06a",
+      "id": "Trigonometry|2b984c4744",
       "chapter": "Trigonometry",
       "marks": 1,
       "text": "Prove that 1 (csc sin )(sec cos ) tan cot A A A A A A - - = +",
@@ -5981,7 +5908,7 @@
       ]
     },
     {
-      "id": "Trigonometry|a5ee01d3d4",
+      "id": "Trigonometry|6a4e99f8b1",
       "chapter": "Trigonometry",
       "marks": 1,
       "text": "If 2tan 3A = , then the value of 4sin 3cos 4sin 3cos A A A A + - is\n(A) 7 13\n(B) 1 13\n(C) 3\n(D) does not exist",
@@ -6010,7 +5937,7 @@
       ]
     },
     {
-      "id": "Trigonometry|b1dbe2680c",
+      "id": "Trigonometry|b0c089c5b5",
       "chapter": "Trigonometry",
       "marks": 1,
       "text": "2 2 2 3 tan 30 sec 45 sin 60 4 \uf0b0 \uf0b0 \uf0b0 \uf0e9 \uf0f9 - + \u2197 \uf0fa \u2196 \uf0fb is equal to 1\n(A) -1\n(B) 5 6\n(C) $\\\\frac{-3}{2}$\n(D) 1",
@@ -6039,7 +5966,7 @@
       ]
     },
     {
-      "id": "Trigonometry|2bbcd29b51",
+      "id": "Trigonometry|e3ccc55b44",
       "chapter": "Trigonometry",
       "marks": 1,
       "text": "In a right-angled triangle ABC, \u2220A = 90$^\\circ$ and AB = AC. The value of sin C is:\n(A) 0\n(B) 3 2\n(C) 1 2\n(D) 1 2",
@@ -6097,7 +6024,7 @@
       ]
     },
     {
-      "id": "Trigonometry|efb7aecc62",
+      "id": "Trigonometry|05d19fce72",
       "chapter": "Trigonometry",
       "marks": 1,
       "text": "Evaluate: 2 2 2 2 4sin 60 tan 45 2sec 30 tan 60 -",
@@ -6112,11 +6039,6 @@
           "year": "2024",
           "question_number": "22",
           "source_file": "Class 10 - 2024 Basic .pdf"
-        },
-        {
-          "year": "2024",
-          "question_number": "23",
-          "source_file": "Class 10 - 2024.pdf"
         }
       ],
       "common_errors": [
@@ -6145,6 +6067,35 @@
         {
           "year": "2024",
           "question_number": "19",
+          "source_file": "Class 10 - 2024.pdf"
+        }
+      ],
+      "common_errors": [
+        "Using wrong trigonometric ratio for an angle.",
+        "Forgetting to simplify expressions properly.",
+        "Skipping diagram/labels for heights and distances."
+      ],
+      "toppers_secrets": [
+        "Draw the triangle/diagram and label sides relative to the angle.",
+        "Use standard values table where needed.",
+        "Simplify step-by-step; avoid skipping algebra."
+      ]
+    },
+    {
+      "id": "Trigonometry|ff0adcf44f",
+      "chapter": "Trigonometry",
+      "marks": 1,
+      "text": "(a) Evaluate: 2 2 2sin 30 sec60 tan 60 \uf0b0 \uf0b0 \uf0b0 + .",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2024"
+      ],
+      "occurrences": [
+        {
+          "year": "2024",
+          "question_number": "23",
           "source_file": "Class 10 - 2024.pdf"
         }
       ],
@@ -6397,7 +6348,7 @@
       ]
     },
     {
-      "id": "Circles|7abce09979",
+      "id": "Circles|d725b72981",
       "chapter": "Circles",
       "marks": 1,
       "text": "In Fig. 1, QR is a common tangent to the given circles, touching externally at the point T. The tangent at T meets QR at P. If PT = 3.8 cm, then the length of QR (in cm) is: CBSE-X$^{-}$2014 EXAMINATION $\\\\frac{2}{29}$\n(A) 3.8\n(B) 7.6\n(C) 5.7\n(D) 1.9",
@@ -6428,7 +6379,7 @@
       ]
     },
     {
-      "id": "Circles|1ffd9c5d55",
+      "id": "Circles|49c7317dc7",
       "chapter": "Circles",
       "marks": 1,
       "text": "In Fig. 2, PQ and PR are two tangents to a circle with centre O. If \u2220QPR = 46$^\\circ$ , then \u2220QOR equals: CBSE-X$^{-}$2014 EXAMINATION $\\\\frac{3}{29}$\n(A) 67$^\\circ$\n(B) 134$^\\circ$\n(C) 44$^\\circ$\n(D) 46$^\\circ$",
@@ -6760,7 +6711,7 @@
       ]
     },
     {
-      "id": "Circles|62376ca8a2",
+      "id": "Circles|1ad3471b72",
       "chapter": "Circles",
       "marks": 2,
       "text": "In the following figure, two tangents RQ and RP are drawn from an external point R to the circle with centre O, If \u2220PRQ = 120\u02da, then prove that OR = PR + RQ. CBSE-X$^{-}$2015 EXAMINATION 4 /",
@@ -6915,7 +6866,7 @@
       ]
     },
     {
-      "id": "Circles|9a5253085f",
+      "id": "Circles|af93ace097",
       "chapter": "Circles",
       "marks": 2,
       "text": "Prove that the tangent drawn at the mid-point of an arc of a circle is parallel to the chord joining the end points of the arc.",
@@ -6977,27 +6928,23 @@
       ]
     },
     {
-      "id": "Circles|6f63d1da9e",
+      "id": "Circles|eaf0e85d95",
       "chapter": "Circles",
-      "marks": 2,
-      "text": "In Figure-5, a quadrilateral ABCD is drawn to circumscribe a circle. Prove that AB+CD=BC+AD.",
-      "solution": "",
-      "solution_steps": [],
-      "frequency": 2,
+      "marks": 3,
+      "text": "In figure, a quadrilateral ABCD is drawn to circumscribe a circle, with centre O, in such a way that the sides AB, BC, CD and DA touch the circle at the points P, Q, R and S respectively. Prove that AB + CD = BC + DA. 4 /",
+      "solution": "Since tangents drawn from an exterior point to a circle are equal in length, AP = AS \u2026.(1) BP = BQ \u2026.(2) CR = CQ \u2026.(3) DR = DS \u2026.(4) Adding equations (1), (2), (3) and (4), we get AP + BP + CR + DS = AS + BQ + CQ + DS \u2234 (AP + BP) + (CR + DR) = (AS + DS) + (BQ + CQ) \u2234 AB + CD = AD + BC \u2234 AB + CD = BC + DA \u2026..(proved) Marks: 2",
+      "solution_steps": [
+        "Since tangents drawn from an exterior point to a circle are equal in length, AP = AS \u2026.(1) BP = BQ \u2026.(2) CR = CQ \u2026.(3) DR = DS \u2026.(4) Adding equations (1), (2), (3) and (4), we get AP + BP + CR + DS = AS + BQ + CQ + DS \u2234 (AP + BP) + (CR + DR) = (AS + DS) + (BQ + CQ) \u2234 AB + CD = AD + BC \u2234 AB + CD = BC + DA \u2026..(proved) Marks: 2"
+      ],
+      "frequency": 1,
       "years": [
-        "2016",
-        "2020"
+        "2016"
       ],
       "occurrences": [
         {
           "year": "2016",
           "question_number": "7",
           "source_file": "Class 10 - 2016.pdf"
-        },
-        {
-          "year": "2020",
-          "question_number": "22",
-          "source_file": "Class 10 - 2020.pdf"
         }
       ],
       "common_errors": [
@@ -7415,7 +7362,7 @@
       ]
     },
     {
-      "id": "Circles|8c608784ac",
+      "id": "Circles|edb8bc89ec",
       "chapter": "Circles",
       "marks": 2,
       "text": "In the given figure, ABCD is a rectangle of dimensions 21 cm 14 cm. A semicircle is drawn with BC as diameter. Find the area and the perimeter of the shaded region in the figure. CBSE-X$^{-}$2017 EXAMINATION 22 /",
@@ -7446,7 +7393,7 @@
       ]
     },
     {
-      "id": "Circles|539d28155a",
+      "id": "Circles|556b53f9d0",
       "chapter": "Circles",
       "marks": 3,
       "text": "In a rain-water harvesting system, the rain-water from a roof of 22 m 20 m drains into a cylindrical tank having diameter of base 2 m and height 3\u00b75 m. If the tank is full, find the rainfall in cm. Write your views on water conservation.",
@@ -7568,7 +7515,7 @@
       ]
     },
     {
-      "id": "Circles|8cbbc670ad",
+      "id": "Circles|0e27fe1feb",
       "chapter": "Circles",
       "marks": 1,
       "text": "In Figure-3, PQ is tangent to the circle with centre at O, at the point B. Class X Mathematics 10If \u2220 o AOB=100 , then \u2220ABP is equal to\n(A) 50o\n(B) 40o\n(C) 60o\n(D) 80o",
@@ -7611,6 +7558,35 @@
         {
           "year": "2020",
           "question_number": "13",
+          "source_file": "Class 10 - 2020.pdf"
+        }
+      ],
+      "common_errors": [
+        "Not using the tangent-radius perpendicular property correctly.",
+        "Skipping theorem names in proofs.",
+        "Wrong angle assumptions for chord/tangent results."
+      ],
+      "toppers_secrets": [
+        "Write the theorem line explicitly before applying.",
+        "Draw a clean figure and mark equal angles/lengths.",
+        "Keep proofs concise: statement, reason, conclusion."
+      ]
+    },
+    {
+      "id": "Circles|4ac8ef6d56",
+      "chapter": "Circles",
+      "marks": 2,
+      "text": "In Figure-5, a quadrilateral ABCD is drawn to circumscribe a circle. Prove that AB+CD=BC+AD.",
+      "solution": "",
+      "solution_steps": [],
+      "frequency": 1,
+      "years": [
+        "2020"
+      ],
+      "occurrences": [
+        {
+          "year": "2020",
+          "question_number": "22",
           "source_file": "Class 10 - 2020.pdf"
         }
       ],
@@ -8010,7 +7986,7 @@
       ]
     },
     {
-      "id": "Circles|f79aeeeeda",
+      "id": "Circles|d0d362effc",
       "chapter": "Circles",
       "marks": 3,
       "text": "(a) A room is in the form of a cylinder surmounted by a hemispherical dome. The base radius of the hemisphere is one-half the height of the cylindrical part. Find the total height of the room if it contains 3 1408 m 21 of air. 22 7 Take$\\pi$= 3",
@@ -8217,7 +8193,7 @@
       ]
     },
     {
-      "id": "Circles|3bc67b4835",
+      "id": "Circles|d2e73f5165",
       "chapter": "Circles",
       "marks": 2,
       "text": "(a) If Q(0, 2) is equidistant from P(5, \u20133) and R(x, 7), find the value(s) of x. OR\n(b) If A(1, 1) and B(7, 9) are the end points of a diameter of a circle, then find the co- ordinates of the centre of the circle.",
@@ -8575,7 +8551,7 @@
       ]
     },
     {
-      "id": "Areas Related to Circles|f117181f55",
+      "id": "Areas Related to Circles|efa44740e9",
       "chapter": "Areas Related to Circles",
       "marks": 2,
       "text": "Find the area of the shaded region in Fig. 3, where arcs drawn with centres A, B, C and D intersect in pairs at mid-points P, Q, R and S of the sides AB, BC, CD and DA respectively of a square of side 12 cm, [Use",
@@ -8751,7 +8727,7 @@
       ]
     },
     {
-      "id": "Statistics|cc0b1d28cf",
+      "id": "Statistics|1794426583",
       "chapter": "Statistics",
       "marks": 3,
       "text": "The table below shown the salaries of 280 persons: Salary(In thousand ) No.of Person 5 10 49 10 15 133 15 20 63 20 25 15 25 30 6 30 35 7 35 40 4 40 45 2 45 50 1 - - - - - - - - - \u03a9 Calculate the median salary of the data.",
@@ -8783,7 +8759,7 @@
       ]
     },
     {
-      "id": "Statistics|94d34b38f3",
+      "id": "Statistics|a34d70e685",
       "chapter": "Statistics",
       "marks": 2,
       "text": "The mean of the following distribution is 18. Find the frequency f of the class 19-21. Class 11-13 13-15 15-17 17-19 19-21 21-23 23-25 Frequency 3 6 9 13 5 4 f",
@@ -8851,7 +8827,7 @@
       ]
     },
     {
-      "id": "Statistics|5e61cb3b1d",
+      "id": "Statistics|e525c65546",
       "chapter": "Statistics",
       "marks": 2,
       "text": "Find the mode of the following distribution: Marks: 0-12 10-20 20-30 30-40 40-50 50-60 Number of students 4 6 7 12 5 6",
@@ -8967,7 +8943,7 @@
       ]
     },
     {
-      "id": "Statistics|a61475247b",
+      "id": "Statistics|1c7802fd94",
       "chapter": "Statistics",
       "marks": 1,
       "text": "The median class for the data given below is. 1\n(a) 80-100 b 20-40 c 40-60 d 60-80",
@@ -9588,7 +9564,7 @@
       ]
     },
     {
-      "id": "Probability|893227fa6c",
+      "id": "Probability|b66409d442",
       "chapter": "Probability",
       "marks": 3,
       "text": "A card is drawn at random from a well-shuffled deck of playing cards. Find the probability that the card drawn is i. a card of spade or an ace. ii. a black king. iii. neither a jack nor a king iv. either a king or a queen.",

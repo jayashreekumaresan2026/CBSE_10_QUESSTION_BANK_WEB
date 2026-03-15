@@ -1,6 +1,4 @@
 name = "10th-cbse-question-bank"
 compatibility_date = "2024-03-15"
 pages_build_output_dir = "web"
-
-[env]
-# Optional: environment variables
+# No 'main' field here, this is for Cloudflare Pages (Static)
